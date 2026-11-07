@@ -1,0 +1,4502 @@
+[
+  {
+    "assignment_id": "ZLA-2026-000001",
+    "lot_id": "LOT-2026-000001",
+    "zone_id": "ZONE-WH-001-006",
+    "entered_at": "2026-09-29T02:30:00Z",
+    "exited_at": "2026-10-04T04:00:00Z",
+    "dwell_hours": 121.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000002",
+    "lot_id": "LOT-2026-000002",
+    "zone_id": "ZONE-WH-002-001",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-05T06:00:00Z",
+    "dwell_hours": 159.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000003",
+    "lot_id": "LOT-2026-000003",
+    "zone_id": "ZONE-WH-002-007",
+    "entered_at": "2026-09-29T05:30:00Z",
+    "exited_at": "2026-10-05T13:00:00Z",
+    "dwell_hours": 151.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000004",
+    "lot_id": "LOT-2026-000004",
+    "zone_id": "ZONE-WH-003-002",
+    "entered_at": "2026-09-28T18:30:00Z",
+    "exited_at": "2026-10-05T17:00:00Z",
+    "dwell_hours": 166.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000005",
+    "lot_id": "LOT-2026-000005",
+    "zone_id": "ZONE-WH-003-008",
+    "entered_at": "2026-09-28T08:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 118.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000006",
+    "lot_id": "LOT-2026-000006",
+    "zone_id": "ZONE-WH-004-004",
+    "entered_at": "2026-09-30T03:30:00Z",
+    "exited_at": "2026-10-02T23:00:00Z",
+    "dwell_hours": 67.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000007",
+    "lot_id": "LOT-2026-000007",
+    "zone_id": "ZONE-WH-004-006",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-04T00:00:00Z",
+    "dwell_hours": 91.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000008",
+    "lot_id": "LOT-2026-000008",
+    "zone_id": "ZONE-WH-005-001",
+    "entered_at": "2026-09-28T10:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 99.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000009",
+    "lot_id": "LOT-2026-000009",
+    "zone_id": "ZONE-WH-005-007",
+    "entered_at": "2026-09-29T20:30:00Z",
+    "exited_at": "2026-10-04T12:00:00Z",
+    "dwell_hours": 111.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000010",
+    "lot_id": "LOT-2026-000010",
+    "zone_id": "ZONE-WH-006-002",
+    "entered_at": "2026-09-28T15:30:00Z",
+    "exited_at": "2026-10-05T03:00:00Z",
+    "dwell_hours": 155.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000011",
+    "lot_id": "LOT-2026-000011",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-29T19:30:00Z",
+    "exited_at": "2026-10-03T09:00:00Z",
+    "dwell_hours": 85.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000012",
+    "lot_id": "LOT-2026-000012",
+    "zone_id": "ZONE-WH-007-004",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-03T06:00:00Z",
+    "dwell_hours": 118.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000013",
+    "lot_id": "LOT-2026-000013",
+    "zone_id": "ZONE-WH-007-006",
+    "entered_at": "2026-09-29T18:30:00Z",
+    "exited_at": "2026-10-05T16:00:00Z",
+    "dwell_hours": 141.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000014",
+    "lot_id": "LOT-2026-000014",
+    "zone_id": "ZONE-WH-008-001",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-03T12:00:00Z",
+    "dwell_hours": 111.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000015",
+    "lot_id": "LOT-2026-000015",
+    "zone_id": "ZONE-WH-002-010",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-05T09:00:00Z",
+    "dwell_hours": 167.5,
+    "is_zone_compatible": false
+  },
+  {
+    "assignment_id": "ZLA-2026-000016",
+    "lot_id": "LOT-2026-000016",
+    "zone_id": "ZONE-WH-009-002",
+    "entered_at": "2026-09-28T02:30:00Z",
+    "exited_at": "2026-10-05T11:00:00Z",
+    "dwell_hours": 176.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000017",
+    "lot_id": "LOT-2026-000017",
+    "zone_id": "ZONE-WH-009-008",
+    "entered_at": "2026-09-29T11:30:00Z",
+    "exited_at": "2026-10-04T08:00:00Z",
+    "dwell_hours": 116.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000018",
+    "lot_id": "LOT-2026-000018",
+    "zone_id": "ZONE-WH-010-004",
+    "entered_at": "2026-09-28T17:30:00Z",
+    "exited_at": "2026-10-05T21:00:00Z",
+    "dwell_hours": 171.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000019",
+    "lot_id": "LOT-2026-000019",
+    "zone_id": "ZONE-WH-010-006",
+    "entered_at": "2026-09-29T08:30:00Z",
+    "exited_at": "2026-10-05T23:00:00Z",
+    "dwell_hours": 158.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000020",
+    "lot_id": "LOT-2026-000020",
+    "zone_id": "ZONE-WH-001-001",
+    "entered_at": "2026-09-28T03:30:00Z",
+    "exited_at": "2026-10-03T13:00:00Z",
+    "dwell_hours": 129.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000021",
+    "lot_id": "LOT-2026-000021",
+    "zone_id": "ZONE-WH-001-007",
+    "entered_at": "2026-09-28T19:30:00Z",
+    "exited_at": "2026-10-03T14:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000022",
+    "lot_id": "LOT-2026-000022",
+    "zone_id": "ZONE-WH-002-002",
+    "entered_at": "2026-09-30T00:30:00Z",
+    "exited_at": "2026-10-04T19:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000023",
+    "lot_id": "LOT-2026-000023",
+    "zone_id": "ZONE-WH-002-008",
+    "entered_at": "2026-09-29T20:30:00Z",
+    "exited_at": "2026-10-05T10:00:00Z",
+    "dwell_hours": 133.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000024",
+    "lot_id": "LOT-2026-000024",
+    "zone_id": "ZONE-WH-003-004",
+    "entered_at": "2026-09-28T21:30:00Z",
+    "exited_at": "2026-10-03T02:00:00Z",
+    "dwell_hours": 100.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000025",
+    "lot_id": "LOT-2026-000025",
+    "zone_id": "ZONE-WH-003-006",
+    "entered_at": "2026-09-29T03:30:00Z",
+    "exited_at": "2026-10-04T19:00:00Z",
+    "dwell_hours": 135.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000026",
+    "lot_id": "LOT-2026-000026",
+    "zone_id": "ZONE-WH-004-001",
+    "entered_at": "2026-09-30T06:30:00Z",
+    "exited_at": "2026-10-04T03:00:00Z",
+    "dwell_hours": 92.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000027",
+    "lot_id": "LOT-2026-000027",
+    "zone_id": "ZONE-WH-004-007",
+    "entered_at": "2026-09-28T16:30:00Z",
+    "exited_at": "2026-10-04T18:00:00Z",
+    "dwell_hours": 145.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000028",
+    "lot_id": "LOT-2026-000028",
+    "zone_id": "ZONE-WH-005-002",
+    "entered_at": "2026-09-28T04:30:00Z",
+    "exited_at": "2026-10-05T15:00:00Z",
+    "dwell_hours": 178.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000029",
+    "lot_id": "LOT-2026-000029",
+    "zone_id": "ZONE-WH-005-008",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-05T13:00:00Z",
+    "dwell_hours": 127.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000030",
+    "lot_id": "LOT-2026-000030",
+    "zone_id": "ZONE-WH-006-004",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-02T08:00:00Z",
+    "dwell_hours": 81.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000031",
+    "lot_id": "LOT-2026-000031",
+    "zone_id": "ZONE-WH-006-006",
+    "entered_at": "2026-09-28T19:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 90.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000032",
+    "lot_id": "LOT-2026-000032",
+    "zone_id": "ZONE-WH-007-001",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-02T15:00:00Z",
+    "dwell_hours": 72.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000033",
+    "lot_id": "LOT-2026-000033",
+    "zone_id": "ZONE-WH-007-007",
+    "entered_at": "2026-09-28T12:30:00Z",
+    "exited_at": "2026-10-03T16:00:00Z",
+    "dwell_hours": 123.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000034",
+    "lot_id": "LOT-2026-000034",
+    "zone_id": "ZONE-WH-008-002",
+    "entered_at": "2026-09-29T21:30:00Z",
+    "exited_at": "2026-10-02T16:00:00Z",
+    "dwell_hours": 66.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000035",
+    "lot_id": "LOT-2026-000035",
+    "zone_id": "ZONE-WH-008-008",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-03T16:00:00Z",
+    "dwell_hours": 121.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000036",
+    "lot_id": "LOT-2026-000036",
+    "zone_id": "ZONE-WH-009-004",
+    "entered_at": "2026-09-28T02:30:00Z",
+    "exited_at": "2026-10-05T17:00:00Z",
+    "dwell_hours": 182.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000037",
+    "lot_id": "LOT-2026-000037",
+    "zone_id": "ZONE-WH-009-006",
+    "entered_at": "2026-09-29T11:30:00Z",
+    "exited_at": "2026-10-05T17:00:00Z",
+    "dwell_hours": 149.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000038",
+    "lot_id": "LOT-2026-000038",
+    "zone_id": "ZONE-WH-010-001",
+    "entered_at": "2026-09-30T03:30:00Z",
+    "exited_at": "2026-10-03T15:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000039",
+    "lot_id": "LOT-2026-000039",
+    "zone_id": "ZONE-WH-010-007",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-03T15:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000040",
+    "lot_id": "LOT-2026-000040",
+    "zone_id": "ZONE-WH-001-002",
+    "entered_at": "2026-09-29T06:30:00Z",
+    "exited_at": "2026-10-05T06:00:00Z",
+    "dwell_hours": 143.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000041",
+    "lot_id": "LOT-2026-000041",
+    "zone_id": "ZONE-WH-001-008",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-02T20:00:00Z",
+    "dwell_hours": 101.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000042",
+    "lot_id": "LOT-2026-000042",
+    "zone_id": "ZONE-WH-002-004",
+    "entered_at": "2026-09-29T10:30:00Z",
+    "exited_at": "2026-10-05T20:00:00Z",
+    "dwell_hours": 153.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000043",
+    "lot_id": "LOT-2026-000043",
+    "zone_id": "ZONE-WH-002-006",
+    "entered_at": "2026-09-28T00:30:00Z",
+    "exited_at": "2026-10-03T04:00:00Z",
+    "dwell_hours": 123.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000044",
+    "lot_id": "LOT-2026-000044",
+    "zone_id": "ZONE-WH-003-001",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-05T23:00:00Z",
+    "dwell_hours": 152.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000045",
+    "lot_id": "LOT-2026-000045",
+    "zone_id": "ZONE-WH-003-007",
+    "entered_at": "2026-09-30T06:30:00Z",
+    "exited_at": "2026-10-05T13:00:00Z",
+    "dwell_hours": 126.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000046",
+    "lot_id": "LOT-2026-000046",
+    "zone_id": "ZONE-WH-004-002",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-05T01:00:00Z",
+    "dwell_hours": 116.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000047",
+    "lot_id": "LOT-2026-000047",
+    "zone_id": "ZONE-WH-004-008",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-02T03:00:00Z",
+    "dwell_hours": 89.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000048",
+    "lot_id": "LOT-2026-000048",
+    "zone_id": "ZONE-WH-005-004",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-02T17:00:00Z",
+    "dwell_hours": 53.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000049",
+    "lot_id": "LOT-2026-000049",
+    "zone_id": "ZONE-WH-005-006",
+    "entered_at": "2026-09-30T01:30:00Z",
+    "exited_at": "2026-10-04T15:00:00Z",
+    "dwell_hours": 109.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000050",
+    "lot_id": "LOT-2026-000050",
+    "zone_id": "ZONE-WH-006-001",
+    "entered_at": "2026-09-28T21:30:00Z",
+    "exited_at": "2026-10-03T13:00:00Z",
+    "dwell_hours": 111.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000051",
+    "lot_id": "LOT-2026-000051",
+    "zone_id": "ZONE-WH-006-007",
+    "entered_at": "2026-09-28T17:30:00Z",
+    "exited_at": "2026-10-05T05:00:00Z",
+    "dwell_hours": 155.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000052",
+    "lot_id": "LOT-2026-000052",
+    "zone_id": "ZONE-WH-007-002",
+    "entered_at": "2026-09-29T07:30:00Z",
+    "exited_at": "2026-10-04T20:00:00Z",
+    "dwell_hours": 132.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000053",
+    "lot_id": "LOT-2026-000053",
+    "zone_id": "ZONE-WH-007-008",
+    "entered_at": "2026-09-28T12:30:00Z",
+    "exited_at": "2026-10-04T06:00:00Z",
+    "dwell_hours": 137.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000054",
+    "lot_id": "LOT-2026-000054",
+    "zone_id": "ZONE-WH-008-004",
+    "entered_at": "2026-09-28T18:30:00Z",
+    "exited_at": "2026-10-04T09:00:00Z",
+    "dwell_hours": 134.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000055",
+    "lot_id": "LOT-2026-000055",
+    "zone_id": "ZONE-WH-008-006",
+    "entered_at": "2026-09-28T01:30:00Z",
+    "exited_at": "2026-10-03T03:00:00Z",
+    "dwell_hours": 121.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000056",
+    "lot_id": "LOT-2026-000056",
+    "zone_id": "ZONE-WH-009-001",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-03T09:00:00Z",
+    "dwell_hours": 76.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000057",
+    "lot_id": "LOT-2026-000057",
+    "zone_id": "ZONE-WH-009-007",
+    "entered_at": "2026-09-29T20:30:00Z",
+    "exited_at": "2026-10-05T05:00:00Z",
+    "dwell_hours": 128.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000058",
+    "lot_id": "LOT-2026-000058",
+    "zone_id": "ZONE-WH-010-002",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-04T10:00:00Z",
+    "dwell_hours": 97.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000059",
+    "lot_id": "LOT-2026-000059",
+    "zone_id": "ZONE-WH-010-008",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-02T11:00:00Z",
+    "dwell_hours": 60.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000060",
+    "lot_id": "LOT-2026-000060",
+    "zone_id": "ZONE-WH-001-004",
+    "entered_at": "2026-09-30T06:30:00Z",
+    "exited_at": "2026-10-02T07:00:00Z",
+    "dwell_hours": 48.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000061",
+    "lot_id": "LOT-2026-000061",
+    "zone_id": "ZONE-WH-001-006",
+    "entered_at": "2026-09-30T03:30:00Z",
+    "exited_at": "2026-10-02T16:00:00Z",
+    "dwell_hours": 60.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000062",
+    "lot_id": "LOT-2026-000062",
+    "zone_id": "ZONE-WH-002-001",
+    "entered_at": "2026-09-29T16:30:00Z",
+    "exited_at": "2026-10-04T15:00:00Z",
+    "dwell_hours": 118.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000063",
+    "lot_id": "LOT-2026-000063",
+    "zone_id": "ZONE-WH-002-007",
+    "entered_at": "2026-09-29T05:30:00Z",
+    "exited_at": "2026-10-05T03:00:00Z",
+    "dwell_hours": 141.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000064",
+    "lot_id": "LOT-2026-000064",
+    "zone_id": "ZONE-WH-003-002",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-02T05:00:00Z",
+    "dwell_hours": 45.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000065",
+    "lot_id": "LOT-2026-000065",
+    "zone_id": "ZONE-WH-001-009",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-04T09:00:00Z",
+    "dwell_hours": 97.5,
+    "is_zone_compatible": false
+  },
+  {
+    "assignment_id": "ZLA-2026-000066",
+    "lot_id": "LOT-2026-000066",
+    "zone_id": "ZONE-WH-004-004",
+    "entered_at": "2026-09-28T02:30:00Z",
+    "exited_at": "2026-10-04T19:00:00Z",
+    "dwell_hours": 160.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000067",
+    "lot_id": "LOT-2026-000067",
+    "zone_id": "ZONE-WH-004-006",
+    "entered_at": "2026-09-28T06:30:00Z",
+    "exited_at": "2026-10-06T00:00:00Z",
+    "dwell_hours": 185.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000068",
+    "lot_id": "LOT-2026-000068",
+    "zone_id": "ZONE-WH-005-001",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-02T23:00:00Z",
+    "dwell_hours": 95.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000069",
+    "lot_id": "LOT-2026-000069",
+    "zone_id": "ZONE-WH-005-007",
+    "entered_at": "2026-09-30T12:30:00Z",
+    "exited_at": "2026-10-04T06:00:00Z",
+    "dwell_hours": 89.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000070",
+    "lot_id": "LOT-2026-000070",
+    "zone_id": "ZONE-WH-006-002",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-05T21:00:00Z",
+    "dwell_hours": 132.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000071",
+    "lot_id": "LOT-2026-000071",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-30T00:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000072",
+    "lot_id": "LOT-2026-000072",
+    "zone_id": "ZONE-WH-007-004",
+    "entered_at": "2026-09-29T03:30:00Z",
+    "exited_at": "2026-10-02T15:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000073",
+    "lot_id": "LOT-2026-000073",
+    "zone_id": "ZONE-WH-007-006",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-02T12:00:00Z",
+    "dwell_hours": 61.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000074",
+    "lot_id": "LOT-2026-000074",
+    "zone_id": "ZONE-WH-008-001",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-05T02:00:00Z",
+    "dwell_hours": 160.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000075",
+    "lot_id": "LOT-2026-000075",
+    "zone_id": "ZONE-WH-008-007",
+    "entered_at": "2026-09-28T03:30:00Z",
+    "exited_at": "2026-10-02T23:00:00Z",
+    "dwell_hours": 115.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000076",
+    "lot_id": "LOT-2026-000076",
+    "zone_id": "ZONE-WH-009-002",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-03T02:00:00Z",
+    "dwell_hours": 64.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000077",
+    "lot_id": "LOT-2026-000077",
+    "zone_id": "ZONE-WH-009-008",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-05T02:00:00Z",
+    "dwell_hours": 112.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000078",
+    "lot_id": "LOT-2026-000078",
+    "zone_id": "ZONE-WH-010-004",
+    "entered_at": "2026-09-28T08:30:00Z",
+    "exited_at": "2026-10-02T05:00:00Z",
+    "dwell_hours": 92.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000079",
+    "lot_id": "LOT-2026-000079",
+    "zone_id": "ZONE-WH-010-006",
+    "entered_at": "2026-09-29T17:30:00Z",
+    "exited_at": "2026-10-03T20:00:00Z",
+    "dwell_hours": 98.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000080",
+    "lot_id": "LOT-2026-000080",
+    "zone_id": "ZONE-WH-001-001",
+    "entered_at": "2026-09-29T18:30:00Z",
+    "exited_at": "2026-10-05T01:00:00Z",
+    "dwell_hours": 126.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000081",
+    "lot_id": "LOT-2026-000081",
+    "zone_id": "ZONE-WH-001-007",
+    "entered_at": "2026-09-29T12:30:00Z",
+    "exited_at": "2026-10-05T13:00:00Z",
+    "dwell_hours": 144.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000082",
+    "lot_id": "LOT-2026-000082",
+    "zone_id": "ZONE-WH-002-002",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-04T09:00:00Z",
+    "dwell_hours": 119.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000083",
+    "lot_id": "LOT-2026-000083",
+    "zone_id": "ZONE-WH-002-008",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-02T11:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000084",
+    "lot_id": "LOT-2026-000084",
+    "zone_id": "ZONE-WH-003-004",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-04T23:00:00Z",
+    "dwell_hours": 128.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000085",
+    "lot_id": "LOT-2026-000085",
+    "zone_id": "ZONE-WH-003-006",
+    "entered_at": "2026-09-29T12:30:00Z",
+    "exited_at": "2026-10-05T08:00:00Z",
+    "dwell_hours": 139.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000086",
+    "lot_id": "LOT-2026-000086",
+    "zone_id": "ZONE-WH-004-001",
+    "entered_at": "2026-09-28T03:30:00Z",
+    "exited_at": "2026-10-03T00:00:00Z",
+    "dwell_hours": 116.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000087",
+    "lot_id": "LOT-2026-000087",
+    "zone_id": "ZONE-WH-004-007",
+    "entered_at": "2026-09-30T02:30:00Z",
+    "exited_at": "2026-10-05T18:00:00Z",
+    "dwell_hours": 135.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000088",
+    "lot_id": "LOT-2026-000088",
+    "zone_id": "ZONE-WH-005-002",
+    "entered_at": "2026-09-28T11:30:00Z",
+    "exited_at": "2026-10-03T03:00:00Z",
+    "dwell_hours": 111.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000089",
+    "lot_id": "LOT-2026-000089",
+    "zone_id": "ZONE-WH-005-008",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-02T03:00:00Z",
+    "dwell_hours": 84.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000090",
+    "lot_id": "LOT-2026-000090",
+    "zone_id": "ZONE-WH-006-004",
+    "entered_at": "2026-09-28T11:30:00Z",
+    "exited_at": "2026-10-04T04:00:00Z",
+    "dwell_hours": 136.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000091",
+    "lot_id": "LOT-2026-000091",
+    "zone_id": "ZONE-WH-006-006",
+    "entered_at": "2026-09-28T00:30:00Z",
+    "exited_at": "2026-10-04T08:00:00Z",
+    "dwell_hours": 151.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000092",
+    "lot_id": "LOT-2026-000092",
+    "zone_id": "ZONE-WH-007-001",
+    "entered_at": "2026-09-29T11:30:00Z",
+    "exited_at": "2026-10-02T18:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000093",
+    "lot_id": "LOT-2026-000093",
+    "zone_id": "ZONE-WH-007-007",
+    "entered_at": "2026-09-28T18:30:00Z",
+    "exited_at": "2026-10-05T05:00:00Z",
+    "dwell_hours": 154.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000094",
+    "lot_id": "LOT-2026-000094",
+    "zone_id": "ZONE-WH-008-002",
+    "entered_at": "2026-09-28T04:30:00Z",
+    "exited_at": "2026-10-03T15:00:00Z",
+    "dwell_hours": 130.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000095",
+    "lot_id": "LOT-2026-000095",
+    "zone_id": "ZONE-WH-008-008",
+    "entered_at": "2026-09-30T06:30:00Z",
+    "exited_at": "2026-10-03T05:00:00Z",
+    "dwell_hours": 70.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000096",
+    "lot_id": "LOT-2026-000096",
+    "zone_id": "ZONE-WH-009-004",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-02T20:00:00Z",
+    "dwell_hours": 58.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000097",
+    "lot_id": "LOT-2026-000097",
+    "zone_id": "ZONE-WH-009-006",
+    "entered_at": "2026-09-30T10:30:00Z",
+    "exited_at": "2026-10-04T18:00:00Z",
+    "dwell_hours": 103.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000098",
+    "lot_id": "LOT-2026-000098",
+    "zone_id": "ZONE-WH-010-001",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-02T15:00:00Z",
+    "dwell_hours": 77.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000099",
+    "lot_id": "LOT-2026-000099",
+    "zone_id": "ZONE-WH-010-007",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-02T00:00:00Z",
+    "dwell_hours": 75.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000100",
+    "lot_id": "LOT-2026-000100",
+    "zone_id": "ZONE-WH-001-002",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-05T09:00:00Z",
+    "dwell_hours": 169.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000101",
+    "lot_id": "LOT-2026-000101",
+    "zone_id": "ZONE-WH-001-008",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-03T09:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000102",
+    "lot_id": "LOT-2026-000102",
+    "zone_id": "ZONE-WH-002-004",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-03T23:00:00Z",
+    "dwell_hours": 89.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000103",
+    "lot_id": "LOT-2026-000103",
+    "zone_id": "ZONE-WH-002-006",
+    "entered_at": "2026-09-29T19:30:00Z",
+    "exited_at": "2026-10-02T05:00:00Z",
+    "dwell_hours": 57.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000104",
+    "lot_id": "LOT-2026-000104",
+    "zone_id": "ZONE-WH-003-001",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-03T05:00:00Z",
+    "dwell_hours": 72.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000105",
+    "lot_id": "LOT-2026-000105",
+    "zone_id": "ZONE-WH-003-007",
+    "entered_at": "2026-09-29T03:30:00Z",
+    "exited_at": "2026-10-02T06:00:00Z",
+    "dwell_hours": 74.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000106",
+    "lot_id": "LOT-2026-000106",
+    "zone_id": "ZONE-WH-004-002",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-05T16:00:00Z",
+    "dwell_hours": 144.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000107",
+    "lot_id": "LOT-2026-000107",
+    "zone_id": "ZONE-WH-004-008",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-03T22:00:00Z",
+    "dwell_hours": 82.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000108",
+    "lot_id": "LOT-2026-000108",
+    "zone_id": "ZONE-WH-005-004",
+    "entered_at": "2026-09-29T01:30:00Z",
+    "exited_at": "2026-10-04T23:00:00Z",
+    "dwell_hours": 141.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000109",
+    "lot_id": "LOT-2026-000109",
+    "zone_id": "ZONE-WH-005-006",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-05T04:00:00Z",
+    "dwell_hours": 164.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000110",
+    "lot_id": "LOT-2026-000110",
+    "zone_id": "ZONE-WH-006-001",
+    "entered_at": "2026-09-29T02:30:00Z",
+    "exited_at": "2026-10-03T21:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000111",
+    "lot_id": "LOT-2026-000111",
+    "zone_id": "ZONE-WH-006-007",
+    "entered_at": "2026-09-28T11:30:00Z",
+    "exited_at": "2026-10-02T15:00:00Z",
+    "dwell_hours": 99.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000112",
+    "lot_id": "LOT-2026-000112",
+    "zone_id": "ZONE-WH-007-002",
+    "entered_at": "2026-09-29T02:30:00Z",
+    "exited_at": "2026-10-04T22:00:00Z",
+    "dwell_hours": 139.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000113",
+    "lot_id": "LOT-2026-000113",
+    "zone_id": "ZONE-WH-007-008",
+    "entered_at": "2026-09-28T21:30:00Z",
+    "exited_at": "2026-10-02T16:00:00Z",
+    "dwell_hours": 90.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000114",
+    "lot_id": "LOT-2026-000114",
+    "zone_id": "ZONE-WH-008-004",
+    "entered_at": "2026-09-29T01:30:00Z",
+    "exited_at": "2026-10-05T10:00:00Z",
+    "dwell_hours": 152.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000115",
+    "lot_id": "LOT-2026-000115",
+    "zone_id": "ZONE-WH-008-006",
+    "entered_at": "2026-09-30T06:30:00Z",
+    "exited_at": "2026-10-05T07:00:00Z",
+    "dwell_hours": 120.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000116",
+    "lot_id": "LOT-2026-000116",
+    "zone_id": "ZONE-WH-009-001",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-05T11:00:00Z",
+    "dwell_hours": 165.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000117",
+    "lot_id": "LOT-2026-000117",
+    "zone_id": "ZONE-WH-009-007",
+    "entered_at": "2026-09-29T02:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 100.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000118",
+    "lot_id": "LOT-2026-000118",
+    "zone_id": "ZONE-WH-010-002",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-03T04:00:00Z",
+    "dwell_hours": 116.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000119",
+    "lot_id": "LOT-2026-000119",
+    "zone_id": "ZONE-WH-010-008",
+    "entered_at": "2026-09-29T19:30:00Z",
+    "exited_at": "2026-10-05T02:00:00Z",
+    "dwell_hours": 126.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000120",
+    "lot_id": "LOT-2026-000120",
+    "zone_id": "ZONE-WH-001-004",
+    "entered_at": "2026-09-29T04:30:00Z",
+    "exited_at": "2026-10-04T07:00:00Z",
+    "dwell_hours": 122.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000121",
+    "lot_id": "LOT-2026-000121",
+    "zone_id": "ZONE-WH-001-006",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-02T06:00:00Z",
+    "dwell_hours": 88.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000122",
+    "lot_id": "LOT-2026-000122",
+    "zone_id": "ZONE-WH-002-001",
+    "entered_at": "2026-09-28T21:30:00Z",
+    "exited_at": "2026-10-05T10:00:00Z",
+    "dwell_hours": 156.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000123",
+    "lot_id": "LOT-2026-000123",
+    "zone_id": "ZONE-WH-002-007",
+    "entered_at": "2026-09-29T07:30:00Z",
+    "exited_at": "2026-10-02T17:00:00Z",
+    "dwell_hours": 81.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000124",
+    "lot_id": "LOT-2026-000124",
+    "zone_id": "ZONE-WH-003-002",
+    "entered_at": "2026-09-30T03:30:00Z",
+    "exited_at": "2026-10-02T12:00:00Z",
+    "dwell_hours": 56.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000125",
+    "lot_id": "LOT-2026-000125",
+    "zone_id": "ZONE-WH-003-008",
+    "entered_at": "2026-09-29T08:30:00Z",
+    "exited_at": "2026-10-05T22:00:00Z",
+    "dwell_hours": 157.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000126",
+    "lot_id": "LOT-2026-000126",
+    "zone_id": "ZONE-WH-004-004",
+    "entered_at": "2026-09-29T12:30:00Z",
+    "exited_at": "2026-10-02T00:00:00Z",
+    "dwell_hours": 59.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000127",
+    "lot_id": "LOT-2026-000127",
+    "zone_id": "ZONE-WH-004-006",
+    "entered_at": "2026-09-28T21:30:00Z",
+    "exited_at": "2026-10-05T15:00:00Z",
+    "dwell_hours": 161.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000128",
+    "lot_id": "LOT-2026-000128",
+    "zone_id": "ZONE-WH-005-001",
+    "entered_at": "2026-09-28T12:30:00Z",
+    "exited_at": "2026-10-03T11:00:00Z",
+    "dwell_hours": 118.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000129",
+    "lot_id": "LOT-2026-000129",
+    "zone_id": "ZONE-WH-005-007",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-03T04:00:00Z",
+    "dwell_hours": 66.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000130",
+    "lot_id": "LOT-2026-000130",
+    "zone_id": "ZONE-WH-006-002",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-04T02:00:00Z",
+    "dwell_hours": 122.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000131",
+    "lot_id": "LOT-2026-000131",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-28T06:30:00Z",
+    "exited_at": "2026-10-05T18:00:00Z",
+    "dwell_hours": 179.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000132",
+    "lot_id": "LOT-2026-000132",
+    "zone_id": "ZONE-WH-007-004",
+    "entered_at": "2026-09-28T12:30:00Z",
+    "exited_at": "2026-10-04T23:00:00Z",
+    "dwell_hours": 154.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000133",
+    "lot_id": "LOT-2026-000133",
+    "zone_id": "ZONE-WH-007-006",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-05T03:00:00Z",
+    "dwell_hours": 148.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000134",
+    "lot_id": "LOT-2026-000134",
+    "zone_id": "ZONE-WH-008-001",
+    "entered_at": "2026-09-29T06:30:00Z",
+    "exited_at": "2026-10-02T17:00:00Z",
+    "dwell_hours": 82.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000135",
+    "lot_id": "LOT-2026-000135",
+    "zone_id": "ZONE-WH-007-010",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-02T17:00:00Z",
+    "dwell_hours": 57.5,
+    "is_zone_compatible": false
+  },
+  {
+    "assignment_id": "ZLA-2026-000136",
+    "lot_id": "LOT-2026-000136",
+    "zone_id": "ZONE-WH-009-002",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-04T14:00:00Z",
+    "dwell_hours": 150.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000137",
+    "lot_id": "LOT-2026-000137",
+    "zone_id": "ZONE-WH-009-008",
+    "entered_at": "2026-09-28T00:30:00Z",
+    "exited_at": "2026-10-02T08:00:00Z",
+    "dwell_hours": 103.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000138",
+    "lot_id": "LOT-2026-000138",
+    "zone_id": "ZONE-WH-010-004",
+    "entered_at": "2026-09-28T06:30:00Z",
+    "exited_at": "2026-10-02T16:00:00Z",
+    "dwell_hours": 105.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000139",
+    "lot_id": "LOT-2026-000139",
+    "zone_id": "ZONE-WH-010-006",
+    "entered_at": "2026-09-29T05:30:00Z",
+    "exited_at": "2026-10-04T06:00:00Z",
+    "dwell_hours": 120.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000140",
+    "lot_id": "LOT-2026-000140",
+    "zone_id": "ZONE-WH-001-001",
+    "entered_at": "2026-09-28T08:30:00Z",
+    "exited_at": "2026-10-05T23:00:00Z",
+    "dwell_hours": 182.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000141",
+    "lot_id": "LOT-2026-000141",
+    "zone_id": "ZONE-WH-001-007",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-02T04:00:00Z",
+    "dwell_hours": 44.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000142",
+    "lot_id": "LOT-2026-000142",
+    "zone_id": "ZONE-WH-002-002",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-02T02:00:00Z",
+    "dwell_hours": 84.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000143",
+    "lot_id": "LOT-2026-000143",
+    "zone_id": "ZONE-WH-002-008",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-03T14:00:00Z",
+    "dwell_hours": 113.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000144",
+    "lot_id": "LOT-2026-000144",
+    "zone_id": "ZONE-WH-003-004",
+    "entered_at": "2026-09-28T05:30:00Z",
+    "exited_at": "2026-10-05T21:00:00Z",
+    "dwell_hours": 183.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000145",
+    "lot_id": "LOT-2026-000145",
+    "zone_id": "ZONE-WH-003-006",
+    "entered_at": "2026-09-28T16:30:00Z",
+    "exited_at": "2026-10-02T22:00:00Z",
+    "dwell_hours": 101.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000146",
+    "lot_id": "LOT-2026-000146",
+    "zone_id": "ZONE-WH-004-001",
+    "entered_at": "2026-09-28T05:30:00Z",
+    "exited_at": "2026-10-02T12:00:00Z",
+    "dwell_hours": 102.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000147",
+    "lot_id": "LOT-2026-000147",
+    "zone_id": "ZONE-WH-004-007",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 53.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000148",
+    "lot_id": "LOT-2026-000148",
+    "zone_id": "ZONE-WH-005-002",
+    "entered_at": "2026-09-29T00:30:00Z",
+    "exited_at": "2026-10-04T22:00:00Z",
+    "dwell_hours": 141.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000149",
+    "lot_id": "LOT-2026-000149",
+    "zone_id": "ZONE-WH-005-008",
+    "entered_at": "2026-09-28T10:30:00Z",
+    "exited_at": "2026-10-05T16:00:00Z",
+    "dwell_hours": 173.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000150",
+    "lot_id": "LOT-2026-000150",
+    "zone_id": "ZONE-WH-006-004",
+    "entered_at": "2026-09-28T00:30:00Z",
+    "exited_at": "2026-10-03T09:00:00Z",
+    "dwell_hours": 128.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000151",
+    "lot_id": "LOT-2026-000151",
+    "zone_id": "ZONE-WH-006-006",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-05T10:00:00Z",
+    "dwell_hours": 138.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000152",
+    "lot_id": "LOT-2026-000152",
+    "zone_id": "ZONE-WH-007-001",
+    "entered_at": "2026-09-28T10:30:00Z",
+    "exited_at": "2026-10-02T05:00:00Z",
+    "dwell_hours": 90.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000153",
+    "lot_id": "LOT-2026-000153",
+    "zone_id": "ZONE-WH-007-007",
+    "entered_at": "2026-09-30T03:30:00Z",
+    "exited_at": "2026-10-02T06:00:00Z",
+    "dwell_hours": 50.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000154",
+    "lot_id": "LOT-2026-000154",
+    "zone_id": "ZONE-WH-008-002",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-02T12:00:00Z",
+    "dwell_hours": 68.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000155",
+    "lot_id": "LOT-2026-000155",
+    "zone_id": "ZONE-WH-008-008",
+    "entered_at": "2026-09-28T16:30:00Z",
+    "exited_at": "2026-10-04T12:00:00Z",
+    "dwell_hours": 139.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000156",
+    "lot_id": "LOT-2026-000156",
+    "zone_id": "ZONE-WH-009-004",
+    "entered_at": "2026-09-29T04:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 98.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000157",
+    "lot_id": "LOT-2026-000157",
+    "zone_id": "ZONE-WH-009-006",
+    "entered_at": "2026-09-29T18:30:00Z",
+    "exited_at": "2026-10-03T02:00:00Z",
+    "dwell_hours": 79.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000158",
+    "lot_id": "LOT-2026-000158",
+    "zone_id": "ZONE-WH-010-001",
+    "entered_at": "2026-09-28T17:30:00Z",
+    "exited_at": "2026-10-03T04:00:00Z",
+    "dwell_hours": 106.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000159",
+    "lot_id": "LOT-2026-000159",
+    "zone_id": "ZONE-WH-010-007",
+    "entered_at": "2026-09-28T16:30:00Z",
+    "exited_at": "2026-10-03T05:00:00Z",
+    "dwell_hours": 108.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000160",
+    "lot_id": "LOT-2026-000160",
+    "zone_id": "ZONE-WH-001-002",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-02T07:00:00Z",
+    "dwell_hours": 80.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000161",
+    "lot_id": "LOT-2026-000161",
+    "zone_id": "ZONE-WH-001-008",
+    "entered_at": "2026-09-29T23:30:00Z",
+    "exited_at": "2026-10-02T04:00:00Z",
+    "dwell_hours": 52.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000162",
+    "lot_id": "LOT-2026-000162",
+    "zone_id": "ZONE-WH-002-004",
+    "entered_at": "2026-09-28T05:30:00Z",
+    "exited_at": "2026-10-02T12:00:00Z",
+    "dwell_hours": 102.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000163",
+    "lot_id": "LOT-2026-000163",
+    "zone_id": "ZONE-WH-002-006",
+    "entered_at": "2026-09-29T07:30:00Z",
+    "exited_at": "2026-10-05T17:00:00Z",
+    "dwell_hours": 153.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000164",
+    "lot_id": "LOT-2026-000164",
+    "zone_id": "ZONE-WH-003-001",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-05T14:00:00Z",
+    "dwell_hours": 159.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000165",
+    "lot_id": "LOT-2026-000165",
+    "zone_id": "ZONE-WH-003-007",
+    "entered_at": "2026-09-29T11:30:00Z",
+    "exited_at": "2026-10-05T10:00:00Z",
+    "dwell_hours": 142.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000166",
+    "lot_id": "LOT-2026-000166",
+    "zone_id": "ZONE-WH-004-002",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-03T10:00:00Z",
+    "dwell_hours": 73.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000167",
+    "lot_id": "LOT-2026-000167",
+    "zone_id": "ZONE-WH-004-008",
+    "entered_at": "2026-09-29T21:30:00Z",
+    "exited_at": "2026-10-04T21:00:00Z",
+    "dwell_hours": 119.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000168",
+    "lot_id": "LOT-2026-000168",
+    "zone_id": "ZONE-WH-005-004",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-05T09:00:00Z",
+    "dwell_hours": 121.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000169",
+    "lot_id": "LOT-2026-000169",
+    "zone_id": "ZONE-WH-005-006",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-03T11:00:00Z",
+    "dwell_hours": 73.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000170",
+    "lot_id": "LOT-2026-000170",
+    "zone_id": "ZONE-WH-006-001",
+    "entered_at": "2026-09-29T23:30:00Z",
+    "exited_at": "2026-10-02T23:00:00Z",
+    "dwell_hours": 71.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000171",
+    "lot_id": "LOT-2026-000171",
+    "zone_id": "ZONE-WH-006-007",
+    "entered_at": "2026-09-29T16:30:00Z",
+    "exited_at": "2026-10-05T05:00:00Z",
+    "dwell_hours": 132.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000172",
+    "lot_id": "LOT-2026-000172",
+    "zone_id": "ZONE-WH-007-002",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-03T03:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000173",
+    "lot_id": "LOT-2026-000173",
+    "zone_id": "ZONE-WH-007-008",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-03T15:00:00Z",
+    "dwell_hours": 96.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000174",
+    "lot_id": "LOT-2026-000174",
+    "zone_id": "ZONE-WH-008-004",
+    "entered_at": "2026-09-30T01:30:00Z",
+    "exited_at": "2026-10-04T15:00:00Z",
+    "dwell_hours": 109.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000175",
+    "lot_id": "LOT-2026-000175",
+    "zone_id": "ZONE-WH-008-006",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-04T12:00:00Z",
+    "dwell_hours": 117.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000176",
+    "lot_id": "LOT-2026-000176",
+    "zone_id": "ZONE-WH-009-001",
+    "entered_at": "2026-09-30T10:30:00Z",
+    "exited_at": "2026-10-05T22:00:00Z",
+    "dwell_hours": 131.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000177",
+    "lot_id": "LOT-2026-000177",
+    "zone_id": "ZONE-WH-009-007",
+    "entered_at": "2026-09-30T12:30:00Z",
+    "exited_at": "2026-10-04T10:00:00Z",
+    "dwell_hours": 93.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000178",
+    "lot_id": "LOT-2026-000178",
+    "zone_id": "ZONE-WH-010-002",
+    "entered_at": "2026-09-28T18:30:00Z",
+    "exited_at": "2026-10-05T16:00:00Z",
+    "dwell_hours": 165.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000179",
+    "lot_id": "LOT-2026-000179",
+    "zone_id": "ZONE-WH-010-008",
+    "entered_at": "2026-09-29T23:30:00Z",
+    "exited_at": "2026-10-02T03:00:00Z",
+    "dwell_hours": 51.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000180",
+    "lot_id": "LOT-2026-000180",
+    "zone_id": "ZONE-WH-001-004",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-03T04:00:00Z",
+    "dwell_hours": 77.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000181",
+    "lot_id": "LOT-2026-000181",
+    "zone_id": "ZONE-WH-001-006",
+    "entered_at": "2026-09-28T10:30:00Z",
+    "exited_at": "2026-10-05T18:00:00Z",
+    "dwell_hours": 175.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000182",
+    "lot_id": "LOT-2026-000182",
+    "zone_id": "ZONE-WH-002-001",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-04T01:00:00Z",
+    "dwell_hours": 106.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000183",
+    "lot_id": "LOT-2026-000183",
+    "zone_id": "ZONE-WH-002-007",
+    "entered_at": "2026-09-30T01:30:00Z",
+    "exited_at": "2026-10-03T00:00:00Z",
+    "dwell_hours": 70.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000184",
+    "lot_id": "LOT-2026-000184",
+    "zone_id": "ZONE-WH-003-002",
+    "entered_at": "2026-09-29T21:30:00Z",
+    "exited_at": "2026-10-04T18:00:00Z",
+    "dwell_hours": 116.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000185",
+    "lot_id": "LOT-2026-000185",
+    "zone_id": "ZONE-WH-003-008",
+    "entered_at": "2026-09-28T17:30:00Z",
+    "exited_at": "2026-10-04T05:00:00Z",
+    "dwell_hours": 131.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000186",
+    "lot_id": "LOT-2026-000186",
+    "zone_id": "ZONE-WH-004-004",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-02T23:00:00Z",
+    "dwell_hours": 95.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000187",
+    "lot_id": "LOT-2026-000187",
+    "zone_id": "ZONE-WH-004-006",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-03T16:00:00Z",
+    "dwell_hours": 102.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000188",
+    "lot_id": "LOT-2026-000188",
+    "zone_id": "ZONE-WH-005-001",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-03T21:00:00Z",
+    "dwell_hours": 81.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000189",
+    "lot_id": "LOT-2026-000189",
+    "zone_id": "ZONE-WH-005-007",
+    "entered_at": "2026-09-30T01:30:00Z",
+    "exited_at": "2026-10-05T12:00:00Z",
+    "dwell_hours": 130.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000190",
+    "lot_id": "LOT-2026-000190",
+    "zone_id": "ZONE-WH-006-002",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-04T03:00:00Z",
+    "dwell_hours": 94.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000191",
+    "lot_id": "LOT-2026-000191",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-03T12:00:00Z",
+    "dwell_hours": 98.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000192",
+    "lot_id": "LOT-2026-000192",
+    "zone_id": "ZONE-WH-007-004",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-03T16:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000193",
+    "lot_id": "LOT-2026-000193",
+    "zone_id": "ZONE-WH-007-006",
+    "entered_at": "2026-09-28T05:30:00Z",
+    "exited_at": "2026-10-02T22:00:00Z",
+    "dwell_hours": 112.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000194",
+    "lot_id": "LOT-2026-000194",
+    "zone_id": "ZONE-WH-008-001",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-04T11:00:00Z",
+    "dwell_hours": 131.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000195",
+    "lot_id": "LOT-2026-000195",
+    "zone_id": "ZONE-WH-008-007",
+    "entered_at": "2026-09-28T21:30:00Z",
+    "exited_at": "2026-10-05T07:00:00Z",
+    "dwell_hours": 153.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000196",
+    "lot_id": "LOT-2026-000196",
+    "zone_id": "ZONE-WH-009-002",
+    "entered_at": "2026-09-29T12:30:00Z",
+    "exited_at": "2026-10-05T20:00:00Z",
+    "dwell_hours": 151.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000197",
+    "lot_id": "LOT-2026-000197",
+    "zone_id": "ZONE-WH-009-008",
+    "entered_at": "2026-09-29T23:30:00Z",
+    "exited_at": "2026-10-04T04:00:00Z",
+    "dwell_hours": 100.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000198",
+    "lot_id": "LOT-2026-000198",
+    "zone_id": "ZONE-WH-010-004",
+    "entered_at": "2026-09-29T21:30:00Z",
+    "exited_at": "2026-10-04T16:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000199",
+    "lot_id": "LOT-2026-000199",
+    "zone_id": "ZONE-WH-010-006",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-04T01:00:00Z",
+    "dwell_hours": 91.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000200",
+    "lot_id": "LOT-2026-000200",
+    "zone_id": "ZONE-WH-001-001",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 100.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000201",
+    "lot_id": "LOT-2026-000201",
+    "zone_id": "ZONE-WH-001-007",
+    "entered_at": "2026-09-30T12:30:00Z",
+    "exited_at": "2026-10-05T12:00:00Z",
+    "dwell_hours": 119.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000202",
+    "lot_id": "LOT-2026-000202",
+    "zone_id": "ZONE-WH-002-002",
+    "entered_at": "2026-09-29T04:30:00Z",
+    "exited_at": "2026-10-02T19:00:00Z",
+    "dwell_hours": 86.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000203",
+    "lot_id": "LOT-2026-000203",
+    "zone_id": "ZONE-WH-002-008",
+    "entered_at": "2026-09-30T10:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 51.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000204",
+    "lot_id": "LOT-2026-000204",
+    "zone_id": "ZONE-WH-003-004",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-04T23:00:00Z",
+    "dwell_hours": 159.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000205",
+    "lot_id": "LOT-2026-000205",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-29T02:30:00Z",
+    "exited_at": "2026-10-04T09:00:00Z",
+    "dwell_hours": 126.5,
+    "is_zone_compatible": false
+  },
+  {
+    "assignment_id": "ZLA-2026-000206",
+    "lot_id": "LOT-2026-000206",
+    "zone_id": "ZONE-WH-004-001",
+    "entered_at": "2026-09-28T18:30:00Z",
+    "exited_at": "2026-10-04T19:00:00Z",
+    "dwell_hours": 144.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000207",
+    "lot_id": "LOT-2026-000207",
+    "zone_id": "ZONE-WH-004-007",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-04T05:00:00Z",
+    "dwell_hours": 139.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000208",
+    "lot_id": "LOT-2026-000208",
+    "zone_id": "ZONE-WH-005-002",
+    "entered_at": "2026-09-29T21:30:00Z",
+    "exited_at": "2026-10-04T11:00:00Z",
+    "dwell_hours": 109.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000209",
+    "lot_id": "LOT-2026-000209",
+    "zone_id": "ZONE-WH-005-008",
+    "entered_at": "2026-09-28T01:30:00Z",
+    "exited_at": "2026-10-02T07:00:00Z",
+    "dwell_hours": 101.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000210",
+    "lot_id": "LOT-2026-000210",
+    "zone_id": "ZONE-WH-006-004",
+    "entered_at": "2026-09-29T07:30:00Z",
+    "exited_at": "2026-10-02T00:00:00Z",
+    "dwell_hours": 64.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000211",
+    "lot_id": "LOT-2026-000211",
+    "zone_id": "ZONE-WH-006-006",
+    "entered_at": "2026-09-28T01:30:00Z",
+    "exited_at": "2026-10-03T16:00:00Z",
+    "dwell_hours": 134.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000212",
+    "lot_id": "LOT-2026-000212",
+    "zone_id": "ZONE-WH-007-001",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-02T07:00:00Z",
+    "dwell_hours": 93.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000213",
+    "lot_id": "LOT-2026-000213",
+    "zone_id": "ZONE-WH-007-007",
+    "entered_at": "2026-09-28T04:30:00Z",
+    "exited_at": "2026-10-03T10:00:00Z",
+    "dwell_hours": 125.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000214",
+    "lot_id": "LOT-2026-000214",
+    "zone_id": "ZONE-WH-008-002",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-04T09:00:00Z",
+    "dwell_hours": 93.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000215",
+    "lot_id": "LOT-2026-000215",
+    "zone_id": "ZONE-WH-008-008",
+    "entered_at": "2026-09-29T06:30:00Z",
+    "exited_at": "2026-10-05T17:00:00Z",
+    "dwell_hours": 154.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000216",
+    "lot_id": "LOT-2026-000216",
+    "zone_id": "ZONE-WH-009-004",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-05T00:00:00Z",
+    "dwell_hours": 160.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000217",
+    "lot_id": "LOT-2026-000217",
+    "zone_id": "ZONE-WH-009-006",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-03T03:00:00Z",
+    "dwell_hours": 66.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000218",
+    "lot_id": "LOT-2026-000218",
+    "zone_id": "ZONE-WH-010-001",
+    "entered_at": "2026-09-28T10:30:00Z",
+    "exited_at": "2026-10-03T15:00:00Z",
+    "dwell_hours": 124.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000219",
+    "lot_id": "LOT-2026-000219",
+    "zone_id": "ZONE-WH-010-007",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-02T22:00:00Z",
+    "dwell_hours": 71.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000220",
+    "lot_id": "LOT-2026-000220",
+    "zone_id": "ZONE-WH-001-002",
+    "entered_at": "2026-09-30T12:30:00Z",
+    "exited_at": "2026-10-04T08:00:00Z",
+    "dwell_hours": 91.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000221",
+    "lot_id": "LOT-2026-000221",
+    "zone_id": "ZONE-WH-001-008",
+    "entered_at": "2026-09-29T03:30:00Z",
+    "exited_at": "2026-10-02T09:00:00Z",
+    "dwell_hours": 77.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000222",
+    "lot_id": "LOT-2026-000222",
+    "zone_id": "ZONE-WH-002-004",
+    "entered_at": "2026-09-29T04:30:00Z",
+    "exited_at": "2026-10-05T12:00:00Z",
+    "dwell_hours": 151.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000223",
+    "lot_id": "LOT-2026-000223",
+    "zone_id": "ZONE-WH-002-006",
+    "entered_at": "2026-09-29T11:30:00Z",
+    "exited_at": "2026-10-03T04:00:00Z",
+    "dwell_hours": 88.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000224",
+    "lot_id": "LOT-2026-000224",
+    "zone_id": "ZONE-WH-003-001",
+    "entered_at": "2026-09-28T12:30:00Z",
+    "exited_at": "2026-10-04T15:00:00Z",
+    "dwell_hours": 146.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000225",
+    "lot_id": "LOT-2026-000225",
+    "zone_id": "ZONE-WH-003-007",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-03T08:00:00Z",
+    "dwell_hours": 74.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000226",
+    "lot_id": "LOT-2026-000226",
+    "zone_id": "ZONE-WH-004-002",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-04T11:00:00Z",
+    "dwell_hours": 132.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000227",
+    "lot_id": "LOT-2026-000227",
+    "zone_id": "ZONE-WH-004-008",
+    "entered_at": "2026-09-28T03:30:00Z",
+    "exited_at": "2026-10-05T08:00:00Z",
+    "dwell_hours": 172.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000228",
+    "lot_id": "LOT-2026-000228",
+    "zone_id": "ZONE-WH-005-004",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-04T23:00:00Z",
+    "dwell_hours": 127.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000229",
+    "lot_id": "LOT-2026-000229",
+    "zone_id": "ZONE-WH-005-006",
+    "entered_at": "2026-09-29T10:30:00Z",
+    "exited_at": "2026-10-05T23:00:00Z",
+    "dwell_hours": 156.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000230",
+    "lot_id": "LOT-2026-000230",
+    "zone_id": "ZONE-WH-006-001",
+    "entered_at": "2026-09-29T17:30:00Z",
+    "exited_at": "2026-10-04T02:00:00Z",
+    "dwell_hours": 104.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000231",
+    "lot_id": "LOT-2026-000231",
+    "zone_id": "ZONE-WH-006-007",
+    "entered_at": "2026-09-30T10:30:00Z",
+    "exited_at": "2026-10-02T23:00:00Z",
+    "dwell_hours": 60.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000232",
+    "lot_id": "LOT-2026-000232",
+    "zone_id": "ZONE-WH-007-002",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-05T23:00:00Z",
+    "dwell_hours": 177.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000233",
+    "lot_id": "LOT-2026-000233",
+    "zone_id": "ZONE-WH-007-008",
+    "entered_at": "2026-09-29T12:30:00Z",
+    "exited_at": "2026-10-05T20:00:00Z",
+    "dwell_hours": 151.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000234",
+    "lot_id": "LOT-2026-000234",
+    "zone_id": "ZONE-WH-008-004",
+    "entered_at": "2026-09-28T06:30:00Z",
+    "exited_at": "2026-10-04T01:00:00Z",
+    "dwell_hours": 138.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000235",
+    "lot_id": "LOT-2026-000235",
+    "zone_id": "ZONE-WH-008-006",
+    "entered_at": "2026-09-30T10:30:00Z",
+    "exited_at": "2026-10-05T18:00:00Z",
+    "dwell_hours": 127.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000236",
+    "lot_id": "LOT-2026-000236",
+    "zone_id": "ZONE-WH-009-001",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-02T16:00:00Z",
+    "dwell_hours": 59.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000237",
+    "lot_id": "LOT-2026-000237",
+    "zone_id": "ZONE-WH-009-007",
+    "entered_at": "2026-09-28T01:30:00Z",
+    "exited_at": "2026-10-05T16:00:00Z",
+    "dwell_hours": 182.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000238",
+    "lot_id": "LOT-2026-000238",
+    "zone_id": "ZONE-WH-010-002",
+    "entered_at": "2026-09-28T15:30:00Z",
+    "exited_at": "2026-10-02T21:00:00Z",
+    "dwell_hours": 101.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000239",
+    "lot_id": "LOT-2026-000239",
+    "zone_id": "ZONE-WH-010-008",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 56.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000240",
+    "lot_id": "LOT-2026-000240",
+    "zone_id": "ZONE-WH-001-004",
+    "entered_at": "2026-09-29T18:30:00Z",
+    "exited_at": "2026-10-05T00:00:00Z",
+    "dwell_hours": 125.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000241",
+    "lot_id": "LOT-2026-000241",
+    "zone_id": "ZONE-WH-001-006",
+    "entered_at": "2026-09-28T10:30:00Z",
+    "exited_at": "2026-10-02T03:00:00Z",
+    "dwell_hours": 88.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000242",
+    "lot_id": "LOT-2026-000242",
+    "zone_id": "ZONE-WH-002-001",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 89.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000243",
+    "lot_id": "LOT-2026-000243",
+    "zone_id": "ZONE-WH-002-007",
+    "entered_at": "2026-09-28T05:30:00Z",
+    "exited_at": "2026-10-04T18:00:00Z",
+    "dwell_hours": 156.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000244",
+    "lot_id": "LOT-2026-000244",
+    "zone_id": "ZONE-WH-003-002",
+    "entered_at": "2026-09-28T21:30:00Z",
+    "exited_at": "2026-10-04T21:00:00Z",
+    "dwell_hours": 143.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000245",
+    "lot_id": "LOT-2026-000245",
+    "zone_id": "ZONE-WH-003-008",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-04T18:00:00Z",
+    "dwell_hours": 123.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000246",
+    "lot_id": "LOT-2026-000246",
+    "zone_id": "ZONE-WH-004-004",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-03T23:00:00Z",
+    "dwell_hours": 90.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000247",
+    "lot_id": "LOT-2026-000247",
+    "zone_id": "ZONE-WH-004-006",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-02T08:00:00Z",
+    "dwell_hours": 46.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000248",
+    "lot_id": "LOT-2026-000248",
+    "zone_id": "ZONE-WH-005-001",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-05T06:00:00Z",
+    "dwell_hours": 120.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000249",
+    "lot_id": "LOT-2026-000249",
+    "zone_id": "ZONE-WH-005-007",
+    "entered_at": "2026-09-29T10:30:00Z",
+    "exited_at": "2026-10-05T23:00:00Z",
+    "dwell_hours": 156.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000250",
+    "lot_id": "LOT-2026-000250",
+    "zone_id": "ZONE-WH-006-002",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-02T11:00:00Z",
+    "dwell_hours": 93.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000251",
+    "lot_id": "LOT-2026-000251",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-30T12:30:00Z",
+    "exited_at": "2026-10-02T23:00:00Z",
+    "dwell_hours": 58.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000252",
+    "lot_id": "LOT-2026-000252",
+    "zone_id": "ZONE-WH-007-004",
+    "entered_at": "2026-09-28T05:30:00Z",
+    "exited_at": "2026-10-03T06:00:00Z",
+    "dwell_hours": 120.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000253",
+    "lot_id": "LOT-2026-000253",
+    "zone_id": "ZONE-WH-007-006",
+    "entered_at": "2026-09-28T19:30:00Z",
+    "exited_at": "2026-10-05T12:00:00Z",
+    "dwell_hours": 160.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000254",
+    "lot_id": "LOT-2026-000254",
+    "zone_id": "ZONE-WH-008-001",
+    "entered_at": "2026-09-28T11:30:00Z",
+    "exited_at": "2026-10-02T20:00:00Z",
+    "dwell_hours": 104.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000255",
+    "lot_id": "LOT-2026-000255",
+    "zone_id": "ZONE-WH-008-007",
+    "entered_at": "2026-09-28T15:30:00Z",
+    "exited_at": "2026-10-04T19:00:00Z",
+    "dwell_hours": 147.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000256",
+    "lot_id": "LOT-2026-000256",
+    "zone_id": "ZONE-WH-009-002",
+    "entered_at": "2026-09-29T13:30:00Z",
+    "exited_at": "2026-10-03T12:00:00Z",
+    "dwell_hours": 94.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000257",
+    "lot_id": "LOT-2026-000257",
+    "zone_id": "ZONE-WH-009-008",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-03T19:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000258",
+    "lot_id": "LOT-2026-000258",
+    "zone_id": "ZONE-WH-010-004",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-02T07:00:00Z",
+    "dwell_hours": 46.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000259",
+    "lot_id": "LOT-2026-000259",
+    "zone_id": "ZONE-WH-010-006",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-03T04:00:00Z",
+    "dwell_hours": 101.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000260",
+    "lot_id": "LOT-2026-000260",
+    "zone_id": "ZONE-WH-001-001",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-04T06:00:00Z",
+    "dwell_hours": 116.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000261",
+    "lot_id": "LOT-2026-000261",
+    "zone_id": "ZONE-WH-001-007",
+    "entered_at": "2026-09-29T07:30:00Z",
+    "exited_at": "2026-10-04T11:00:00Z",
+    "dwell_hours": 123.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000262",
+    "lot_id": "LOT-2026-000262",
+    "zone_id": "ZONE-WH-002-002",
+    "entered_at": "2026-09-30T01:30:00Z",
+    "exited_at": "2026-10-03T09:00:00Z",
+    "dwell_hours": 79.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000263",
+    "lot_id": "LOT-2026-000263",
+    "zone_id": "ZONE-WH-002-008",
+    "entered_at": "2026-09-28T10:30:00Z",
+    "exited_at": "2026-10-03T04:00:00Z",
+    "dwell_hours": 113.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000264",
+    "lot_id": "LOT-2026-000264",
+    "zone_id": "ZONE-WH-003-004",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-03T13:00:00Z",
+    "dwell_hours": 112.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000265",
+    "lot_id": "LOT-2026-000265",
+    "zone_id": "ZONE-WH-003-006",
+    "entered_at": "2026-09-28T19:30:00Z",
+    "exited_at": "2026-10-05T14:00:00Z",
+    "dwell_hours": 162.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000266",
+    "lot_id": "LOT-2026-000266",
+    "zone_id": "ZONE-WH-004-001",
+    "entered_at": "2026-09-28T19:30:00Z",
+    "exited_at": "2026-10-04T20:00:00Z",
+    "dwell_hours": 144.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000267",
+    "lot_id": "LOT-2026-000267",
+    "zone_id": "ZONE-WH-004-007",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-04T10:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000268",
+    "lot_id": "LOT-2026-000268",
+    "zone_id": "ZONE-WH-005-002",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-05T17:00:00Z",
+    "dwell_hours": 175.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000269",
+    "lot_id": "LOT-2026-000269",
+    "zone_id": "ZONE-WH-005-008",
+    "entered_at": "2026-09-29T17:30:00Z",
+    "exited_at": "2026-10-04T16:00:00Z",
+    "dwell_hours": 118.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000270",
+    "lot_id": "LOT-2026-000270",
+    "zone_id": "ZONE-WH-006-004",
+    "entered_at": "2026-09-29T18:30:00Z",
+    "exited_at": "2026-10-03T18:00:00Z",
+    "dwell_hours": 95.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000271",
+    "lot_id": "LOT-2026-000271",
+    "zone_id": "ZONE-WH-006-006",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-03T18:00:00Z",
+    "dwell_hours": 80.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000272",
+    "lot_id": "LOT-2026-000272",
+    "zone_id": "ZONE-WH-007-001",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-02T01:00:00Z",
+    "dwell_hours": 73.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000273",
+    "lot_id": "LOT-2026-000273",
+    "zone_id": "ZONE-WH-007-007",
+    "entered_at": "2026-09-28T11:30:00Z",
+    "exited_at": "2026-10-04T10:00:00Z",
+    "dwell_hours": 142.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000274",
+    "lot_id": "LOT-2026-000274",
+    "zone_id": "ZONE-WH-008-002",
+    "entered_at": "2026-09-29T05:30:00Z",
+    "exited_at": "2026-10-02T00:00:00Z",
+    "dwell_hours": 66.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000275",
+    "lot_id": "LOT-2026-000275",
+    "zone_id": "ZONE-WH-006-009",
+    "entered_at": "2026-09-28T19:30:00Z",
+    "exited_at": "2026-10-02T12:00:00Z",
+    "dwell_hours": 88.5,
+    "is_zone_compatible": false
+  },
+  {
+    "assignment_id": "ZLA-2026-000276",
+    "lot_id": "LOT-2026-000276",
+    "zone_id": "ZONE-WH-009-004",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-03T23:00:00Z",
+    "dwell_hours": 120.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000277",
+    "lot_id": "LOT-2026-000277",
+    "zone_id": "ZONE-WH-009-006",
+    "entered_at": "2026-09-29T13:30:00Z",
+    "exited_at": "2026-10-05T15:00:00Z",
+    "dwell_hours": 145.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000278",
+    "lot_id": "LOT-2026-000278",
+    "zone_id": "ZONE-WH-010-001",
+    "entered_at": "2026-09-29T23:30:00Z",
+    "exited_at": "2026-10-04T18:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000279",
+    "lot_id": "LOT-2026-000279",
+    "zone_id": "ZONE-WH-010-007",
+    "entered_at": "2026-09-29T16:30:00Z",
+    "exited_at": "2026-10-04T14:00:00Z",
+    "dwell_hours": 117.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000280",
+    "lot_id": "LOT-2026-000280",
+    "zone_id": "ZONE-WH-001-002",
+    "entered_at": "2026-09-28T16:30:00Z",
+    "exited_at": "2026-10-05T02:00:00Z",
+    "dwell_hours": 153.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000281",
+    "lot_id": "LOT-2026-000281",
+    "zone_id": "ZONE-WH-001-008",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 73.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000282",
+    "lot_id": "LOT-2026-000282",
+    "zone_id": "ZONE-WH-002-004",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-02T11:00:00Z",
+    "dwell_hours": 53.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000283",
+    "lot_id": "LOT-2026-000283",
+    "zone_id": "ZONE-WH-002-006",
+    "entered_at": "2026-09-28T18:30:00Z",
+    "exited_at": "2026-10-04T02:00:00Z",
+    "dwell_hours": 127.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000284",
+    "lot_id": "LOT-2026-000284",
+    "zone_id": "ZONE-WH-003-001",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-02T19:00:00Z",
+    "dwell_hours": 59.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000285",
+    "lot_id": "LOT-2026-000285",
+    "zone_id": "ZONE-WH-003-007",
+    "entered_at": "2026-09-29T04:30:00Z",
+    "exited_at": "2026-10-02T16:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000286",
+    "lot_id": "LOT-2026-000286",
+    "zone_id": "ZONE-WH-004-002",
+    "entered_at": "2026-09-29T08:30:00Z",
+    "exited_at": "2026-10-03T05:00:00Z",
+    "dwell_hours": 92.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000287",
+    "lot_id": "LOT-2026-000287",
+    "zone_id": "ZONE-WH-004-008",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-05T05:00:00Z",
+    "dwell_hours": 152.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000288",
+    "lot_id": "LOT-2026-000288",
+    "zone_id": "ZONE-WH-005-004",
+    "entered_at": "2026-09-30T03:30:00Z",
+    "exited_at": "2026-10-02T15:00:00Z",
+    "dwell_hours": 59.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000289",
+    "lot_id": "LOT-2026-000289",
+    "zone_id": "ZONE-WH-005-006",
+    "entered_at": "2026-09-28T06:30:00Z",
+    "exited_at": "2026-10-02T18:00:00Z",
+    "dwell_hours": 107.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000290",
+    "lot_id": "LOT-2026-000290",
+    "zone_id": "ZONE-WH-006-001",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-02T03:00:00Z",
+    "dwell_hours": 39.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000291",
+    "lot_id": "LOT-2026-000291",
+    "zone_id": "ZONE-WH-006-007",
+    "entered_at": "2026-09-30T12:30:00Z",
+    "exited_at": "2026-10-04T22:00:00Z",
+    "dwell_hours": 105.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000292",
+    "lot_id": "LOT-2026-000292",
+    "zone_id": "ZONE-WH-007-002",
+    "entered_at": "2026-09-29T17:30:00Z",
+    "exited_at": "2026-10-05T15:00:00Z",
+    "dwell_hours": 141.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000293",
+    "lot_id": "LOT-2026-000293",
+    "zone_id": "ZONE-WH-007-008",
+    "entered_at": "2026-09-30T00:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000294",
+    "lot_id": "LOT-2026-000294",
+    "zone_id": "ZONE-WH-008-004",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-05T07:00:00Z",
+    "dwell_hours": 151.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000295",
+    "lot_id": "LOT-2026-000295",
+    "zone_id": "ZONE-WH-008-006",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-02T04:00:00Z",
+    "dwell_hours": 61.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000296",
+    "lot_id": "LOT-2026-000296",
+    "zone_id": "ZONE-WH-009-001",
+    "entered_at": "2026-09-29T23:30:00Z",
+    "exited_at": "2026-10-05T02:00:00Z",
+    "dwell_hours": 122.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000297",
+    "lot_id": "LOT-2026-000297",
+    "zone_id": "ZONE-WH-009-007",
+    "entered_at": "2026-09-28T18:30:00Z",
+    "exited_at": "2026-10-05T22:00:00Z",
+    "dwell_hours": 171.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000298",
+    "lot_id": "LOT-2026-000298",
+    "zone_id": "ZONE-WH-010-002",
+    "entered_at": "2026-09-30T10:30:00Z",
+    "exited_at": "2026-10-03T22:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000299",
+    "lot_id": "LOT-2026-000299",
+    "zone_id": "ZONE-WH-010-008",
+    "entered_at": "2026-09-30T12:30:00Z",
+    "exited_at": "2026-10-03T05:00:00Z",
+    "dwell_hours": 64.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000300",
+    "lot_id": "LOT-2026-000300",
+    "zone_id": "ZONE-WH-001-004",
+    "entered_at": "2026-09-29T04:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 81.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000301",
+    "lot_id": "LOT-2026-000301",
+    "zone_id": "ZONE-WH-001-006",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-03T17:00:00Z",
+    "dwell_hours": 113.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000302",
+    "lot_id": "LOT-2026-000302",
+    "zone_id": "ZONE-WH-002-001",
+    "entered_at": "2026-09-29T08:30:00Z",
+    "exited_at": "2026-10-04T20:00:00Z",
+    "dwell_hours": 131.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000303",
+    "lot_id": "LOT-2026-000303",
+    "zone_id": "ZONE-WH-002-007",
+    "entered_at": "2026-09-28T06:30:00Z",
+    "exited_at": "2026-10-02T18:00:00Z",
+    "dwell_hours": 107.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000304",
+    "lot_id": "LOT-2026-000304",
+    "zone_id": "ZONE-WH-003-002",
+    "entered_at": "2026-09-28T02:30:00Z",
+    "exited_at": "2026-10-05T19:00:00Z",
+    "dwell_hours": 184.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000305",
+    "lot_id": "LOT-2026-000305",
+    "zone_id": "ZONE-WH-003-008",
+    "entered_at": "2026-09-29T21:30:00Z",
+    "exited_at": "2026-10-05T01:00:00Z",
+    "dwell_hours": 123.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000306",
+    "lot_id": "LOT-2026-000306",
+    "zone_id": "ZONE-WH-004-004",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-03T03:00:00Z",
+    "dwell_hours": 99.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000307",
+    "lot_id": "LOT-2026-000307",
+    "zone_id": "ZONE-WH-004-006",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-03T02:00:00Z",
+    "dwell_hours": 101.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000308",
+    "lot_id": "LOT-2026-000308",
+    "zone_id": "ZONE-WH-005-001",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-05T02:00:00Z",
+    "dwell_hours": 123.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000309",
+    "lot_id": "LOT-2026-000309",
+    "zone_id": "ZONE-WH-005-007",
+    "entered_at": "2026-09-28T11:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 98.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000310",
+    "lot_id": "LOT-2026-000310",
+    "zone_id": "ZONE-WH-006-002",
+    "entered_at": "2026-09-30T12:30:00Z",
+    "exited_at": "2026-10-03T18:00:00Z",
+    "dwell_hours": 77.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000311",
+    "lot_id": "LOT-2026-000311",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-05T13:00:00Z",
+    "dwell_hours": 134.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000312",
+    "lot_id": "LOT-2026-000312",
+    "zone_id": "ZONE-WH-007-004",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-05T06:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000313",
+    "lot_id": "LOT-2026-000313",
+    "zone_id": "ZONE-WH-007-006",
+    "entered_at": "2026-09-29T18:30:00Z",
+    "exited_at": "2026-10-05T20:00:00Z",
+    "dwell_hours": 145.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000314",
+    "lot_id": "LOT-2026-000314",
+    "zone_id": "ZONE-WH-008-001",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-04T17:00:00Z",
+    "dwell_hours": 121.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000315",
+    "lot_id": "LOT-2026-000315",
+    "zone_id": "ZONE-WH-008-007",
+    "entered_at": "2026-09-29T20:30:00Z",
+    "exited_at": "2026-10-02T18:00:00Z",
+    "dwell_hours": 69.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000316",
+    "lot_id": "LOT-2026-000316",
+    "zone_id": "ZONE-WH-009-002",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-03T01:00:00Z",
+    "dwell_hours": 67.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000317",
+    "lot_id": "LOT-2026-000317",
+    "zone_id": "ZONE-WH-009-008",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-03T16:00:00Z",
+    "dwell_hours": 115.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000318",
+    "lot_id": "LOT-2026-000318",
+    "zone_id": "ZONE-WH-010-004",
+    "entered_at": "2026-09-29T05:30:00Z",
+    "exited_at": "2026-10-02T13:00:00Z",
+    "dwell_hours": 79.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000319",
+    "lot_id": "LOT-2026-000319",
+    "zone_id": "ZONE-WH-010-006",
+    "entered_at": "2026-09-29T10:30:00Z",
+    "exited_at": "2026-10-02T07:00:00Z",
+    "dwell_hours": 68.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000320",
+    "lot_id": "LOT-2026-000320",
+    "zone_id": "ZONE-WH-001-001",
+    "entered_at": "2026-09-29T18:30:00Z",
+    "exited_at": "2026-10-02T07:00:00Z",
+    "dwell_hours": 60.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000321",
+    "lot_id": "LOT-2026-000321",
+    "zone_id": "ZONE-WH-001-007",
+    "entered_at": "2026-09-29T16:30:00Z",
+    "exited_at": "2026-10-02T18:00:00Z",
+    "dwell_hours": 73.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000322",
+    "lot_id": "LOT-2026-000322",
+    "zone_id": "ZONE-WH-002-002",
+    "entered_at": "2026-09-28T12:30:00Z",
+    "exited_at": "2026-10-05T09:00:00Z",
+    "dwell_hours": 164.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000323",
+    "lot_id": "LOT-2026-000323",
+    "zone_id": "ZONE-WH-002-008",
+    "entered_at": "2026-09-28T15:30:00Z",
+    "exited_at": "2026-10-05T04:00:00Z",
+    "dwell_hours": 156.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000324",
+    "lot_id": "LOT-2026-000324",
+    "zone_id": "ZONE-WH-003-004",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-03T18:00:00Z",
+    "dwell_hours": 80.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000325",
+    "lot_id": "LOT-2026-000325",
+    "zone_id": "ZONE-WH-003-006",
+    "entered_at": "2026-09-28T11:30:00Z",
+    "exited_at": "2026-10-03T18:00:00Z",
+    "dwell_hours": 126.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000326",
+    "lot_id": "LOT-2026-000326",
+    "zone_id": "ZONE-WH-004-001",
+    "entered_at": "2026-09-29T01:30:00Z",
+    "exited_at": "2026-10-05T00:00:00Z",
+    "dwell_hours": 142.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000327",
+    "lot_id": "LOT-2026-000327",
+    "zone_id": "ZONE-WH-004-007",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-03T11:00:00Z",
+    "dwell_hours": 108.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000328",
+    "lot_id": "LOT-2026-000328",
+    "zone_id": "ZONE-WH-005-002",
+    "entered_at": "2026-09-29T11:30:00Z",
+    "exited_at": "2026-10-04T01:00:00Z",
+    "dwell_hours": 109.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000329",
+    "lot_id": "LOT-2026-000329",
+    "zone_id": "ZONE-WH-005-008",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-02T03:00:00Z",
+    "dwell_hours": 85.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000330",
+    "lot_id": "LOT-2026-000330",
+    "zone_id": "ZONE-WH-006-004",
+    "entered_at": "2026-09-28T18:30:00Z",
+    "exited_at": "2026-10-05T05:00:00Z",
+    "dwell_hours": 154.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000331",
+    "lot_id": "LOT-2026-000331",
+    "zone_id": "ZONE-WH-006-006",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-02T21:00:00Z",
+    "dwell_hours": 60.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000332",
+    "lot_id": "LOT-2026-000332",
+    "zone_id": "ZONE-WH-007-001",
+    "entered_at": "2026-09-30T06:30:00Z",
+    "exited_at": "2026-10-02T04:00:00Z",
+    "dwell_hours": 45.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000333",
+    "lot_id": "LOT-2026-000333",
+    "zone_id": "ZONE-WH-007-007",
+    "entered_at": "2026-09-29T12:30:00Z",
+    "exited_at": "2026-10-04T12:00:00Z",
+    "dwell_hours": 119.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000334",
+    "lot_id": "LOT-2026-000334",
+    "zone_id": "ZONE-WH-008-002",
+    "entered_at": "2026-09-29T12:30:00Z",
+    "exited_at": "2026-10-03T00:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000335",
+    "lot_id": "LOT-2026-000335",
+    "zone_id": "ZONE-WH-008-008",
+    "entered_at": "2026-09-29T23:30:00Z",
+    "exited_at": "2026-10-04T16:00:00Z",
+    "dwell_hours": 112.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000336",
+    "lot_id": "LOT-2026-000336",
+    "zone_id": "ZONE-WH-009-004",
+    "entered_at": "2026-09-30T06:30:00Z",
+    "exited_at": "2026-10-04T03:00:00Z",
+    "dwell_hours": 92.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000337",
+    "lot_id": "LOT-2026-000337",
+    "zone_id": "ZONE-WH-009-006",
+    "entered_at": "2026-09-29T06:30:00Z",
+    "exited_at": "2026-10-02T10:00:00Z",
+    "dwell_hours": 75.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000338",
+    "lot_id": "LOT-2026-000338",
+    "zone_id": "ZONE-WH-010-001",
+    "entered_at": "2026-09-30T02:30:00Z",
+    "exited_at": "2026-10-02T08:00:00Z",
+    "dwell_hours": 53.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000339",
+    "lot_id": "LOT-2026-000339",
+    "zone_id": "ZONE-WH-010-007",
+    "entered_at": "2026-09-28T10:30:00Z",
+    "exited_at": "2026-10-02T19:00:00Z",
+    "dwell_hours": 104.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000340",
+    "lot_id": "LOT-2026-000340",
+    "zone_id": "ZONE-WH-001-002",
+    "entered_at": "2026-09-29T13:30:00Z",
+    "exited_at": "2026-10-04T20:00:00Z",
+    "dwell_hours": 126.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000341",
+    "lot_id": "LOT-2026-000341",
+    "zone_id": "ZONE-WH-001-008",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-02T12:00:00Z",
+    "dwell_hours": 48.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000342",
+    "lot_id": "LOT-2026-000342",
+    "zone_id": "ZONE-WH-002-004",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-03T02:00:00Z",
+    "dwell_hours": 112.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000343",
+    "lot_id": "LOT-2026-000343",
+    "zone_id": "ZONE-WH-002-006",
+    "entered_at": "2026-09-28T06:30:00Z",
+    "exited_at": "2026-10-05T08:00:00Z",
+    "dwell_hours": 169.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000344",
+    "lot_id": "LOT-2026-000344",
+    "zone_id": "ZONE-WH-003-001",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-02T05:00:00Z",
+    "dwell_hours": 43.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000345",
+    "lot_id": "LOT-2026-000345",
+    "zone_id": "ZONE-WH-004-003",
+    "entered_at": "2026-09-29T02:30:00Z",
+    "exited_at": "2026-10-04T19:00:00Z",
+    "dwell_hours": 136.5,
+    "is_zone_compatible": false
+  },
+  {
+    "assignment_id": "ZLA-2026-000346",
+    "lot_id": "LOT-2026-000346",
+    "zone_id": "ZONE-WH-004-002",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-03T05:00:00Z",
+    "dwell_hours": 111.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000347",
+    "lot_id": "LOT-2026-000347",
+    "zone_id": "ZONE-WH-004-008",
+    "entered_at": "2026-09-29T19:30:00Z",
+    "exited_at": "2026-10-04T15:00:00Z",
+    "dwell_hours": 115.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000348",
+    "lot_id": "LOT-2026-000348",
+    "zone_id": "ZONE-WH-005-004",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-02T06:00:00Z",
+    "dwell_hours": 68.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000349",
+    "lot_id": "LOT-2026-000349",
+    "zone_id": "ZONE-WH-005-006",
+    "entered_at": "2026-09-29T21:30:00Z",
+    "exited_at": "2026-10-03T18:00:00Z",
+    "dwell_hours": 92.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000350",
+    "lot_id": "LOT-2026-000350",
+    "zone_id": "ZONE-WH-006-001",
+    "entered_at": "2026-09-29T03:30:00Z",
+    "exited_at": "2026-10-03T04:00:00Z",
+    "dwell_hours": 96.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000351",
+    "lot_id": "LOT-2026-000351",
+    "zone_id": "ZONE-WH-006-007",
+    "entered_at": "2026-09-28T15:30:00Z",
+    "exited_at": "2026-10-06T00:00:00Z",
+    "dwell_hours": 176.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000352",
+    "lot_id": "LOT-2026-000352",
+    "zone_id": "ZONE-WH-007-002",
+    "entered_at": "2026-09-28T08:30:00Z",
+    "exited_at": "2026-10-04T16:00:00Z",
+    "dwell_hours": 151.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000353",
+    "lot_id": "LOT-2026-000353",
+    "zone_id": "ZONE-WH-007-008",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-03T21:00:00Z",
+    "dwell_hours": 126.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000354",
+    "lot_id": "LOT-2026-000354",
+    "zone_id": "ZONE-WH-008-004",
+    "entered_at": "2026-09-28T03:30:00Z",
+    "exited_at": "2026-10-02T23:00:00Z",
+    "dwell_hours": 115.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000355",
+    "lot_id": "LOT-2026-000355",
+    "zone_id": "ZONE-WH-008-006",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-03T15:00:00Z",
+    "dwell_hours": 101.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000356",
+    "lot_id": "LOT-2026-000356",
+    "zone_id": "ZONE-WH-009-001",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-02T09:00:00Z",
+    "dwell_hours": 45.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000357",
+    "lot_id": "LOT-2026-000357",
+    "zone_id": "ZONE-WH-009-007",
+    "entered_at": "2026-09-29T05:30:00Z",
+    "exited_at": "2026-10-05T02:00:00Z",
+    "dwell_hours": 140.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000358",
+    "lot_id": "LOT-2026-000358",
+    "zone_id": "ZONE-WH-010-002",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-03T05:00:00Z",
+    "dwell_hours": 111.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000359",
+    "lot_id": "LOT-2026-000359",
+    "zone_id": "ZONE-WH-010-008",
+    "entered_at": "2026-09-29T17:30:00Z",
+    "exited_at": "2026-10-03T05:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000360",
+    "lot_id": "LOT-2026-000360",
+    "zone_id": "ZONE-WH-001-004",
+    "entered_at": "2026-09-28T02:30:00Z",
+    "exited_at": "2026-10-04T14:00:00Z",
+    "dwell_hours": 155.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000361",
+    "lot_id": "LOT-2026-000361",
+    "zone_id": "ZONE-WH-001-006",
+    "entered_at": "2026-09-29T05:30:00Z",
+    "exited_at": "2026-10-04T00:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000362",
+    "lot_id": "LOT-2026-000362",
+    "zone_id": "ZONE-WH-002-001",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-04T00:00:00Z",
+    "dwell_hours": 123.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000363",
+    "lot_id": "LOT-2026-000363",
+    "zone_id": "ZONE-WH-002-007",
+    "entered_at": "2026-09-29T08:30:00Z",
+    "exited_at": "2026-10-03T01:00:00Z",
+    "dwell_hours": 88.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000364",
+    "lot_id": "LOT-2026-000364",
+    "zone_id": "ZONE-WH-003-002",
+    "entered_at": "2026-09-29T10:30:00Z",
+    "exited_at": "2026-10-05T04:00:00Z",
+    "dwell_hours": 137.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000365",
+    "lot_id": "LOT-2026-000365",
+    "zone_id": "ZONE-WH-003-008",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-04T10:00:00Z",
+    "dwell_hours": 96.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000366",
+    "lot_id": "LOT-2026-000366",
+    "zone_id": "ZONE-WH-004-004",
+    "entered_at": "2026-09-29T06:30:00Z",
+    "exited_at": "2026-10-02T12:00:00Z",
+    "dwell_hours": 77.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000367",
+    "lot_id": "LOT-2026-000367",
+    "zone_id": "ZONE-WH-004-006",
+    "entered_at": "2026-09-28T15:30:00Z",
+    "exited_at": "2026-10-04T11:00:00Z",
+    "dwell_hours": 139.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000368",
+    "lot_id": "LOT-2026-000368",
+    "zone_id": "ZONE-WH-005-001",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-05T02:00:00Z",
+    "dwell_hours": 130.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000369",
+    "lot_id": "LOT-2026-000369",
+    "zone_id": "ZONE-WH-005-007",
+    "entered_at": "2026-09-29T17:30:00Z",
+    "exited_at": "2026-10-03T23:00:00Z",
+    "dwell_hours": 101.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000370",
+    "lot_id": "LOT-2026-000370",
+    "zone_id": "ZONE-WH-006-002",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-04T02:00:00Z",
+    "dwell_hours": 125.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000371",
+    "lot_id": "LOT-2026-000371",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-04T15:00:00Z",
+    "dwell_hours": 151.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000372",
+    "lot_id": "LOT-2026-000372",
+    "zone_id": "ZONE-WH-007-004",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-05T03:00:00Z",
+    "dwell_hours": 156.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000373",
+    "lot_id": "LOT-2026-000373",
+    "zone_id": "ZONE-WH-007-006",
+    "entered_at": "2026-09-29T08:30:00Z",
+    "exited_at": "2026-10-03T15:00:00Z",
+    "dwell_hours": 102.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000374",
+    "lot_id": "LOT-2026-000374",
+    "zone_id": "ZONE-WH-008-001",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-04T12:00:00Z",
+    "dwell_hours": 116.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000375",
+    "lot_id": "LOT-2026-000375",
+    "zone_id": "ZONE-WH-008-007",
+    "entered_at": "2026-09-28T01:30:00Z",
+    "exited_at": "2026-10-02T10:00:00Z",
+    "dwell_hours": 104.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000376",
+    "lot_id": "LOT-2026-000376",
+    "zone_id": "ZONE-WH-009-002",
+    "entered_at": "2026-09-29T13:30:00Z",
+    "exited_at": "2026-10-05T12:00:00Z",
+    "dwell_hours": 142.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000377",
+    "lot_id": "LOT-2026-000377",
+    "zone_id": "ZONE-WH-009-008",
+    "entered_at": "2026-09-29T03:30:00Z",
+    "exited_at": "2026-10-04T21:00:00Z",
+    "dwell_hours": 137.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000378",
+    "lot_id": "LOT-2026-000378",
+    "zone_id": "ZONE-WH-010-004",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-02T11:00:00Z",
+    "dwell_hours": 67.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000379",
+    "lot_id": "LOT-2026-000379",
+    "zone_id": "ZONE-WH-010-006",
+    "entered_at": "2026-09-30T02:30:00Z",
+    "exited_at": "2026-10-05T17:00:00Z",
+    "dwell_hours": 134.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000380",
+    "lot_id": "LOT-2026-000380",
+    "zone_id": "ZONE-WH-001-001",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-03T11:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000381",
+    "lot_id": "LOT-2026-000381",
+    "zone_id": "ZONE-WH-001-007",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-03T02:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000382",
+    "lot_id": "LOT-2026-000382",
+    "zone_id": "ZONE-WH-002-002",
+    "entered_at": "2026-09-30T03:30:00Z",
+    "exited_at": "2026-10-02T02:00:00Z",
+    "dwell_hours": 46.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000383",
+    "lot_id": "LOT-2026-000383",
+    "zone_id": "ZONE-WH-002-008",
+    "entered_at": "2026-09-30T02:30:00Z",
+    "exited_at": "2026-10-05T17:00:00Z",
+    "dwell_hours": 134.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000384",
+    "lot_id": "LOT-2026-000384",
+    "zone_id": "ZONE-WH-003-004",
+    "entered_at": "2026-09-30T03:30:00Z",
+    "exited_at": "2026-10-04T16:00:00Z",
+    "dwell_hours": 108.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000385",
+    "lot_id": "LOT-2026-000385",
+    "zone_id": "ZONE-WH-003-006",
+    "entered_at": "2026-09-28T03:30:00Z",
+    "exited_at": "2026-10-02T08:00:00Z",
+    "dwell_hours": 100.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000386",
+    "lot_id": "LOT-2026-000386",
+    "zone_id": "ZONE-WH-004-001",
+    "entered_at": "2026-09-29T00:30:00Z",
+    "exited_at": "2026-10-05T22:00:00Z",
+    "dwell_hours": 165.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000387",
+    "lot_id": "LOT-2026-000387",
+    "zone_id": "ZONE-WH-004-007",
+    "entered_at": "2026-09-30T01:30:00Z",
+    "exited_at": "2026-10-05T12:00:00Z",
+    "dwell_hours": 130.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000388",
+    "lot_id": "LOT-2026-000388",
+    "zone_id": "ZONE-WH-005-002",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-04T22:00:00Z",
+    "dwell_hours": 109.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000389",
+    "lot_id": "LOT-2026-000389",
+    "zone_id": "ZONE-WH-005-008",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-02T20:00:00Z",
+    "dwell_hours": 93.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000390",
+    "lot_id": "LOT-2026-000390",
+    "zone_id": "ZONE-WH-006-004",
+    "entered_at": "2026-09-28T01:30:00Z",
+    "exited_at": "2026-10-03T01:00:00Z",
+    "dwell_hours": 119.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000391",
+    "lot_id": "LOT-2026-000391",
+    "zone_id": "ZONE-WH-006-006",
+    "entered_at": "2026-09-29T01:30:00Z",
+    "exited_at": "2026-10-02T10:00:00Z",
+    "dwell_hours": 80.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000392",
+    "lot_id": "LOT-2026-000392",
+    "zone_id": "ZONE-WH-007-001",
+    "entered_at": "2026-09-28T19:30:00Z",
+    "exited_at": "2026-10-03T09:00:00Z",
+    "dwell_hours": 109.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000393",
+    "lot_id": "LOT-2026-000393",
+    "zone_id": "ZONE-WH-007-007",
+    "entered_at": "2026-09-30T03:30:00Z",
+    "exited_at": "2026-10-03T15:00:00Z",
+    "dwell_hours": 83.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000394",
+    "lot_id": "LOT-2026-000394",
+    "zone_id": "ZONE-WH-008-002",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-02T08:00:00Z",
+    "dwell_hours": 90.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000395",
+    "lot_id": "LOT-2026-000395",
+    "zone_id": "ZONE-WH-008-008",
+    "entered_at": "2026-09-28T05:30:00Z",
+    "exited_at": "2026-10-05T05:00:00Z",
+    "dwell_hours": 167.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000396",
+    "lot_id": "LOT-2026-000396",
+    "zone_id": "ZONE-WH-009-004",
+    "entered_at": "2026-09-28T15:30:00Z",
+    "exited_at": "2026-10-04T03:00:00Z",
+    "dwell_hours": 131.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000397",
+    "lot_id": "LOT-2026-000397",
+    "zone_id": "ZONE-WH-009-006",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-02T13:00:00Z",
+    "dwell_hours": 69.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000398",
+    "lot_id": "LOT-2026-000398",
+    "zone_id": "ZONE-WH-010-001",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-02T12:00:00Z",
+    "dwell_hours": 61.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000399",
+    "lot_id": "LOT-2026-000399",
+    "zone_id": "ZONE-WH-010-007",
+    "entered_at": "2026-09-29T01:30:00Z",
+    "exited_at": "2026-10-04T19:00:00Z",
+    "dwell_hours": 137.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000400",
+    "lot_id": "LOT-2026-000400",
+    "zone_id": "ZONE-WH-001-002",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-05T17:00:00Z",
+    "dwell_hours": 125.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000401",
+    "lot_id": "LOT-2026-000401",
+    "zone_id": "ZONE-WH-001-008",
+    "entered_at": "2026-09-28T20:30:00Z",
+    "exited_at": "2026-10-05T04:00:00Z",
+    "dwell_hours": 151.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000402",
+    "lot_id": "LOT-2026-000402",
+    "zone_id": "ZONE-WH-002-004",
+    "entered_at": "2026-09-28T19:30:00Z",
+    "exited_at": "2026-10-02T08:00:00Z",
+    "dwell_hours": 84.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000403",
+    "lot_id": "LOT-2026-000403",
+    "zone_id": "ZONE-WH-002-006",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-05T07:00:00Z",
+    "dwell_hours": 167.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000404",
+    "lot_id": "LOT-2026-000404",
+    "zone_id": "ZONE-WH-003-001",
+    "entered_at": "2026-09-28T01:30:00Z",
+    "exited_at": "2026-10-06T00:00:00Z",
+    "dwell_hours": 190.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000405",
+    "lot_id": "LOT-2026-000405",
+    "zone_id": "ZONE-WH-003-007",
+    "entered_at": "2026-09-30T10:30:00Z",
+    "exited_at": "2026-10-03T13:00:00Z",
+    "dwell_hours": 74.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000406",
+    "lot_id": "LOT-2026-000406",
+    "zone_id": "ZONE-WH-004-002",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-03T03:00:00Z",
+    "dwell_hours": 76.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000407",
+    "lot_id": "LOT-2026-000407",
+    "zone_id": "ZONE-WH-004-008",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-03T01:00:00Z",
+    "dwell_hours": 74.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000408",
+    "lot_id": "LOT-2026-000408",
+    "zone_id": "ZONE-WH-005-004",
+    "entered_at": "2026-09-29T02:30:00Z",
+    "exited_at": "2026-10-06T00:00:00Z",
+    "dwell_hours": 165.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000409",
+    "lot_id": "LOT-2026-000409",
+    "zone_id": "ZONE-WH-005-006",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-02T21:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000410",
+    "lot_id": "LOT-2026-000410",
+    "zone_id": "ZONE-WH-006-001",
+    "entered_at": "2026-09-28T12:30:00Z",
+    "exited_at": "2026-10-04T12:00:00Z",
+    "dwell_hours": 143.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000411",
+    "lot_id": "LOT-2026-000411",
+    "zone_id": "ZONE-WH-006-007",
+    "entered_at": "2026-09-30T10:30:00Z",
+    "exited_at": "2026-10-05T09:00:00Z",
+    "dwell_hours": 118.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000412",
+    "lot_id": "LOT-2026-000412",
+    "zone_id": "ZONE-WH-007-002",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-03T11:00:00Z",
+    "dwell_hours": 97.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000413",
+    "lot_id": "LOT-2026-000413",
+    "zone_id": "ZONE-WH-007-008",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-02T17:00:00Z",
+    "dwell_hours": 105.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000414",
+    "lot_id": "LOT-2026-000414",
+    "zone_id": "ZONE-WH-008-004",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-04T04:00:00Z",
+    "dwell_hours": 124.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000415",
+    "lot_id": "LOT-2026-000415",
+    "zone_id": "ZONE-WH-002-010",
+    "entered_at": "2026-09-29T16:30:00Z",
+    "exited_at": "2026-10-04T15:00:00Z",
+    "dwell_hours": 118.5,
+    "is_zone_compatible": false
+  },
+  {
+    "assignment_id": "ZLA-2026-000416",
+    "lot_id": "LOT-2026-000416",
+    "zone_id": "ZONE-WH-009-001",
+    "entered_at": "2026-09-28T17:30:00Z",
+    "exited_at": "2026-10-03T06:00:00Z",
+    "dwell_hours": 108.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000417",
+    "lot_id": "LOT-2026-000417",
+    "zone_id": "ZONE-WH-009-007",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-02T01:00:00Z",
+    "dwell_hours": 44.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000418",
+    "lot_id": "LOT-2026-000418",
+    "zone_id": "ZONE-WH-010-002",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-04T15:00:00Z",
+    "dwell_hours": 125.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000419",
+    "lot_id": "LOT-2026-000419",
+    "zone_id": "ZONE-WH-010-008",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-04T23:00:00Z",
+    "dwell_hours": 157.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000420",
+    "lot_id": "LOT-2026-000420",
+    "zone_id": "ZONE-WH-001-004",
+    "entered_at": "2026-09-28T04:30:00Z",
+    "exited_at": "2026-10-04T00:00:00Z",
+    "dwell_hours": 139.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000421",
+    "lot_id": "LOT-2026-000421",
+    "zone_id": "ZONE-WH-001-006",
+    "entered_at": "2026-09-29T20:30:00Z",
+    "exited_at": "2026-10-05T08:00:00Z",
+    "dwell_hours": 131.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000422",
+    "lot_id": "LOT-2026-000422",
+    "zone_id": "ZONE-WH-002-001",
+    "entered_at": "2026-09-28T04:30:00Z",
+    "exited_at": "2026-10-02T07:00:00Z",
+    "dwell_hours": 98.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000423",
+    "lot_id": "LOT-2026-000423",
+    "zone_id": "ZONE-WH-002-007",
+    "entered_at": "2026-09-30T00:30:00Z",
+    "exited_at": "2026-10-02T20:00:00Z",
+    "dwell_hours": 67.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000424",
+    "lot_id": "LOT-2026-000424",
+    "zone_id": "ZONE-WH-003-002",
+    "entered_at": "2026-09-29T00:30:00Z",
+    "exited_at": "2026-10-02T06:00:00Z",
+    "dwell_hours": 77.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000425",
+    "lot_id": "LOT-2026-000425",
+    "zone_id": "ZONE-WH-003-008",
+    "entered_at": "2026-09-28T02:30:00Z",
+    "exited_at": "2026-10-04T12:00:00Z",
+    "dwell_hours": 153.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000426",
+    "lot_id": "LOT-2026-000426",
+    "zone_id": "ZONE-WH-004-004",
+    "entered_at": "2026-09-30T12:30:00Z",
+    "exited_at": "2026-10-04T20:00:00Z",
+    "dwell_hours": 103.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000427",
+    "lot_id": "LOT-2026-000427",
+    "zone_id": "ZONE-WH-004-006",
+    "entered_at": "2026-09-29T03:30:00Z",
+    "exited_at": "2026-10-04T22:00:00Z",
+    "dwell_hours": 138.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000428",
+    "lot_id": "LOT-2026-000428",
+    "zone_id": "ZONE-WH-005-001",
+    "entered_at": "2026-09-30T05:30:00Z",
+    "exited_at": "2026-10-05T20:00:00Z",
+    "dwell_hours": 134.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000429",
+    "lot_id": "LOT-2026-000429",
+    "zone_id": "ZONE-WH-005-007",
+    "entered_at": "2026-09-29T07:30:00Z",
+    "exited_at": "2026-10-02T04:00:00Z",
+    "dwell_hours": 68.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000430",
+    "lot_id": "LOT-2026-000430",
+    "zone_id": "ZONE-WH-006-002",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-03T03:00:00Z",
+    "dwell_hours": 108.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000431",
+    "lot_id": "LOT-2026-000431",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-02T03:00:00Z",
+    "dwell_hours": 84.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000432",
+    "lot_id": "LOT-2026-000432",
+    "zone_id": "ZONE-WH-007-004",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-04T09:00:00Z",
+    "dwell_hours": 93.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000433",
+    "lot_id": "LOT-2026-000433",
+    "zone_id": "ZONE-WH-007-006",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-03T06:00:00Z",
+    "dwell_hours": 70.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000434",
+    "lot_id": "LOT-2026-000434",
+    "zone_id": "ZONE-WH-008-001",
+    "entered_at": "2026-09-28T00:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 126.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000435",
+    "lot_id": "LOT-2026-000435",
+    "zone_id": "ZONE-WH-008-007",
+    "entered_at": "2026-09-28T02:30:00Z",
+    "exited_at": "2026-10-05T02:00:00Z",
+    "dwell_hours": 167.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000436",
+    "lot_id": "LOT-2026-000436",
+    "zone_id": "ZONE-WH-009-002",
+    "entered_at": "2026-09-28T08:30:00Z",
+    "exited_at": "2026-10-05T04:00:00Z",
+    "dwell_hours": 163.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000437",
+    "lot_id": "LOT-2026-000437",
+    "zone_id": "ZONE-WH-009-008",
+    "entered_at": "2026-09-28T12:30:00Z",
+    "exited_at": "2026-10-04T13:00:00Z",
+    "dwell_hours": 144.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000438",
+    "lot_id": "LOT-2026-000438",
+    "zone_id": "ZONE-WH-010-004",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-03T01:00:00Z",
+    "dwell_hours": 98.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000439",
+    "lot_id": "LOT-2026-000439",
+    "zone_id": "ZONE-WH-010-006",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-03T12:00:00Z",
+    "dwell_hours": 108.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000440",
+    "lot_id": "LOT-2026-000440",
+    "zone_id": "ZONE-WH-001-001",
+    "entered_at": "2026-09-29T18:30:00Z",
+    "exited_at": "2026-10-02T05:00:00Z",
+    "dwell_hours": 58.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000441",
+    "lot_id": "LOT-2026-000441",
+    "zone_id": "ZONE-WH-001-007",
+    "entered_at": "2026-09-29T16:30:00Z",
+    "exited_at": "2026-10-03T10:00:00Z",
+    "dwell_hours": 89.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000442",
+    "lot_id": "LOT-2026-000442",
+    "zone_id": "ZONE-WH-002-002",
+    "entered_at": "2026-09-30T00:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000443",
+    "lot_id": "LOT-2026-000443",
+    "zone_id": "ZONE-WH-002-008",
+    "entered_at": "2026-09-28T19:30:00Z",
+    "exited_at": "2026-10-03T11:00:00Z",
+    "dwell_hours": 111.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000444",
+    "lot_id": "LOT-2026-000444",
+    "zone_id": "ZONE-WH-003-004",
+    "entered_at": "2026-09-29T12:30:00Z",
+    "exited_at": "2026-10-02T19:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000445",
+    "lot_id": "LOT-2026-000445",
+    "zone_id": "ZONE-WH-003-006",
+    "entered_at": "2026-09-29T03:30:00Z",
+    "exited_at": "2026-10-03T20:00:00Z",
+    "dwell_hours": 112.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000446",
+    "lot_id": "LOT-2026-000446",
+    "zone_id": "ZONE-WH-004-001",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-05T13:00:00Z",
+    "dwell_hours": 167.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000447",
+    "lot_id": "LOT-2026-000447",
+    "zone_id": "ZONE-WH-004-007",
+    "entered_at": "2026-09-30T11:30:00Z",
+    "exited_at": "2026-10-03T21:00:00Z",
+    "dwell_hours": 81.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000448",
+    "lot_id": "LOT-2026-000448",
+    "zone_id": "ZONE-WH-005-002",
+    "entered_at": "2026-09-28T15:30:00Z",
+    "exited_at": "2026-10-05T18:00:00Z",
+    "dwell_hours": 170.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000449",
+    "lot_id": "LOT-2026-000449",
+    "zone_id": "ZONE-WH-005-008",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-05T10:00:00Z",
+    "dwell_hours": 154.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000450",
+    "lot_id": "LOT-2026-000450",
+    "zone_id": "ZONE-WH-006-004",
+    "entered_at": "2026-09-28T23:30:00Z",
+    "exited_at": "2026-10-02T02:00:00Z",
+    "dwell_hours": 74.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000451",
+    "lot_id": "LOT-2026-000451",
+    "zone_id": "ZONE-WH-006-006",
+    "entered_at": "2026-09-28T11:30:00Z",
+    "exited_at": "2026-10-04T01:00:00Z",
+    "dwell_hours": 133.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000452",
+    "lot_id": "LOT-2026-000452",
+    "zone_id": "ZONE-WH-007-001",
+    "entered_at": "2026-09-28T12:30:00Z",
+    "exited_at": "2026-10-04T14:00:00Z",
+    "dwell_hours": 145.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000453",
+    "lot_id": "LOT-2026-000453",
+    "zone_id": "ZONE-WH-007-007",
+    "entered_at": "2026-09-30T00:30:00Z",
+    "exited_at": "2026-10-03T17:00:00Z",
+    "dwell_hours": 88.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000454",
+    "lot_id": "LOT-2026-000454",
+    "zone_id": "ZONE-WH-008-002",
+    "entered_at": "2026-09-30T09:30:00Z",
+    "exited_at": "2026-10-03T03:00:00Z",
+    "dwell_hours": 65.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000455",
+    "lot_id": "LOT-2026-000455",
+    "zone_id": "ZONE-WH-008-008",
+    "entered_at": "2026-09-30T06:30:00Z",
+    "exited_at": "2026-10-03T02:00:00Z",
+    "dwell_hours": 67.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000456",
+    "lot_id": "LOT-2026-000456",
+    "zone_id": "ZONE-WH-009-004",
+    "entered_at": "2026-09-28T10:30:00Z",
+    "exited_at": "2026-10-02T20:00:00Z",
+    "dwell_hours": 105.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000457",
+    "lot_id": "LOT-2026-000457",
+    "zone_id": "ZONE-WH-009-006",
+    "entered_at": "2026-09-28T22:30:00Z",
+    "exited_at": "2026-10-02T05:00:00Z",
+    "dwell_hours": 78.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000458",
+    "lot_id": "LOT-2026-000458",
+    "zone_id": "ZONE-WH-010-001",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-02T14:00:00Z",
+    "dwell_hours": 70.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000459",
+    "lot_id": "LOT-2026-000459",
+    "zone_id": "ZONE-WH-010-007",
+    "entered_at": "2026-09-29T13:30:00Z",
+    "exited_at": "2026-10-05T18:00:00Z",
+    "dwell_hours": 148.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000460",
+    "lot_id": "LOT-2026-000460",
+    "zone_id": "ZONE-WH-001-002",
+    "entered_at": "2026-09-29T05:30:00Z",
+    "exited_at": "2026-10-02T20:00:00Z",
+    "dwell_hours": 86.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000461",
+    "lot_id": "LOT-2026-000461",
+    "zone_id": "ZONE-WH-001-008",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-02T01:00:00Z",
+    "dwell_hours": 40.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000462",
+    "lot_id": "LOT-2026-000462",
+    "zone_id": "ZONE-WH-002-004",
+    "entered_at": "2026-09-29T02:30:00Z",
+    "exited_at": "2026-10-05T01:00:00Z",
+    "dwell_hours": 142.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000463",
+    "lot_id": "LOT-2026-000463",
+    "zone_id": "ZONE-WH-002-006",
+    "entered_at": "2026-09-30T04:30:00Z",
+    "exited_at": "2026-10-03T03:00:00Z",
+    "dwell_hours": 70.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000464",
+    "lot_id": "LOT-2026-000464",
+    "zone_id": "ZONE-WH-003-001",
+    "entered_at": "2026-09-29T14:30:00Z",
+    "exited_at": "2026-10-02T18:00:00Z",
+    "dwell_hours": 75.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000465",
+    "lot_id": "LOT-2026-000465",
+    "zone_id": "ZONE-WH-003-007",
+    "entered_at": "2026-09-28T16:30:00Z",
+    "exited_at": "2026-10-03T22:00:00Z",
+    "dwell_hours": 125.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000466",
+    "lot_id": "LOT-2026-000466",
+    "zone_id": "ZONE-WH-004-002",
+    "entered_at": "2026-09-28T14:30:00Z",
+    "exited_at": "2026-10-03T17:00:00Z",
+    "dwell_hours": 122.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000467",
+    "lot_id": "LOT-2026-000467",
+    "zone_id": "ZONE-WH-004-008",
+    "entered_at": "2026-09-29T07:30:00Z",
+    "exited_at": "2026-10-04T17:00:00Z",
+    "dwell_hours": 129.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000468",
+    "lot_id": "LOT-2026-000468",
+    "zone_id": "ZONE-WH-005-004",
+    "entered_at": "2026-09-29T07:30:00Z",
+    "exited_at": "2026-10-05T18:00:00Z",
+    "dwell_hours": 154.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000469",
+    "lot_id": "LOT-2026-000469",
+    "zone_id": "ZONE-WH-005-006",
+    "entered_at": "2026-09-29T07:30:00Z",
+    "exited_at": "2026-10-05T10:00:00Z",
+    "dwell_hours": 146.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000470",
+    "lot_id": "LOT-2026-000470",
+    "zone_id": "ZONE-WH-006-001",
+    "entered_at": "2026-09-29T15:30:00Z",
+    "exited_at": "2026-10-04T10:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000471",
+    "lot_id": "LOT-2026-000471",
+    "zone_id": "ZONE-WH-006-007",
+    "entered_at": "2026-09-28T05:30:00Z",
+    "exited_at": "2026-10-05T00:00:00Z",
+    "dwell_hours": 162.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000472",
+    "lot_id": "LOT-2026-000472",
+    "zone_id": "ZONE-WH-007-002",
+    "entered_at": "2026-09-28T17:30:00Z",
+    "exited_at": "2026-10-04T18:00:00Z",
+    "dwell_hours": 144.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000473",
+    "lot_id": "LOT-2026-000473",
+    "zone_id": "ZONE-WH-007-008",
+    "entered_at": "2026-09-29T19:30:00Z",
+    "exited_at": "2026-10-05T06:00:00Z",
+    "dwell_hours": 130.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000474",
+    "lot_id": "LOT-2026-000474",
+    "zone_id": "ZONE-WH-008-004",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-05T09:00:00Z",
+    "dwell_hours": 163.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000475",
+    "lot_id": "LOT-2026-000475",
+    "zone_id": "ZONE-WH-008-006",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-03T12:00:00Z",
+    "dwell_hours": 98.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000476",
+    "lot_id": "LOT-2026-000476",
+    "zone_id": "ZONE-WH-009-001",
+    "entered_at": "2026-09-29T22:30:00Z",
+    "exited_at": "2026-10-04T21:00:00Z",
+    "dwell_hours": 118.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000477",
+    "lot_id": "LOT-2026-000477",
+    "zone_id": "ZONE-WH-009-007",
+    "entered_at": "2026-09-29T04:30:00Z",
+    "exited_at": "2026-10-03T23:00:00Z",
+    "dwell_hours": 114.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000478",
+    "lot_id": "LOT-2026-000478",
+    "zone_id": "ZONE-WH-010-002",
+    "entered_at": "2026-09-28T06:30:00Z",
+    "exited_at": "2026-10-05T12:00:00Z",
+    "dwell_hours": 173.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000479",
+    "lot_id": "LOT-2026-000479",
+    "zone_id": "ZONE-WH-010-008",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-05T04:00:00Z",
+    "dwell_hours": 158.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000480",
+    "lot_id": "LOT-2026-000480",
+    "zone_id": "ZONE-WH-001-004",
+    "entered_at": "2026-09-28T05:30:00Z",
+    "exited_at": "2026-10-05T13:00:00Z",
+    "dwell_hours": 175.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000481",
+    "lot_id": "LOT-2026-000481",
+    "zone_id": "ZONE-WH-001-006",
+    "entered_at": "2026-09-30T01:30:00Z",
+    "exited_at": "2026-10-03T09:00:00Z",
+    "dwell_hours": 79.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000482",
+    "lot_id": "LOT-2026-000482",
+    "zone_id": "ZONE-WH-002-001",
+    "entered_at": "2026-09-29T04:30:00Z",
+    "exited_at": "2026-10-03T16:00:00Z",
+    "dwell_hours": 107.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000483",
+    "lot_id": "LOT-2026-000483",
+    "zone_id": "ZONE-WH-002-007",
+    "entered_at": "2026-09-29T17:30:00Z",
+    "exited_at": "2026-10-04T21:00:00Z",
+    "dwell_hours": 123.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000484",
+    "lot_id": "LOT-2026-000484",
+    "zone_id": "ZONE-WH-003-002",
+    "entered_at": "2026-09-28T09:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 117.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000485",
+    "lot_id": "LOT-2026-000485",
+    "zone_id": "ZONE-WH-001-009",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-06T00:00:00Z",
+    "dwell_hours": 136.5,
+    "is_zone_compatible": false
+  },
+  {
+    "assignment_id": "ZLA-2026-000486",
+    "lot_id": "LOT-2026-000486",
+    "zone_id": "ZONE-WH-004-004",
+    "entered_at": "2026-09-29T17:30:00Z",
+    "exited_at": "2026-10-02T10:00:00Z",
+    "dwell_hours": 64.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000487",
+    "lot_id": "LOT-2026-000487",
+    "zone_id": "ZONE-WH-004-006",
+    "entered_at": "2026-09-28T08:30:00Z",
+    "exited_at": "2026-10-02T21:00:00Z",
+    "dwell_hours": 108.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000488",
+    "lot_id": "LOT-2026-000488",
+    "zone_id": "ZONE-WH-005-001",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-03T12:00:00Z",
+    "dwell_hours": 75.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000489",
+    "lot_id": "LOT-2026-000489",
+    "zone_id": "ZONE-WH-005-007",
+    "entered_at": "2026-09-29T17:30:00Z",
+    "exited_at": "2026-10-03T20:00:00Z",
+    "dwell_hours": 98.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000490",
+    "lot_id": "LOT-2026-000490",
+    "zone_id": "ZONE-WH-006-002",
+    "entered_at": "2026-09-28T17:30:00Z",
+    "exited_at": "2026-10-02T02:00:00Z",
+    "dwell_hours": 80.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000491",
+    "lot_id": "LOT-2026-000491",
+    "zone_id": "ZONE-WH-006-008",
+    "entered_at": "2026-09-28T13:30:00Z",
+    "exited_at": "2026-10-03T17:00:00Z",
+    "dwell_hours": 123.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000492",
+    "lot_id": "LOT-2026-000492",
+    "zone_id": "ZONE-WH-007-004",
+    "entered_at": "2026-09-28T07:30:00Z",
+    "exited_at": "2026-10-03T14:00:00Z",
+    "dwell_hours": 126.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000493",
+    "lot_id": "LOT-2026-000493",
+    "zone_id": "ZONE-WH-007-006",
+    "entered_at": "2026-09-28T03:30:00Z",
+    "exited_at": "2026-10-04T08:00:00Z",
+    "dwell_hours": 148.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000494",
+    "lot_id": "LOT-2026-000494",
+    "zone_id": "ZONE-WH-008-001",
+    "entered_at": "2026-09-29T12:30:00Z",
+    "exited_at": "2026-10-04T02:00:00Z",
+    "dwell_hours": 109.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000495",
+    "lot_id": "LOT-2026-000495",
+    "zone_id": "ZONE-WH-008-007",
+    "entered_at": "2026-09-30T08:30:00Z",
+    "exited_at": "2026-10-03T07:00:00Z",
+    "dwell_hours": 70.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000496",
+    "lot_id": "LOT-2026-000496",
+    "zone_id": "ZONE-WH-009-002",
+    "entered_at": "2026-09-29T03:30:00Z",
+    "exited_at": "2026-10-04T03:00:00Z",
+    "dwell_hours": 119.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000497",
+    "lot_id": "LOT-2026-000497",
+    "zone_id": "ZONE-WH-009-008",
+    "entered_at": "2026-09-28T04:30:00Z",
+    "exited_at": "2026-10-03T00:00:00Z",
+    "dwell_hours": 115.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000498",
+    "lot_id": "LOT-2026-000498",
+    "zone_id": "ZONE-WH-010-004",
+    "entered_at": "2026-09-29T02:30:00Z",
+    "exited_at": "2026-10-03T14:00:00Z",
+    "dwell_hours": 107.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000499",
+    "lot_id": "LOT-2026-000499",
+    "zone_id": "ZONE-WH-010-006",
+    "entered_at": "2026-09-30T07:30:00Z",
+    "exited_at": "2026-10-03T20:00:00Z",
+    "dwell_hours": 84.5,
+    "is_zone_compatible": true
+  },
+  {
+    "assignment_id": "ZLA-2026-000500",
+    "lot_id": "LOT-2026-000500",
+    "zone_id": "ZONE-WH-001-001",
+    "entered_at": "2026-09-29T09:30:00Z",
+    "exited_at": "2026-10-06T00:00:00Z",
+    "dwell_hours": 158.5,
+    "is_zone_compatible": true
+  }
+]

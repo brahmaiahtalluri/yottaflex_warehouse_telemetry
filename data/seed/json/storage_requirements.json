@@ -1,0 +1,62 @@
+[
+  {
+    "requirement_id": "REQ-001",
+    "product_category": "BIOLOGIC_VACCINE_ULT",
+    "req_temp_min_c": -30.0,
+    "req_temp_max_c": -18.0,
+    "req_humidity_min_pct": 25.0,
+    "req_humidity_max_pct": 55.0,
+    "max_excursion_minutes": 20,
+    "allowed_zone_types": "DEEP_FREEZE"
+  },
+  {
+    "requirement_id": "REQ-002",
+    "product_category": "FROZEN_BIOPHARMA",
+    "req_temp_min_c": -28.0,
+    "req_temp_max_c": -18.0,
+    "req_humidity_min_pct": 25.0,
+    "req_humidity_max_pct": 60.0,
+    "max_excursion_minutes": 30,
+    "allowed_zone_types": "DEEP_FREEZE"
+  },
+  {
+    "requirement_id": "REQ-003",
+    "product_category": "CHILLED_INSULIN",
+    "req_temp_min_c": 2.0,
+    "req_temp_max_c": 8.0,
+    "req_humidity_min_pct": 35.0,
+    "req_humidity_max_pct": 65.0,
+    "max_excursion_minutes": 45,
+    "allowed_zone_types": "CHILLED"
+  },
+  {
+    "requirement_id": "REQ-004",
+    "product_category": "DAIRY_PROBIOTIC",
+    "req_temp_min_c": 2.0,
+    "req_temp_max_c": 8.0,
+    "req_humidity_min_pct": 35.0,
+    "req_humidity_max_pct": 70.0,
+    "max_excursion_minutes": 60,
+    "allowed_zone_types": "CHILLED,STAGING_DOCK"
+  },
+  {
+    "requirement_id": "REQ-005",
+    "product_category": "CONTROLLED_API_POWDER",
+    "req_temp_min_c": 15.0,
+    "req_temp_max_c": 25.0,
+    "req_humidity_min_pct": 30.0,
+    "req_humidity_max_pct": 60.0,
+    "max_excursion_minutes": 90,
+    "allowed_zone_types": "CONTROLLED_AMBIENT,STAGING_DOCK"
+  },
+  {
+    "requirement_id": "REQ-006",
+    "product_category": "HEATED_RESIN_CURING",
+    "req_temp_min_c": 30.0,
+    "req_temp_max_c": 42.0,
+    "req_humidity_min_pct": 20.0,
+    "req_humidity_max_pct": 50.0,
+    "max_excursion_minutes": 60,
+    "allowed_zone_types": "HEATED_CURING"
+  }
+]

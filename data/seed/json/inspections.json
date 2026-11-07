@@ -1,0 +1,712 @@
+[
+  {
+    "inspection_id": "INS-2026-000001",
+    "alarm_id": "ALM-2026-000001",
+    "zone_id": "ZONE-WH-001-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:20:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000002",
+    "alarm_id": "ALM-2026-000002",
+    "zone_id": "ZONE-WH-001-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:20:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000003",
+    "alarm_id": "ALM-2026-000003",
+    "zone_id": "ZONE-WH-001-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:45:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000004",
+    "alarm_id": "ALM-2026-000004",
+    "zone_id": "ZONE-WH-001-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:45:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000005",
+    "alarm_id": "ALM-2026-000005",
+    "zone_id": "ZONE-WH-001-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:45:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000006",
+    "alarm_id": "ALM-2026-000006",
+    "zone_id": "ZONE-WH-002-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:35:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000007",
+    "alarm_id": "ALM-2026-000007",
+    "zone_id": "ZONE-WH-002-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:35:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000008",
+    "alarm_id": "ALM-2026-000008",
+    "zone_id": "ZONE-WH-002-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:35:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000009",
+    "alarm_id": "ALM-2026-000009",
+    "zone_id": "ZONE-WH-002-004",
+    "inspector_role": "PLANT_OPERATOR",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "WITHIN_TOLERANCE",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000010",
+    "alarm_id": "ALM-2026-000010",
+    "zone_id": "ZONE-WH-002-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000011",
+    "alarm_id": "ALM-2026-000011",
+    "zone_id": "ZONE-WH-002-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000012",
+    "alarm_id": "ALM-2026-000012",
+    "zone_id": "ZONE-WH-002-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000013",
+    "alarm_id": "ALM-2026-000013",
+    "zone_id": "ZONE-WH-003-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000014",
+    "alarm_id": "ALM-2026-000014",
+    "zone_id": "ZONE-WH-003-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000015",
+    "alarm_id": "ALM-2026-000015",
+    "zone_id": "ZONE-WH-003-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000016",
+    "alarm_id": "ALM-2026-000016",
+    "zone_id": "ZONE-WH-003-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000017",
+    "alarm_id": "ALM-2026-000017",
+    "zone_id": "ZONE-WH-003-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000018",
+    "alarm_id": "ALM-2026-000018",
+    "zone_id": "ZONE-WH-003-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000019",
+    "alarm_id": "ALM-2026-000019",
+    "zone_id": "ZONE-WH-003-008",
+    "inspector_role": "PLANT_OPERATOR",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "WITHIN_TOLERANCE",
+    "requires_remediation": false,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000020",
+    "alarm_id": "ALM-2026-000020",
+    "zone_id": "ZONE-WH-004-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:30:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000021",
+    "alarm_id": "ALM-2026-000021",
+    "zone_id": "ZONE-WH-004-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:30:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000022",
+    "alarm_id": "ALM-2026-000022",
+    "zone_id": "ZONE-WH-004-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:30:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000023",
+    "alarm_id": "ALM-2026-000023",
+    "zone_id": "ZONE-WH-004-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:20:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000024",
+    "alarm_id": "ALM-2026-000024",
+    "zone_id": "ZONE-WH-004-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:20:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000025",
+    "alarm_id": "ALM-2026-000025",
+    "zone_id": "ZONE-WH-004-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:20:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000026",
+    "alarm_id": "ALM-2026-000026",
+    "zone_id": "ZONE-WH-005-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:45:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000027",
+    "alarm_id": "ALM-2026-000027",
+    "zone_id": "ZONE-WH-005-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:45:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000028",
+    "alarm_id": "ALM-2026-000028",
+    "zone_id": "ZONE-WH-005-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:45:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000029",
+    "alarm_id": "ALM-2026-000029",
+    "zone_id": "ZONE-WH-005-002",
+    "inspector_role": "PLANT_OPERATOR",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "WITHIN_TOLERANCE",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000030",
+    "alarm_id": "ALM-2026-000030",
+    "zone_id": "ZONE-WH-005-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:35:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000031",
+    "alarm_id": "ALM-2026-000031",
+    "zone_id": "ZONE-WH-005-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:35:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000032",
+    "alarm_id": "ALM-2026-000032",
+    "zone_id": "ZONE-WH-005-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:35:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000033",
+    "alarm_id": "ALM-2026-000033",
+    "zone_id": "ZONE-WH-006-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000034",
+    "alarm_id": "ALM-2026-000034",
+    "zone_id": "ZONE-WH-006-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000035",
+    "alarm_id": "ALM-2026-000035",
+    "zone_id": "ZONE-WH-006-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000036",
+    "alarm_id": "ALM-2026-000036",
+    "zone_id": "ZONE-WH-006-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000037",
+    "alarm_id": "ALM-2026-000037",
+    "zone_id": "ZONE-WH-006-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000038",
+    "alarm_id": "ALM-2026-000038",
+    "zone_id": "ZONE-WH-006-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000039",
+    "alarm_id": "ALM-2026-000039",
+    "zone_id": "ZONE-WH-006-006",
+    "inspector_role": "PLANT_OPERATOR",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "WITHIN_TOLERANCE",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000040",
+    "alarm_id": "ALM-2026-000040",
+    "zone_id": "ZONE-WH-007-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000041",
+    "alarm_id": "ALM-2026-000041",
+    "zone_id": "ZONE-WH-007-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000042",
+    "alarm_id": "ALM-2026-000042",
+    "zone_id": "ZONE-WH-007-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000043",
+    "alarm_id": "ALM-2026-000043",
+    "zone_id": "ZONE-WH-007-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:30:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000044",
+    "alarm_id": "ALM-2026-000044",
+    "zone_id": "ZONE-WH-007-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:30:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000045",
+    "alarm_id": "ALM-2026-000045",
+    "zone_id": "ZONE-WH-007-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:30:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000046",
+    "alarm_id": "ALM-2026-000046",
+    "zone_id": "ZONE-WH-007-010",
+    "inspector_role": "PLANT_OPERATOR",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "WITHIN_TOLERANCE",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000047",
+    "alarm_id": "ALM-2026-000047",
+    "zone_id": "ZONE-WH-008-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:20:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000048",
+    "alarm_id": "ALM-2026-000048",
+    "zone_id": "ZONE-WH-008-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:20:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000049",
+    "alarm_id": "ALM-2026-000049",
+    "zone_id": "ZONE-WH-008-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:20:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000050",
+    "alarm_id": "ALM-2026-000050",
+    "zone_id": "ZONE-WH-008-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:45:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000051",
+    "alarm_id": "ALM-2026-000051",
+    "zone_id": "ZONE-WH-008-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:45:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000052",
+    "alarm_id": "ALM-2026-000052",
+    "zone_id": "ZONE-WH-008-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:45:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000053",
+    "alarm_id": "ALM-2026-000053",
+    "zone_id": "ZONE-WH-009-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:35:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000054",
+    "alarm_id": "ALM-2026-000054",
+    "zone_id": "ZONE-WH-009-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:35:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000055",
+    "alarm_id": "ALM-2026-000055",
+    "zone_id": "ZONE-WH-009-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:35:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000056",
+    "alarm_id": "ALM-2026-000056",
+    "zone_id": "ZONE-WH-009-004",
+    "inspector_role": "PLANT_OPERATOR",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "WITHIN_TOLERANCE",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000057",
+    "alarm_id": "ALM-2026-000057",
+    "zone_id": "ZONE-WH-009-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000058",
+    "alarm_id": "ALM-2026-000058",
+    "zone_id": "ZONE-WH-009-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000059",
+    "alarm_id": "ALM-2026-000059",
+    "zone_id": "ZONE-WH-009-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000060",
+    "alarm_id": "ALM-2026-000060",
+    "zone_id": "ZONE-WH-010-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000061",
+    "alarm_id": "ALM-2026-000061",
+    "zone_id": "ZONE-WH-010-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000062",
+    "alarm_id": "ALM-2026-000062",
+    "zone_id": "ZONE-WH-010-001",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000063",
+    "alarm_id": "ALM-2026-000063",
+    "zone_id": "ZONE-WH-010-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000064",
+    "alarm_id": "ALM-2026-000064",
+    "zone_id": "ZONE-WH-010-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000065",
+    "alarm_id": "ALM-2026-000065",
+    "zone_id": "ZONE-WH-010-006",
+    "inspector_role": "QUALITY_ENGINEER",
+    "inspected_at": "2026-10-01T01:50:00Z",
+    "finding_code": "CONFIRMED_EXCURSION",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000066",
+    "alarm_id": "ALM-2026-000066",
+    "zone_id": "ZONE-WH-010-008",
+    "inspector_role": "PLANT_OPERATOR",
+    "inspected_at": "2026-10-01T01:40:00Z",
+    "finding_code": "WITHIN_TOLERANCE",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000067",
+    "alarm_id": "ALM-2026-000067",
+    "zone_id": "ZONE-WH-001-003",
+    "inspector_role": "OT_IT_ADMIN",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "SENSOR_COMMS_DROP",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000068",
+    "alarm_id": "ALM-2026-000068",
+    "zone_id": "ZONE-WH-002-008",
+    "inspector_role": "OT_IT_ADMIN",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "SENSOR_COMMS_DROP",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000069",
+    "alarm_id": "ALM-2026-000069",
+    "zone_id": "ZONE-WH-004-009",
+    "inspector_role": "OT_IT_ADMIN",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "SENSOR_COMMS_DROP",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000070",
+    "alarm_id": "ALM-2026-000070",
+    "zone_id": "ZONE-WH-007-003",
+    "inspector_role": "OT_IT_ADMIN",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "SENSOR_COMMS_DROP",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  },
+  {
+    "inspection_id": "INS-2026-000071",
+    "alarm_id": "ALM-2026-000071",
+    "zone_id": "ZONE-WH-009-004",
+    "inspector_role": "OT_IT_ADMIN",
+    "inspected_at": "2026-10-01T01:25:00Z",
+    "finding_code": "SENSOR_COMMS_DROP",
+    "requires_remediation": true,
+    "lifecycle_state": "COMPLETED"
+  }
+]

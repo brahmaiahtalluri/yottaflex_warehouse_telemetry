@@ -1,0 +1,70 @@
+{
+  "generator_version": "1.0.0",
+  "fixed_seed": 20261022,
+  "scale": "starter",
+  "base_epoch_utc": "2026-10-01T00:00:00Z",
+  "generator_command": "python3 generator/generate_dataset.py --seed 20261022 --scale starter --out-dir data\\seed",
+  "provenance": {
+    "data_origin": "100% Synthetic Deterministic Generation (Lawful Use / Zero PII)",
+    "schema_inspiration": [
+      "WHO Technical Supplement: Temperature Mapping of Storage Areas (Public Guidance)",
+      "EU GDP Guidelines (2013/C 343/01) for Cold-Chain Pharmaceutical Warehousing",
+      "ISA-95 / ISA-18.2 Industrial Alarm Management Lifecycle Standards"
+    ],
+    "license": "MIT / Open Challenge Submission"
+  },
+  "row_counts": {
+    "warehouses": 10,
+    "zones": 100,
+    "sensors": 500,
+    "sensor_zone_mapping_history": 506,
+    "sensor_readings": 15000,
+    "door_events": 300,
+    "storage_requirements": 6,
+    "inventory_lots": 500,
+    "zone_lot_assignments": 500,
+    "alarms": 71,
+    "alarm_affected_lots": 511,
+    "inspections": 71,
+    "remediations": 70,
+    "ground_truth": 25
+  },
+  "edge_case_counts": {
+    "SENSOR_MULTI_ZONE_NO_RATIONALE": 6,
+    "READING_GAP_TREATED_AS_NORMAL": 6,
+    "LOT_INCOMPATIBLE_ZONE": 8,
+    "ALARM_UNLINKED_TO_AFFECTED_LOTS": 5
+  },
+  "file_sha256_checksums": {
+    "csv/warehouses.csv": "3c2be6972987cc7d629fca28fc481ba84ea87bd5dc5e0e947d6849f4514f051e",
+    "json/warehouses.json": "44f59cae7128df4c9f8e27d965b7fddb9c6ec2c89d4688799ce6b44a97157353",
+    "csv/zones.csv": "8e513ed972d612d5c912c817b80403472a88aa8a606f65008270b020be0af115",
+    "json/zones.json": "5be8b7404b5c901ce6c623c605343b423dc834622ba78bf0b54426ba5d6dbf42",
+    "csv/sensors.csv": "7306c593a7a44ddfe298bb0be173030ffbf5e4025ee6414a6f2cde78efa7f0cb",
+    "json/sensors.json": "9d298389655a7bfe6c95b4da4a97e2f12345c33ddedd3efd2296fe51582d73c5",
+    "csv/sensor_zone_mapping_history.csv": "a47f4e8c25cab331308ab44dd7e704baf332f5641e8370764c631141bdcf39df",
+    "json/sensor_zone_mapping_history.json": "5914bc02ba899383015ba50a250b99d65dedae3ca3912672a61142a4fefd63a2",
+    "csv/sensor_readings.csv": "059727026ca2d3a0c07a9d3319186185f635ba709538be5c46c9d4fd3d0f7041",
+    "json/sensor_readings.json": "f2a66bf1ea427b055745ded2f465923ac6d0f25c3a2d8bcebc8c9e72f28e3993",
+    "csv/door_events.csv": "7c65a82f49dcb9541fe6fc2a679ad5bc11220f65fdf2bb3abbd2f167062d0970",
+    "json/door_events.json": "1753180b24a1a6d08bcebf6b3f0a94514517a87e8ed9d88b3a605f4f822db8ff",
+    "csv/storage_requirements.csv": "c98c53d0727dd86d80bf041e1b54bd9564282ae6f8ffdb896cb351b821ecae55",
+    "json/storage_requirements.json": "a2087c17ae62d7b3cb0e2cb9d21e5ca8b5c493359a43c3293a01b68e31d6742d",
+    "csv/inventory_lots.csv": "bef8bb29001466a57af9df5001c3fb8e50f479132806ae097bf57633df7e64bf",
+    "json/inventory_lots.json": "086624b1cd94611f64705e7b06533acfecb0fc45753918289ddfacea738ce97a",
+    "csv/zone_lot_assignments.csv": "babb8b6890a9123ab7873963b5af901acb6dd7960d4f0df455fa39be05c6395d",
+    "json/zone_lot_assignments.json": "04b132b9d24b3bba84063132602713402642b56748bd262bb1656b60c9d06805",
+    "csv/alarms.csv": "9d370f21d7cb13778519126caa0700b72ca2a29071d7445d9d494baad4666ef0",
+    "json/alarms.json": "3a1c66c37cea74067b3c6c9ec6d56917bde5ba0d10448164d23cbd5a4536cf01",
+    "csv/alarm_affected_lots.csv": "4db48cf8b3120e78b07b9e360e19ca7efc4015051907a592ae5659fd0b992e9e",
+    "json/alarm_affected_lots.json": "a2a6c9baaa070cfb3630c4b094ce953dd4cee24745d4e82a685aed48f6cb0d82",
+    "csv/inspections.csv": "a784ab2d281b2d61884ea1587cc574fd7db629ecee3a5ab875b65362226fa93a",
+    "json/inspections.json": "47d371bcb574b8799b5fa3cea4eac9a2f24331cd86707e0a03b63c1d8b9858e6",
+    "csv/remediations.csv": "35eb2b335c9e0ccb08f32879621ecaab85baac17b42613be20be25a8dde4c4a3",
+    "json/remediations.json": "8e7da64682fdb9b254e3d43e0c3a786bc5862a7c74a42df414fd77b30e236e17",
+    "ground_truth.csv": "f22308cd29048db9086a43d9c6a574a4990d9ac163586ca05643812482baff99",
+    "ground_truth.json": "146f5fb6215caa46c3b10177fe5f70c7024311483cb49a056853a751eb92c393",
+    "seed_data.sql": "b9df8c438a6d61bba16848869b1000f65862a3e2afa4456d39e3d6cd9af9c802"
+  },
+  "generation_elapsed_sec": 1.513
+}

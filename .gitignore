@@ -1,0 +1,32 @@
+# Ignore compiled artifacts, node_modules, and 1M-row full_scale raw CSV dump (exceeds GitHub 100MB limit)
+node_modules/
+frontend/node_modules/
+frontend/dist/
+backend/target/
+__pycache__/
+*.pyc
+.DS_Store
+data/full_scale/
+
+# IDE & System Files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+Thumbs.db
+Desktop.ini
+
+# Environment & Local Overrides
+.env
+.env.local
+*.env
+
+# Build & Runtime Logs
+data/runtime/*.log
+data/runtime/*.tmp
+npm-debug.log*
+yarn-debug.log*

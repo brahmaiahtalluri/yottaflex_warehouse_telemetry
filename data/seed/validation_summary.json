@@ -1,0 +1,192 @@
+{
+  "overall_status": "PASSED",
+  "total_checks": 23,
+  "passed_checks": 23,
+  "failed_checks": 0,
+  "checks": [
+    {
+      "check_name": "PK Uniqueness & ID Format (warehouses.warehouse_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 10,
+      "violations_found": 0,
+      "details": "Unique IDs: 10, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (zones.zone_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 100,
+      "violations_found": 0,
+      "details": "Unique IDs: 100, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (sensors.sensor_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 500,
+      "violations_found": 0,
+      "details": "Unique IDs: 500, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (sensor_zone_mapping_history.mapping_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 506,
+      "violations_found": 0,
+      "details": "Unique IDs: 506, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (sensor_readings.reading_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 15000,
+      "violations_found": 0,
+      "details": "Unique IDs: 15000, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (door_events.door_event_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 300,
+      "violations_found": 0,
+      "details": "Unique IDs: 300, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (storage_requirements.requirement_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 6,
+      "violations_found": 0,
+      "details": "Unique IDs: 6, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (inventory_lots.lot_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 500,
+      "violations_found": 0,
+      "details": "Unique IDs: 500, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (zone_lot_assignments.assignment_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 500,
+      "violations_found": 0,
+      "details": "Unique IDs: 500, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (alarms.alarm_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 71,
+      "violations_found": 0,
+      "details": "Unique IDs: 71, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (alarm_affected_lots.alarm_lot_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 511,
+      "violations_found": 0,
+      "details": "Unique IDs: 511, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (inspections.inspection_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 71,
+      "violations_found": 0,
+      "details": "Unique IDs: 71, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "PK Uniqueness & ID Format (remediations.remediation_id)",
+      "category": "PK_AND_NOMENCLATURE",
+      "passed": true,
+      "records_evaluated": 70,
+      "violations_found": 0,
+      "details": "Unique IDs: 70, Duplicates: 0, Format mismatches: 0"
+    },
+    {
+      "check_name": "Foreign-Key Referential Integrity (All 21 Relationships)",
+      "category": "FOREIGN_KEY_INTEGRITY",
+      "passed": true,
+      "records_evaluated": 35728,
+      "violations_found": 0,
+      "details": "Verified 21 FK constraints across 35728 references with 0 orphans."
+    },
+    {
+      "check_name": "Warehouse Capacity Reconciliation (SUM of Child Zones)",
+      "category": "ARITHMETIC_RECONCILIATION",
+      "passed": true,
+      "records_evaluated": 10,
+      "violations_found": 0,
+      "details": "Warehouse.total_capacity_pallets equals exact sum of child Zone.capacity_pallets."
+    },
+    {
+      "check_name": "InventoryLot Quantity & Remediation Scrap Reconciliation",
+      "category": "ARITHMETIC_RECONCILIATION",
+      "passed": true,
+      "records_evaluated": 500,
+      "violations_found": 0,
+      "details": "available_quantity_units == initial_quantity_units - SUM(Remediation.scrapped_units)."
+    },
+    {
+      "check_name": "Alarm Affected-Lot Count Bridge Reconciliation",
+      "category": "ARITHMETIC_RECONCILIATION",
+      "passed": true,
+      "records_evaluated": 71,
+      "violations_found": 0,
+      "details": "Alarm.affected_lot_count matches exact row count in AlarmAffectedLot bridge table."
+    },
+    {
+      "check_name": "Chronological Event Timestamp Ordering",
+      "category": "DATE_ORDERING",
+      "passed": true,
+      "records_evaluated": 871,
+      "violations_found": 0,
+      "details": "Verified opened_at <= closed_at, entered_at < exited_at, and triggered_at <= resolved_at."
+    },
+    {
+      "check_name": "Documented Enums, Units & Field Constraints",
+      "category": "DOMAIN_CONSTRAINTS",
+      "passed": true,
+      "records_evaluated": 17596,
+      "violations_found": 0,
+      "details": "Checked documented enum sets, sensor units, physical bounds, and positive quantity/duration constraints."
+    },
+    {
+      "check_name": "Sensor Reading Monotonicity, Deltas & Gap Flags",
+      "category": "TELEMETRY_TIME_SERIES",
+      "passed": true,
+      "records_evaluated": 15000,
+      "violations_found": 0,
+      "details": "Per-sensor timestamps/deltas reconcile; only labeled silent-gap anomalies may suppress a real gap flag."
+    },
+    {
+      "check_name": "Dwell, Alarm Impact, Risk & Remediation Reconciliation",
+      "category": "DERIVED_VALUES_AND_LIFECYCLE",
+      "passed": true,
+      "records_evaluated": 1723,
+      "violations_found": 0,
+      "details": "Reconciled dwell, alarm durations, temporal lot overlap, risk scores, remediation costs, and workflow chronology."
+    },
+    {
+      "check_name": "Ground-Truth Feature Separation (Zero Input Leakage)",
+      "category": "GROUND_TRUTH_SEPARATION",
+      "passed": true,
+      "records_evaluated": 13,
+      "violations_found": 0,
+      "details": "0 input tables contain ground-truth label columns; 25 labels isolated in ground_truth.csv."
+    },
+    {
+      "check_name": "Required Edge Cases & Negative Scenarios Coverage",
+      "category": "EDGE_CASE_COVERAGE",
+      "passed": true,
+      "records_evaluated": 25,
+      "violations_found": 0,
+      "details": "All 4 required edge-case categories verified: ['ALARM_UNLINKED_TO_AFFECTED_LOTS', 'LOT_INCOMPATIBLE_ZONE', 'READING_GAP_TREATED_AS_NORMAL', 'SENSOR_MULTI_ZONE_NO_RATIONALE']"
+    }
+  ]
+}

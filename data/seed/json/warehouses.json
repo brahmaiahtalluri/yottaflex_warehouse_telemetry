@@ -1,0 +1,112 @@
+[
+  {
+    "warehouse_id": "WH-001",
+    "warehouse_name": "Newark Cold Hub (WH-001)",
+    "region": "NA-EAST",
+    "facility_type": "COLD_STORAGE",
+    "total_capacity_pallets": 2500,
+    "active_zone_count": 10,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-09T00:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "warehouse_id": "WH-002",
+    "warehouse_name": "Chicago Pharma Depot (WH-002)",
+    "region": "NA-WEST",
+    "facility_type": "PHARMA_GDP",
+    "total_capacity_pallets": 3350,
+    "active_zone_count": 10,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-14T00:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "warehouse_id": "WH-003",
+    "warehouse_name": "Dallas Distribution Center (WH-003)",
+    "region": "EU-CENTRAL",
+    "facility_type": "MIXED_DISTRIBUTION",
+    "total_capacity_pallets": 2600,
+    "active_zone_count": 10,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-19T00:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "warehouse_id": "WH-004",
+    "warehouse_name": "Atlanta Biologics Vault (WH-004)",
+    "region": "APAC-SOUTH",
+    "facility_type": "AMBIENT_BULK",
+    "total_capacity_pallets": 2250,
+    "active_zone_count": 10,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-24T00:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "warehouse_id": "WH-005",
+    "warehouse_name": "Phoenix Thermal Annex (WH-005)",
+    "region": "LATAM-NORTH",
+    "facility_type": "COLD_STORAGE",
+    "total_capacity_pallets": 2850,
+    "active_zone_count": 9,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-04-29T00:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "warehouse_id": "WH-006",
+    "warehouse_name": "Frankfurt GDP Hub (WH-006)",
+    "region": "NA-EAST",
+    "facility_type": "PHARMA_GDP",
+    "total_capacity_pallets": 2450,
+    "active_zone_count": 9,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-04T00:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "warehouse_id": "WH-007",
+    "warehouse_name": "Rotterdam Port Coldstore (WH-007)",
+    "region": "NA-WEST",
+    "facility_type": "MIXED_DISTRIBUTION",
+    "total_capacity_pallets": 2550,
+    "active_zone_count": 10,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-09T00:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "warehouse_id": "WH-008",
+    "warehouse_name": "Singapore BioLogix (WH-008)",
+    "region": "EU-CENTRAL",
+    "facility_type": "AMBIENT_BULK",
+    "total_capacity_pallets": 3100,
+    "active_zone_count": 10,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-14T00:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "warehouse_id": "WH-009",
+    "warehouse_name": "Hyderabad Vaccine Center (WH-009)",
+    "region": "APAC-SOUTH",
+    "facility_type": "COLD_STORAGE",
+    "total_capacity_pallets": 3500,
+    "active_zone_count": 9,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-19T00:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "warehouse_id": "WH-010",
+    "warehouse_name": "Monterrey Industrial Hub (WH-010)",
+    "region": "LATAM-NORTH",
+    "facility_type": "PHARMA_GDP",
+    "total_capacity_pallets": 2700,
+    "active_zone_count": 10,
+    "lifecycle_state": "ACTIVE",
+    "effective_from": "2026-05-24T00:00:00Z",
+    "effective_to": ""
+  }
+]

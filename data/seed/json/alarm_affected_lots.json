@@ -1,0 +1,3579 @@
+[
+  {
+    "alarm_lot_id": "AAL-2026-000001",
+    "alarm_id": "ALM-2026-000001",
+    "lot_id": "LOT-2026-000020",
+    "overlap_minutes": 25,
+    "risk_score": 62.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000002",
+    "alarm_id": "ALM-2026-000001",
+    "lot_id": "LOT-2026-000080",
+    "overlap_minutes": 25,
+    "risk_score": 62.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000003",
+    "alarm_id": "ALM-2026-000001",
+    "lot_id": "LOT-2026-000140",
+    "overlap_minutes": 25,
+    "risk_score": 62.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000004",
+    "alarm_id": "ALM-2026-000001",
+    "lot_id": "LOT-2026-000200",
+    "overlap_minutes": 25,
+    "risk_score": 62.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000005",
+    "alarm_id": "ALM-2026-000001",
+    "lot_id": "LOT-2026-000260",
+    "overlap_minutes": 25,
+    "risk_score": 62.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000006",
+    "alarm_id": "ALM-2026-000001",
+    "lot_id": "LOT-2026-000320",
+    "overlap_minutes": 25,
+    "risk_score": 62.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000007",
+    "alarm_id": "ALM-2026-000001",
+    "lot_id": "LOT-2026-000380",
+    "overlap_minutes": 25,
+    "risk_score": 62.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000008",
+    "alarm_id": "ALM-2026-000001",
+    "lot_id": "LOT-2026-000440",
+    "overlap_minutes": 25,
+    "risk_score": 62.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000009",
+    "alarm_id": "ALM-2026-000001",
+    "lot_id": "LOT-2026-000500",
+    "overlap_minutes": 25,
+    "risk_score": 62.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000010",
+    "alarm_id": "ALM-2026-000003",
+    "lot_id": "LOT-2026-000001",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000011",
+    "alarm_id": "ALM-2026-000003",
+    "lot_id": "LOT-2026-000061",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000012",
+    "alarm_id": "ALM-2026-000003",
+    "lot_id": "LOT-2026-000121",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000013",
+    "alarm_id": "ALM-2026-000003",
+    "lot_id": "LOT-2026-000181",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000014",
+    "alarm_id": "ALM-2026-000003",
+    "lot_id": "LOT-2026-000241",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000015",
+    "alarm_id": "ALM-2026-000003",
+    "lot_id": "LOT-2026-000301",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000016",
+    "alarm_id": "ALM-2026-000003",
+    "lot_id": "LOT-2026-000361",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000017",
+    "alarm_id": "ALM-2026-000003",
+    "lot_id": "LOT-2026-000421",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000018",
+    "alarm_id": "ALM-2026-000003",
+    "lot_id": "LOT-2026-000481",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000019",
+    "alarm_id": "ALM-2026-000004",
+    "lot_id": "LOT-2026-000001",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000020",
+    "alarm_id": "ALM-2026-000004",
+    "lot_id": "LOT-2026-000061",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000021",
+    "alarm_id": "ALM-2026-000004",
+    "lot_id": "LOT-2026-000121",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000022",
+    "alarm_id": "ALM-2026-000004",
+    "lot_id": "LOT-2026-000181",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000023",
+    "alarm_id": "ALM-2026-000004",
+    "lot_id": "LOT-2026-000241",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000024",
+    "alarm_id": "ALM-2026-000004",
+    "lot_id": "LOT-2026-000301",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000025",
+    "alarm_id": "ALM-2026-000004",
+    "lot_id": "LOT-2026-000361",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000026",
+    "alarm_id": "ALM-2026-000004",
+    "lot_id": "LOT-2026-000421",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000027",
+    "alarm_id": "ALM-2026-000004",
+    "lot_id": "LOT-2026-000481",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000028",
+    "alarm_id": "ALM-2026-000005",
+    "lot_id": "LOT-2026-000001",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000029",
+    "alarm_id": "ALM-2026-000005",
+    "lot_id": "LOT-2026-000061",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000030",
+    "alarm_id": "ALM-2026-000005",
+    "lot_id": "LOT-2026-000121",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000031",
+    "alarm_id": "ALM-2026-000005",
+    "lot_id": "LOT-2026-000181",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000032",
+    "alarm_id": "ALM-2026-000005",
+    "lot_id": "LOT-2026-000241",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000033",
+    "alarm_id": "ALM-2026-000005",
+    "lot_id": "LOT-2026-000301",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000034",
+    "alarm_id": "ALM-2026-000005",
+    "lot_id": "LOT-2026-000361",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000035",
+    "alarm_id": "ALM-2026-000005",
+    "lot_id": "LOT-2026-000421",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000036",
+    "alarm_id": "ALM-2026-000005",
+    "lot_id": "LOT-2026-000481",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000037",
+    "alarm_id": "ALM-2026-000006",
+    "lot_id": "LOT-2026-000002",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000038",
+    "alarm_id": "ALM-2026-000006",
+    "lot_id": "LOT-2026-000062",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000039",
+    "alarm_id": "ALM-2026-000006",
+    "lot_id": "LOT-2026-000122",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000040",
+    "alarm_id": "ALM-2026-000006",
+    "lot_id": "LOT-2026-000182",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000041",
+    "alarm_id": "ALM-2026-000006",
+    "lot_id": "LOT-2026-000242",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000042",
+    "alarm_id": "ALM-2026-000006",
+    "lot_id": "LOT-2026-000302",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000043",
+    "alarm_id": "ALM-2026-000006",
+    "lot_id": "LOT-2026-000362",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000044",
+    "alarm_id": "ALM-2026-000006",
+    "lot_id": "LOT-2026-000422",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000045",
+    "alarm_id": "ALM-2026-000006",
+    "lot_id": "LOT-2026-000482",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000046",
+    "alarm_id": "ALM-2026-000008",
+    "lot_id": "LOT-2026-000002",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000047",
+    "alarm_id": "ALM-2026-000008",
+    "lot_id": "LOT-2026-000062",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000048",
+    "alarm_id": "ALM-2026-000008",
+    "lot_id": "LOT-2026-000122",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000049",
+    "alarm_id": "ALM-2026-000008",
+    "lot_id": "LOT-2026-000182",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000050",
+    "alarm_id": "ALM-2026-000008",
+    "lot_id": "LOT-2026-000242",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000051",
+    "alarm_id": "ALM-2026-000008",
+    "lot_id": "LOT-2026-000302",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000052",
+    "alarm_id": "ALM-2026-000008",
+    "lot_id": "LOT-2026-000362",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000053",
+    "alarm_id": "ALM-2026-000008",
+    "lot_id": "LOT-2026-000422",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000054",
+    "alarm_id": "ALM-2026-000008",
+    "lot_id": "LOT-2026-000482",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000055",
+    "alarm_id": "ALM-2026-000009",
+    "lot_id": "LOT-2026-000042",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000056",
+    "alarm_id": "ALM-2026-000009",
+    "lot_id": "LOT-2026-000102",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000057",
+    "alarm_id": "ALM-2026-000009",
+    "lot_id": "LOT-2026-000162",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000058",
+    "alarm_id": "ALM-2026-000009",
+    "lot_id": "LOT-2026-000222",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000059",
+    "alarm_id": "ALM-2026-000009",
+    "lot_id": "LOT-2026-000282",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000060",
+    "alarm_id": "ALM-2026-000009",
+    "lot_id": "LOT-2026-000342",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000061",
+    "alarm_id": "ALM-2026-000009",
+    "lot_id": "LOT-2026-000402",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000062",
+    "alarm_id": "ALM-2026-000009",
+    "lot_id": "LOT-2026-000462",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000063",
+    "alarm_id": "ALM-2026-000010",
+    "lot_id": "LOT-2026-000043",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000064",
+    "alarm_id": "ALM-2026-000010",
+    "lot_id": "LOT-2026-000103",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000065",
+    "alarm_id": "ALM-2026-000010",
+    "lot_id": "LOT-2026-000163",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000066",
+    "alarm_id": "ALM-2026-000010",
+    "lot_id": "LOT-2026-000223",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000067",
+    "alarm_id": "ALM-2026-000010",
+    "lot_id": "LOT-2026-000283",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000068",
+    "alarm_id": "ALM-2026-000010",
+    "lot_id": "LOT-2026-000343",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000069",
+    "alarm_id": "ALM-2026-000010",
+    "lot_id": "LOT-2026-000403",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000070",
+    "alarm_id": "ALM-2026-000010",
+    "lot_id": "LOT-2026-000463",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000071",
+    "alarm_id": "ALM-2026-000011",
+    "lot_id": "LOT-2026-000043",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000072",
+    "alarm_id": "ALM-2026-000011",
+    "lot_id": "LOT-2026-000103",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000073",
+    "alarm_id": "ALM-2026-000011",
+    "lot_id": "LOT-2026-000163",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000074",
+    "alarm_id": "ALM-2026-000011",
+    "lot_id": "LOT-2026-000223",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000075",
+    "alarm_id": "ALM-2026-000011",
+    "lot_id": "LOT-2026-000283",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000076",
+    "alarm_id": "ALM-2026-000011",
+    "lot_id": "LOT-2026-000343",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000077",
+    "alarm_id": "ALM-2026-000011",
+    "lot_id": "LOT-2026-000403",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000078",
+    "alarm_id": "ALM-2026-000011",
+    "lot_id": "LOT-2026-000463",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000079",
+    "alarm_id": "ALM-2026-000012",
+    "lot_id": "LOT-2026-000043",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000080",
+    "alarm_id": "ALM-2026-000012",
+    "lot_id": "LOT-2026-000103",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000081",
+    "alarm_id": "ALM-2026-000012",
+    "lot_id": "LOT-2026-000163",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000082",
+    "alarm_id": "ALM-2026-000012",
+    "lot_id": "LOT-2026-000223",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000083",
+    "alarm_id": "ALM-2026-000012",
+    "lot_id": "LOT-2026-000283",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000084",
+    "alarm_id": "ALM-2026-000012",
+    "lot_id": "LOT-2026-000343",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000085",
+    "alarm_id": "ALM-2026-000012",
+    "lot_id": "LOT-2026-000403",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000086",
+    "alarm_id": "ALM-2026-000012",
+    "lot_id": "LOT-2026-000463",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000087",
+    "alarm_id": "ALM-2026-000014",
+    "lot_id": "LOT-2026-000044",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000088",
+    "alarm_id": "ALM-2026-000014",
+    "lot_id": "LOT-2026-000104",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000089",
+    "alarm_id": "ALM-2026-000014",
+    "lot_id": "LOT-2026-000164",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000090",
+    "alarm_id": "ALM-2026-000014",
+    "lot_id": "LOT-2026-000224",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000091",
+    "alarm_id": "ALM-2026-000014",
+    "lot_id": "LOT-2026-000284",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000092",
+    "alarm_id": "ALM-2026-000014",
+    "lot_id": "LOT-2026-000344",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000093",
+    "alarm_id": "ALM-2026-000014",
+    "lot_id": "LOT-2026-000404",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000094",
+    "alarm_id": "ALM-2026-000014",
+    "lot_id": "LOT-2026-000464",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000095",
+    "alarm_id": "ALM-2026-000015",
+    "lot_id": "LOT-2026-000044",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000096",
+    "alarm_id": "ALM-2026-000015",
+    "lot_id": "LOT-2026-000104",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000097",
+    "alarm_id": "ALM-2026-000015",
+    "lot_id": "LOT-2026-000164",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000098",
+    "alarm_id": "ALM-2026-000015",
+    "lot_id": "LOT-2026-000224",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000099",
+    "alarm_id": "ALM-2026-000015",
+    "lot_id": "LOT-2026-000284",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000100",
+    "alarm_id": "ALM-2026-000015",
+    "lot_id": "LOT-2026-000344",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000101",
+    "alarm_id": "ALM-2026-000015",
+    "lot_id": "LOT-2026-000404",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000102",
+    "alarm_id": "ALM-2026-000015",
+    "lot_id": "LOT-2026-000464",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000103",
+    "alarm_id": "ALM-2026-000016",
+    "lot_id": "LOT-2026-000025",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000104",
+    "alarm_id": "ALM-2026-000016",
+    "lot_id": "LOT-2026-000085",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000105",
+    "alarm_id": "ALM-2026-000016",
+    "lot_id": "LOT-2026-000145",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000106",
+    "alarm_id": "ALM-2026-000016",
+    "lot_id": "LOT-2026-000265",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000107",
+    "alarm_id": "ALM-2026-000016",
+    "lot_id": "LOT-2026-000325",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000108",
+    "alarm_id": "ALM-2026-000016",
+    "lot_id": "LOT-2026-000385",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000109",
+    "alarm_id": "ALM-2026-000016",
+    "lot_id": "LOT-2026-000445",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000110",
+    "alarm_id": "ALM-2026-000017",
+    "lot_id": "LOT-2026-000025",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000111",
+    "alarm_id": "ALM-2026-000017",
+    "lot_id": "LOT-2026-000085",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000112",
+    "alarm_id": "ALM-2026-000017",
+    "lot_id": "LOT-2026-000145",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000113",
+    "alarm_id": "ALM-2026-000017",
+    "lot_id": "LOT-2026-000265",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000114",
+    "alarm_id": "ALM-2026-000017",
+    "lot_id": "LOT-2026-000325",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000115",
+    "alarm_id": "ALM-2026-000017",
+    "lot_id": "LOT-2026-000385",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000116",
+    "alarm_id": "ALM-2026-000017",
+    "lot_id": "LOT-2026-000445",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000117",
+    "alarm_id": "ALM-2026-000018",
+    "lot_id": "LOT-2026-000025",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000118",
+    "alarm_id": "ALM-2026-000018",
+    "lot_id": "LOT-2026-000085",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000119",
+    "alarm_id": "ALM-2026-000018",
+    "lot_id": "LOT-2026-000145",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000120",
+    "alarm_id": "ALM-2026-000018",
+    "lot_id": "LOT-2026-000265",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000121",
+    "alarm_id": "ALM-2026-000018",
+    "lot_id": "LOT-2026-000325",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000122",
+    "alarm_id": "ALM-2026-000018",
+    "lot_id": "LOT-2026-000385",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000123",
+    "alarm_id": "ALM-2026-000018",
+    "lot_id": "LOT-2026-000445",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000124",
+    "alarm_id": "ALM-2026-000020",
+    "lot_id": "LOT-2026-000026",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000125",
+    "alarm_id": "ALM-2026-000020",
+    "lot_id": "LOT-2026-000086",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000126",
+    "alarm_id": "ALM-2026-000020",
+    "lot_id": "LOT-2026-000146",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000127",
+    "alarm_id": "ALM-2026-000020",
+    "lot_id": "LOT-2026-000206",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000128",
+    "alarm_id": "ALM-2026-000020",
+    "lot_id": "LOT-2026-000266",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000129",
+    "alarm_id": "ALM-2026-000020",
+    "lot_id": "LOT-2026-000326",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000130",
+    "alarm_id": "ALM-2026-000020",
+    "lot_id": "LOT-2026-000386",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000131",
+    "alarm_id": "ALM-2026-000020",
+    "lot_id": "LOT-2026-000446",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000132",
+    "alarm_id": "ALM-2026-000021",
+    "lot_id": "LOT-2026-000026",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000133",
+    "alarm_id": "ALM-2026-000021",
+    "lot_id": "LOT-2026-000086",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000134",
+    "alarm_id": "ALM-2026-000021",
+    "lot_id": "LOT-2026-000146",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000135",
+    "alarm_id": "ALM-2026-000021",
+    "lot_id": "LOT-2026-000206",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000136",
+    "alarm_id": "ALM-2026-000021",
+    "lot_id": "LOT-2026-000266",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000137",
+    "alarm_id": "ALM-2026-000021",
+    "lot_id": "LOT-2026-000326",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000138",
+    "alarm_id": "ALM-2026-000021",
+    "lot_id": "LOT-2026-000386",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000139",
+    "alarm_id": "ALM-2026-000021",
+    "lot_id": "LOT-2026-000446",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000140",
+    "alarm_id": "ALM-2026-000022",
+    "lot_id": "LOT-2026-000026",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000141",
+    "alarm_id": "ALM-2026-000022",
+    "lot_id": "LOT-2026-000086",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000142",
+    "alarm_id": "ALM-2026-000022",
+    "lot_id": "LOT-2026-000146",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000143",
+    "alarm_id": "ALM-2026-000022",
+    "lot_id": "LOT-2026-000206",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000144",
+    "alarm_id": "ALM-2026-000022",
+    "lot_id": "LOT-2026-000266",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000145",
+    "alarm_id": "ALM-2026-000022",
+    "lot_id": "LOT-2026-000326",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000146",
+    "alarm_id": "ALM-2026-000022",
+    "lot_id": "LOT-2026-000386",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000147",
+    "alarm_id": "ALM-2026-000022",
+    "lot_id": "LOT-2026-000446",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000148",
+    "alarm_id": "ALM-2026-000023",
+    "lot_id": "LOT-2026-000007",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000149",
+    "alarm_id": "ALM-2026-000023",
+    "lot_id": "LOT-2026-000067",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000150",
+    "alarm_id": "ALM-2026-000023",
+    "lot_id": "LOT-2026-000127",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000151",
+    "alarm_id": "ALM-2026-000023",
+    "lot_id": "LOT-2026-000187",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000152",
+    "alarm_id": "ALM-2026-000023",
+    "lot_id": "LOT-2026-000247",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000153",
+    "alarm_id": "ALM-2026-000023",
+    "lot_id": "LOT-2026-000307",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000154",
+    "alarm_id": "ALM-2026-000023",
+    "lot_id": "LOT-2026-000367",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000155",
+    "alarm_id": "ALM-2026-000023",
+    "lot_id": "LOT-2026-000427",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000156",
+    "alarm_id": "ALM-2026-000023",
+    "lot_id": "LOT-2026-000487",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000157",
+    "alarm_id": "ALM-2026-000024",
+    "lot_id": "LOT-2026-000007",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000158",
+    "alarm_id": "ALM-2026-000024",
+    "lot_id": "LOT-2026-000067",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000159",
+    "alarm_id": "ALM-2026-000024",
+    "lot_id": "LOT-2026-000127",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000160",
+    "alarm_id": "ALM-2026-000024",
+    "lot_id": "LOT-2026-000187",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000161",
+    "alarm_id": "ALM-2026-000024",
+    "lot_id": "LOT-2026-000247",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000162",
+    "alarm_id": "ALM-2026-000024",
+    "lot_id": "LOT-2026-000307",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000163",
+    "alarm_id": "ALM-2026-000024",
+    "lot_id": "LOT-2026-000367",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000164",
+    "alarm_id": "ALM-2026-000024",
+    "lot_id": "LOT-2026-000427",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000165",
+    "alarm_id": "ALM-2026-000024",
+    "lot_id": "LOT-2026-000487",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000166",
+    "alarm_id": "ALM-2026-000026",
+    "lot_id": "LOT-2026-000008",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000167",
+    "alarm_id": "ALM-2026-000026",
+    "lot_id": "LOT-2026-000068",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000168",
+    "alarm_id": "ALM-2026-000026",
+    "lot_id": "LOT-2026-000128",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000169",
+    "alarm_id": "ALM-2026-000026",
+    "lot_id": "LOT-2026-000188",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000170",
+    "alarm_id": "ALM-2026-000026",
+    "lot_id": "LOT-2026-000248",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000171",
+    "alarm_id": "ALM-2026-000026",
+    "lot_id": "LOT-2026-000308",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000172",
+    "alarm_id": "ALM-2026-000026",
+    "lot_id": "LOT-2026-000368",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000173",
+    "alarm_id": "ALM-2026-000026",
+    "lot_id": "LOT-2026-000428",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000174",
+    "alarm_id": "ALM-2026-000026",
+    "lot_id": "LOT-2026-000488",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000175",
+    "alarm_id": "ALM-2026-000027",
+    "lot_id": "LOT-2026-000008",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000176",
+    "alarm_id": "ALM-2026-000027",
+    "lot_id": "LOT-2026-000068",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000177",
+    "alarm_id": "ALM-2026-000027",
+    "lot_id": "LOT-2026-000128",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000178",
+    "alarm_id": "ALM-2026-000027",
+    "lot_id": "LOT-2026-000188",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000179",
+    "alarm_id": "ALM-2026-000027",
+    "lot_id": "LOT-2026-000248",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000180",
+    "alarm_id": "ALM-2026-000027",
+    "lot_id": "LOT-2026-000308",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000181",
+    "alarm_id": "ALM-2026-000027",
+    "lot_id": "LOT-2026-000368",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000182",
+    "alarm_id": "ALM-2026-000027",
+    "lot_id": "LOT-2026-000428",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000183",
+    "alarm_id": "ALM-2026-000027",
+    "lot_id": "LOT-2026-000488",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000184",
+    "alarm_id": "ALM-2026-000028",
+    "lot_id": "LOT-2026-000008",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000185",
+    "alarm_id": "ALM-2026-000028",
+    "lot_id": "LOT-2026-000068",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000186",
+    "alarm_id": "ALM-2026-000028",
+    "lot_id": "LOT-2026-000128",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000187",
+    "alarm_id": "ALM-2026-000028",
+    "lot_id": "LOT-2026-000188",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000188",
+    "alarm_id": "ALM-2026-000028",
+    "lot_id": "LOT-2026-000248",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000189",
+    "alarm_id": "ALM-2026-000028",
+    "lot_id": "LOT-2026-000308",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000190",
+    "alarm_id": "ALM-2026-000028",
+    "lot_id": "LOT-2026-000368",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000191",
+    "alarm_id": "ALM-2026-000028",
+    "lot_id": "LOT-2026-000428",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000192",
+    "alarm_id": "ALM-2026-000028",
+    "lot_id": "LOT-2026-000488",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000193",
+    "alarm_id": "ALM-2026-000029",
+    "lot_id": "LOT-2026-000028",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000194",
+    "alarm_id": "ALM-2026-000029",
+    "lot_id": "LOT-2026-000088",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000195",
+    "alarm_id": "ALM-2026-000029",
+    "lot_id": "LOT-2026-000148",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000196",
+    "alarm_id": "ALM-2026-000029",
+    "lot_id": "LOT-2026-000208",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000197",
+    "alarm_id": "ALM-2026-000029",
+    "lot_id": "LOT-2026-000268",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000198",
+    "alarm_id": "ALM-2026-000029",
+    "lot_id": "LOT-2026-000328",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000199",
+    "alarm_id": "ALM-2026-000029",
+    "lot_id": "LOT-2026-000388",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000200",
+    "alarm_id": "ALM-2026-000029",
+    "lot_id": "LOT-2026-000448",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000201",
+    "alarm_id": "ALM-2026-000030",
+    "lot_id": "LOT-2026-000049",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000202",
+    "alarm_id": "ALM-2026-000030",
+    "lot_id": "LOT-2026-000109",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000203",
+    "alarm_id": "ALM-2026-000030",
+    "lot_id": "LOT-2026-000169",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000204",
+    "alarm_id": "ALM-2026-000030",
+    "lot_id": "LOT-2026-000229",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000205",
+    "alarm_id": "ALM-2026-000030",
+    "lot_id": "LOT-2026-000289",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000206",
+    "alarm_id": "ALM-2026-000030",
+    "lot_id": "LOT-2026-000349",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000207",
+    "alarm_id": "ALM-2026-000030",
+    "lot_id": "LOT-2026-000409",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000208",
+    "alarm_id": "ALM-2026-000030",
+    "lot_id": "LOT-2026-000469",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000209",
+    "alarm_id": "ALM-2026-000031",
+    "lot_id": "LOT-2026-000049",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000210",
+    "alarm_id": "ALM-2026-000031",
+    "lot_id": "LOT-2026-000109",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000211",
+    "alarm_id": "ALM-2026-000031",
+    "lot_id": "LOT-2026-000169",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000212",
+    "alarm_id": "ALM-2026-000031",
+    "lot_id": "LOT-2026-000229",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000213",
+    "alarm_id": "ALM-2026-000031",
+    "lot_id": "LOT-2026-000289",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000214",
+    "alarm_id": "ALM-2026-000031",
+    "lot_id": "LOT-2026-000349",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000215",
+    "alarm_id": "ALM-2026-000031",
+    "lot_id": "LOT-2026-000409",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000216",
+    "alarm_id": "ALM-2026-000031",
+    "lot_id": "LOT-2026-000469",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000217",
+    "alarm_id": "ALM-2026-000032",
+    "lot_id": "LOT-2026-000049",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000218",
+    "alarm_id": "ALM-2026-000032",
+    "lot_id": "LOT-2026-000109",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000219",
+    "alarm_id": "ALM-2026-000032",
+    "lot_id": "LOT-2026-000169",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000220",
+    "alarm_id": "ALM-2026-000032",
+    "lot_id": "LOT-2026-000229",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000221",
+    "alarm_id": "ALM-2026-000032",
+    "lot_id": "LOT-2026-000289",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000222",
+    "alarm_id": "ALM-2026-000032",
+    "lot_id": "LOT-2026-000349",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000223",
+    "alarm_id": "ALM-2026-000032",
+    "lot_id": "LOT-2026-000409",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000224",
+    "alarm_id": "ALM-2026-000032",
+    "lot_id": "LOT-2026-000469",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000225",
+    "alarm_id": "ALM-2026-000033",
+    "lot_id": "LOT-2026-000050",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000226",
+    "alarm_id": "ALM-2026-000033",
+    "lot_id": "LOT-2026-000110",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000227",
+    "alarm_id": "ALM-2026-000033",
+    "lot_id": "LOT-2026-000170",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000228",
+    "alarm_id": "ALM-2026-000033",
+    "lot_id": "LOT-2026-000230",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000229",
+    "alarm_id": "ALM-2026-000033",
+    "lot_id": "LOT-2026-000290",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000230",
+    "alarm_id": "ALM-2026-000033",
+    "lot_id": "LOT-2026-000350",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000231",
+    "alarm_id": "ALM-2026-000033",
+    "lot_id": "LOT-2026-000410",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000232",
+    "alarm_id": "ALM-2026-000033",
+    "lot_id": "LOT-2026-000470",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000233",
+    "alarm_id": "ALM-2026-000034",
+    "lot_id": "LOT-2026-000050",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000234",
+    "alarm_id": "ALM-2026-000034",
+    "lot_id": "LOT-2026-000110",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000235",
+    "alarm_id": "ALM-2026-000034",
+    "lot_id": "LOT-2026-000170",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000236",
+    "alarm_id": "ALM-2026-000034",
+    "lot_id": "LOT-2026-000230",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000237",
+    "alarm_id": "ALM-2026-000034",
+    "lot_id": "LOT-2026-000290",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000238",
+    "alarm_id": "ALM-2026-000034",
+    "lot_id": "LOT-2026-000350",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000239",
+    "alarm_id": "ALM-2026-000034",
+    "lot_id": "LOT-2026-000410",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000240",
+    "alarm_id": "ALM-2026-000034",
+    "lot_id": "LOT-2026-000470",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000241",
+    "alarm_id": "ALM-2026-000035",
+    "lot_id": "LOT-2026-000050",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000242",
+    "alarm_id": "ALM-2026-000035",
+    "lot_id": "LOT-2026-000110",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000243",
+    "alarm_id": "ALM-2026-000035",
+    "lot_id": "LOT-2026-000170",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000244",
+    "alarm_id": "ALM-2026-000035",
+    "lot_id": "LOT-2026-000230",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000245",
+    "alarm_id": "ALM-2026-000035",
+    "lot_id": "LOT-2026-000290",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000246",
+    "alarm_id": "ALM-2026-000035",
+    "lot_id": "LOT-2026-000350",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000247",
+    "alarm_id": "ALM-2026-000035",
+    "lot_id": "LOT-2026-000410",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000248",
+    "alarm_id": "ALM-2026-000035",
+    "lot_id": "LOT-2026-000470",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000249",
+    "alarm_id": "ALM-2026-000036",
+    "lot_id": "LOT-2026-000031",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000250",
+    "alarm_id": "ALM-2026-000036",
+    "lot_id": "LOT-2026-000091",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000251",
+    "alarm_id": "ALM-2026-000036",
+    "lot_id": "LOT-2026-000151",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000252",
+    "alarm_id": "ALM-2026-000036",
+    "lot_id": "LOT-2026-000211",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000253",
+    "alarm_id": "ALM-2026-000036",
+    "lot_id": "LOT-2026-000271",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000254",
+    "alarm_id": "ALM-2026-000036",
+    "lot_id": "LOT-2026-000331",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000255",
+    "alarm_id": "ALM-2026-000036",
+    "lot_id": "LOT-2026-000391",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000256",
+    "alarm_id": "ALM-2026-000036",
+    "lot_id": "LOT-2026-000451",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000257",
+    "alarm_id": "ALM-2026-000037",
+    "lot_id": "LOT-2026-000031",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000258",
+    "alarm_id": "ALM-2026-000037",
+    "lot_id": "LOT-2026-000091",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000259",
+    "alarm_id": "ALM-2026-000037",
+    "lot_id": "LOT-2026-000151",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000260",
+    "alarm_id": "ALM-2026-000037",
+    "lot_id": "LOT-2026-000211",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000261",
+    "alarm_id": "ALM-2026-000037",
+    "lot_id": "LOT-2026-000271",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000262",
+    "alarm_id": "ALM-2026-000037",
+    "lot_id": "LOT-2026-000331",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000263",
+    "alarm_id": "ALM-2026-000037",
+    "lot_id": "LOT-2026-000391",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000264",
+    "alarm_id": "ALM-2026-000037",
+    "lot_id": "LOT-2026-000451",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000265",
+    "alarm_id": "ALM-2026-000038",
+    "lot_id": "LOT-2026-000031",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000266",
+    "alarm_id": "ALM-2026-000038",
+    "lot_id": "LOT-2026-000091",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000267",
+    "alarm_id": "ALM-2026-000038",
+    "lot_id": "LOT-2026-000151",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000268",
+    "alarm_id": "ALM-2026-000038",
+    "lot_id": "LOT-2026-000211",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000269",
+    "alarm_id": "ALM-2026-000038",
+    "lot_id": "LOT-2026-000271",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000270",
+    "alarm_id": "ALM-2026-000038",
+    "lot_id": "LOT-2026-000331",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000271",
+    "alarm_id": "ALM-2026-000038",
+    "lot_id": "LOT-2026-000391",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000272",
+    "alarm_id": "ALM-2026-000038",
+    "lot_id": "LOT-2026-000451",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000273",
+    "alarm_id": "ALM-2026-000039",
+    "lot_id": "LOT-2026-000031",
+    "overlap_minutes": 5,
+    "risk_score": 18.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000274",
+    "alarm_id": "ALM-2026-000039",
+    "lot_id": "LOT-2026-000091",
+    "overlap_minutes": 5,
+    "risk_score": 18.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000275",
+    "alarm_id": "ALM-2026-000039",
+    "lot_id": "LOT-2026-000151",
+    "overlap_minutes": 5,
+    "risk_score": 18.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000276",
+    "alarm_id": "ALM-2026-000039",
+    "lot_id": "LOT-2026-000211",
+    "overlap_minutes": 5,
+    "risk_score": 18.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000277",
+    "alarm_id": "ALM-2026-000039",
+    "lot_id": "LOT-2026-000271",
+    "overlap_minutes": 5,
+    "risk_score": 18.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000278",
+    "alarm_id": "ALM-2026-000039",
+    "lot_id": "LOT-2026-000331",
+    "overlap_minutes": 5,
+    "risk_score": 18.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000279",
+    "alarm_id": "ALM-2026-000039",
+    "lot_id": "LOT-2026-000391",
+    "overlap_minutes": 5,
+    "risk_score": 18.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000280",
+    "alarm_id": "ALM-2026-000039",
+    "lot_id": "LOT-2026-000451",
+    "overlap_minutes": 5,
+    "risk_score": 18.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000281",
+    "alarm_id": "ALM-2026-000040",
+    "lot_id": "LOT-2026-000032",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000282",
+    "alarm_id": "ALM-2026-000040",
+    "lot_id": "LOT-2026-000092",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000283",
+    "alarm_id": "ALM-2026-000040",
+    "lot_id": "LOT-2026-000152",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000284",
+    "alarm_id": "ALM-2026-000040",
+    "lot_id": "LOT-2026-000212",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000285",
+    "alarm_id": "ALM-2026-000040",
+    "lot_id": "LOT-2026-000272",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000286",
+    "alarm_id": "ALM-2026-000040",
+    "lot_id": "LOT-2026-000332",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000287",
+    "alarm_id": "ALM-2026-000040",
+    "lot_id": "LOT-2026-000392",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000288",
+    "alarm_id": "ALM-2026-000040",
+    "lot_id": "LOT-2026-000452",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000289",
+    "alarm_id": "ALM-2026-000041",
+    "lot_id": "LOT-2026-000032",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000290",
+    "alarm_id": "ALM-2026-000041",
+    "lot_id": "LOT-2026-000092",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000291",
+    "alarm_id": "ALM-2026-000041",
+    "lot_id": "LOT-2026-000152",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000292",
+    "alarm_id": "ALM-2026-000041",
+    "lot_id": "LOT-2026-000212",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000293",
+    "alarm_id": "ALM-2026-000041",
+    "lot_id": "LOT-2026-000272",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000294",
+    "alarm_id": "ALM-2026-000041",
+    "lot_id": "LOT-2026-000332",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000295",
+    "alarm_id": "ALM-2026-000041",
+    "lot_id": "LOT-2026-000392",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000296",
+    "alarm_id": "ALM-2026-000041",
+    "lot_id": "LOT-2026-000452",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000297",
+    "alarm_id": "ALM-2026-000042",
+    "lot_id": "LOT-2026-000032",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000298",
+    "alarm_id": "ALM-2026-000042",
+    "lot_id": "LOT-2026-000092",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000299",
+    "alarm_id": "ALM-2026-000042",
+    "lot_id": "LOT-2026-000152",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000300",
+    "alarm_id": "ALM-2026-000042",
+    "lot_id": "LOT-2026-000212",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000301",
+    "alarm_id": "ALM-2026-000042",
+    "lot_id": "LOT-2026-000272",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000302",
+    "alarm_id": "ALM-2026-000042",
+    "lot_id": "LOT-2026-000332",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000303",
+    "alarm_id": "ALM-2026-000042",
+    "lot_id": "LOT-2026-000392",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000304",
+    "alarm_id": "ALM-2026-000042",
+    "lot_id": "LOT-2026-000452",
+    "overlap_minutes": 35,
+    "risk_score": 87.5
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000305",
+    "alarm_id": "ALM-2026-000043",
+    "lot_id": "LOT-2026-000013",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000306",
+    "alarm_id": "ALM-2026-000043",
+    "lot_id": "LOT-2026-000073",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000307",
+    "alarm_id": "ALM-2026-000043",
+    "lot_id": "LOT-2026-000133",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000308",
+    "alarm_id": "ALM-2026-000043",
+    "lot_id": "LOT-2026-000193",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000309",
+    "alarm_id": "ALM-2026-000043",
+    "lot_id": "LOT-2026-000253",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000310",
+    "alarm_id": "ALM-2026-000043",
+    "lot_id": "LOT-2026-000313",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000311",
+    "alarm_id": "ALM-2026-000043",
+    "lot_id": "LOT-2026-000373",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000312",
+    "alarm_id": "ALM-2026-000043",
+    "lot_id": "LOT-2026-000433",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000313",
+    "alarm_id": "ALM-2026-000043",
+    "lot_id": "LOT-2026-000493",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000314",
+    "alarm_id": "ALM-2026-000044",
+    "lot_id": "LOT-2026-000013",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000315",
+    "alarm_id": "ALM-2026-000044",
+    "lot_id": "LOT-2026-000073",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000316",
+    "alarm_id": "ALM-2026-000044",
+    "lot_id": "LOT-2026-000133",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000317",
+    "alarm_id": "ALM-2026-000044",
+    "lot_id": "LOT-2026-000193",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000318",
+    "alarm_id": "ALM-2026-000044",
+    "lot_id": "LOT-2026-000253",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000319",
+    "alarm_id": "ALM-2026-000044",
+    "lot_id": "LOT-2026-000313",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000320",
+    "alarm_id": "ALM-2026-000044",
+    "lot_id": "LOT-2026-000373",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000321",
+    "alarm_id": "ALM-2026-000044",
+    "lot_id": "LOT-2026-000433",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000322",
+    "alarm_id": "ALM-2026-000044",
+    "lot_id": "LOT-2026-000493",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000323",
+    "alarm_id": "ALM-2026-000045",
+    "lot_id": "LOT-2026-000013",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000324",
+    "alarm_id": "ALM-2026-000045",
+    "lot_id": "LOT-2026-000073",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000325",
+    "alarm_id": "ALM-2026-000045",
+    "lot_id": "LOT-2026-000133",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000326",
+    "alarm_id": "ALM-2026-000045",
+    "lot_id": "LOT-2026-000193",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000327",
+    "alarm_id": "ALM-2026-000045",
+    "lot_id": "LOT-2026-000253",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000328",
+    "alarm_id": "ALM-2026-000045",
+    "lot_id": "LOT-2026-000313",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000329",
+    "alarm_id": "ALM-2026-000045",
+    "lot_id": "LOT-2026-000373",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000330",
+    "alarm_id": "ALM-2026-000045",
+    "lot_id": "LOT-2026-000433",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000331",
+    "alarm_id": "ALM-2026-000045",
+    "lot_id": "LOT-2026-000493",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000332",
+    "alarm_id": "ALM-2026-000046",
+    "lot_id": "LOT-2026-000135",
+    "overlap_minutes": 5,
+    "risk_score": 8.33
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000333",
+    "alarm_id": "ALM-2026-000047",
+    "lot_id": "LOT-2026-000014",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000334",
+    "alarm_id": "ALM-2026-000047",
+    "lot_id": "LOT-2026-000074",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000335",
+    "alarm_id": "ALM-2026-000047",
+    "lot_id": "LOT-2026-000134",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000336",
+    "alarm_id": "ALM-2026-000047",
+    "lot_id": "LOT-2026-000194",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000337",
+    "alarm_id": "ALM-2026-000047",
+    "lot_id": "LOT-2026-000254",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000338",
+    "alarm_id": "ALM-2026-000047",
+    "lot_id": "LOT-2026-000314",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000339",
+    "alarm_id": "ALM-2026-000047",
+    "lot_id": "LOT-2026-000374",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000340",
+    "alarm_id": "ALM-2026-000047",
+    "lot_id": "LOT-2026-000434",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000341",
+    "alarm_id": "ALM-2026-000047",
+    "lot_id": "LOT-2026-000494",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000342",
+    "alarm_id": "ALM-2026-000048",
+    "lot_id": "LOT-2026-000014",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000343",
+    "alarm_id": "ALM-2026-000048",
+    "lot_id": "LOT-2026-000074",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000344",
+    "alarm_id": "ALM-2026-000048",
+    "lot_id": "LOT-2026-000134",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000345",
+    "alarm_id": "ALM-2026-000048",
+    "lot_id": "LOT-2026-000194",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000346",
+    "alarm_id": "ALM-2026-000048",
+    "lot_id": "LOT-2026-000254",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000347",
+    "alarm_id": "ALM-2026-000048",
+    "lot_id": "LOT-2026-000314",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000348",
+    "alarm_id": "ALM-2026-000048",
+    "lot_id": "LOT-2026-000374",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000349",
+    "alarm_id": "ALM-2026-000048",
+    "lot_id": "LOT-2026-000434",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000350",
+    "alarm_id": "ALM-2026-000048",
+    "lot_id": "LOT-2026-000494",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000351",
+    "alarm_id": "ALM-2026-000049",
+    "lot_id": "LOT-2026-000014",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000352",
+    "alarm_id": "ALM-2026-000049",
+    "lot_id": "LOT-2026-000074",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000353",
+    "alarm_id": "ALM-2026-000049",
+    "lot_id": "LOT-2026-000134",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000354",
+    "alarm_id": "ALM-2026-000049",
+    "lot_id": "LOT-2026-000194",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000355",
+    "alarm_id": "ALM-2026-000049",
+    "lot_id": "LOT-2026-000254",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000356",
+    "alarm_id": "ALM-2026-000049",
+    "lot_id": "LOT-2026-000314",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000357",
+    "alarm_id": "ALM-2026-000049",
+    "lot_id": "LOT-2026-000374",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000358",
+    "alarm_id": "ALM-2026-000049",
+    "lot_id": "LOT-2026-000434",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000359",
+    "alarm_id": "ALM-2026-000049",
+    "lot_id": "LOT-2026-000494",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000360",
+    "alarm_id": "ALM-2026-000050",
+    "lot_id": "LOT-2026-000055",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000361",
+    "alarm_id": "ALM-2026-000050",
+    "lot_id": "LOT-2026-000115",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000362",
+    "alarm_id": "ALM-2026-000050",
+    "lot_id": "LOT-2026-000175",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000363",
+    "alarm_id": "ALM-2026-000050",
+    "lot_id": "LOT-2026-000235",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000364",
+    "alarm_id": "ALM-2026-000050",
+    "lot_id": "LOT-2026-000295",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000365",
+    "alarm_id": "ALM-2026-000050",
+    "lot_id": "LOT-2026-000355",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000366",
+    "alarm_id": "ALM-2026-000050",
+    "lot_id": "LOT-2026-000475",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000367",
+    "alarm_id": "ALM-2026-000051",
+    "lot_id": "LOT-2026-000055",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000368",
+    "alarm_id": "ALM-2026-000051",
+    "lot_id": "LOT-2026-000115",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000369",
+    "alarm_id": "ALM-2026-000051",
+    "lot_id": "LOT-2026-000175",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000370",
+    "alarm_id": "ALM-2026-000051",
+    "lot_id": "LOT-2026-000235",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000371",
+    "alarm_id": "ALM-2026-000051",
+    "lot_id": "LOT-2026-000295",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000372",
+    "alarm_id": "ALM-2026-000051",
+    "lot_id": "LOT-2026-000355",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000373",
+    "alarm_id": "ALM-2026-000051",
+    "lot_id": "LOT-2026-000475",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000374",
+    "alarm_id": "ALM-2026-000052",
+    "lot_id": "LOT-2026-000055",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000375",
+    "alarm_id": "ALM-2026-000052",
+    "lot_id": "LOT-2026-000115",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000376",
+    "alarm_id": "ALM-2026-000052",
+    "lot_id": "LOT-2026-000175",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000377",
+    "alarm_id": "ALM-2026-000052",
+    "lot_id": "LOT-2026-000235",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000378",
+    "alarm_id": "ALM-2026-000052",
+    "lot_id": "LOT-2026-000295",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000379",
+    "alarm_id": "ALM-2026-000052",
+    "lot_id": "LOT-2026-000355",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000380",
+    "alarm_id": "ALM-2026-000052",
+    "lot_id": "LOT-2026-000475",
+    "overlap_minutes": 25,
+    "risk_score": 93.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000381",
+    "alarm_id": "ALM-2026-000053",
+    "lot_id": "LOT-2026-000056",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000382",
+    "alarm_id": "ALM-2026-000053",
+    "lot_id": "LOT-2026-000116",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000383",
+    "alarm_id": "ALM-2026-000053",
+    "lot_id": "LOT-2026-000176",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000384",
+    "alarm_id": "ALM-2026-000053",
+    "lot_id": "LOT-2026-000236",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000385",
+    "alarm_id": "ALM-2026-000053",
+    "lot_id": "LOT-2026-000296",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000386",
+    "alarm_id": "ALM-2026-000053",
+    "lot_id": "LOT-2026-000356",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000387",
+    "alarm_id": "ALM-2026-000053",
+    "lot_id": "LOT-2026-000416",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000388",
+    "alarm_id": "ALM-2026-000053",
+    "lot_id": "LOT-2026-000476",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000389",
+    "alarm_id": "ALM-2026-000054",
+    "lot_id": "LOT-2026-000056",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000390",
+    "alarm_id": "ALM-2026-000054",
+    "lot_id": "LOT-2026-000116",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000391",
+    "alarm_id": "ALM-2026-000054",
+    "lot_id": "LOT-2026-000176",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000392",
+    "alarm_id": "ALM-2026-000054",
+    "lot_id": "LOT-2026-000236",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000393",
+    "alarm_id": "ALM-2026-000054",
+    "lot_id": "LOT-2026-000296",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000394",
+    "alarm_id": "ALM-2026-000054",
+    "lot_id": "LOT-2026-000356",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000395",
+    "alarm_id": "ALM-2026-000054",
+    "lot_id": "LOT-2026-000416",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000396",
+    "alarm_id": "ALM-2026-000054",
+    "lot_id": "LOT-2026-000476",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000397",
+    "alarm_id": "ALM-2026-000055",
+    "lot_id": "LOT-2026-000056",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000398",
+    "alarm_id": "ALM-2026-000055",
+    "lot_id": "LOT-2026-000116",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000399",
+    "alarm_id": "ALM-2026-000055",
+    "lot_id": "LOT-2026-000176",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000400",
+    "alarm_id": "ALM-2026-000055",
+    "lot_id": "LOT-2026-000236",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000401",
+    "alarm_id": "ALM-2026-000055",
+    "lot_id": "LOT-2026-000296",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000402",
+    "alarm_id": "ALM-2026-000055",
+    "lot_id": "LOT-2026-000356",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000403",
+    "alarm_id": "ALM-2026-000055",
+    "lot_id": "LOT-2026-000416",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000404",
+    "alarm_id": "ALM-2026-000055",
+    "lot_id": "LOT-2026-000476",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000405",
+    "alarm_id": "ALM-2026-000056",
+    "lot_id": "LOT-2026-000036",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000406",
+    "alarm_id": "ALM-2026-000056",
+    "lot_id": "LOT-2026-000096",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000407",
+    "alarm_id": "ALM-2026-000056",
+    "lot_id": "LOT-2026-000156",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000408",
+    "alarm_id": "ALM-2026-000056",
+    "lot_id": "LOT-2026-000216",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000409",
+    "alarm_id": "ALM-2026-000056",
+    "lot_id": "LOT-2026-000276",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000410",
+    "alarm_id": "ALM-2026-000056",
+    "lot_id": "LOT-2026-000336",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000411",
+    "alarm_id": "ALM-2026-000056",
+    "lot_id": "LOT-2026-000396",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000412",
+    "alarm_id": "ALM-2026-000056",
+    "lot_id": "LOT-2026-000456",
+    "overlap_minutes": 5,
+    "risk_score": 6.25
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000413",
+    "alarm_id": "ALM-2026-000057",
+    "lot_id": "LOT-2026-000037",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000414",
+    "alarm_id": "ALM-2026-000057",
+    "lot_id": "LOT-2026-000097",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000415",
+    "alarm_id": "ALM-2026-000057",
+    "lot_id": "LOT-2026-000157",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000416",
+    "alarm_id": "ALM-2026-000057",
+    "lot_id": "LOT-2026-000217",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000417",
+    "alarm_id": "ALM-2026-000057",
+    "lot_id": "LOT-2026-000277",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000418",
+    "alarm_id": "ALM-2026-000057",
+    "lot_id": "LOT-2026-000337",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000419",
+    "alarm_id": "ALM-2026-000057",
+    "lot_id": "LOT-2026-000397",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000420",
+    "alarm_id": "ALM-2026-000057",
+    "lot_id": "LOT-2026-000457",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000421",
+    "alarm_id": "ALM-2026-000058",
+    "lot_id": "LOT-2026-000037",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000422",
+    "alarm_id": "ALM-2026-000058",
+    "lot_id": "LOT-2026-000097",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000423",
+    "alarm_id": "ALM-2026-000058",
+    "lot_id": "LOT-2026-000157",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000424",
+    "alarm_id": "ALM-2026-000058",
+    "lot_id": "LOT-2026-000217",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000425",
+    "alarm_id": "ALM-2026-000058",
+    "lot_id": "LOT-2026-000277",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000426",
+    "alarm_id": "ALM-2026-000058",
+    "lot_id": "LOT-2026-000337",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000427",
+    "alarm_id": "ALM-2026-000058",
+    "lot_id": "LOT-2026-000397",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000428",
+    "alarm_id": "ALM-2026-000058",
+    "lot_id": "LOT-2026-000457",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000429",
+    "alarm_id": "ALM-2026-000059",
+    "lot_id": "LOT-2026-000037",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000430",
+    "alarm_id": "ALM-2026-000059",
+    "lot_id": "LOT-2026-000097",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000431",
+    "alarm_id": "ALM-2026-000059",
+    "lot_id": "LOT-2026-000157",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000432",
+    "alarm_id": "ALM-2026-000059",
+    "lot_id": "LOT-2026-000217",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000433",
+    "alarm_id": "ALM-2026-000059",
+    "lot_id": "LOT-2026-000277",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000434",
+    "alarm_id": "ALM-2026-000059",
+    "lot_id": "LOT-2026-000337",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000435",
+    "alarm_id": "ALM-2026-000059",
+    "lot_id": "LOT-2026-000397",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000436",
+    "alarm_id": "ALM-2026-000059",
+    "lot_id": "LOT-2026-000457",
+    "overlap_minutes": 35,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000437",
+    "alarm_id": "ALM-2026-000060",
+    "lot_id": "LOT-2026-000038",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000438",
+    "alarm_id": "ALM-2026-000060",
+    "lot_id": "LOT-2026-000098",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000439",
+    "alarm_id": "ALM-2026-000060",
+    "lot_id": "LOT-2026-000158",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000440",
+    "alarm_id": "ALM-2026-000060",
+    "lot_id": "LOT-2026-000218",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000441",
+    "alarm_id": "ALM-2026-000060",
+    "lot_id": "LOT-2026-000278",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000442",
+    "alarm_id": "ALM-2026-000060",
+    "lot_id": "LOT-2026-000338",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000443",
+    "alarm_id": "ALM-2026-000060",
+    "lot_id": "LOT-2026-000398",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000444",
+    "alarm_id": "ALM-2026-000060",
+    "lot_id": "LOT-2026-000458",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000445",
+    "alarm_id": "ALM-2026-000061",
+    "lot_id": "LOT-2026-000038",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000446",
+    "alarm_id": "ALM-2026-000061",
+    "lot_id": "LOT-2026-000098",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000447",
+    "alarm_id": "ALM-2026-000061",
+    "lot_id": "LOT-2026-000158",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000448",
+    "alarm_id": "ALM-2026-000061",
+    "lot_id": "LOT-2026-000218",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000449",
+    "alarm_id": "ALM-2026-000061",
+    "lot_id": "LOT-2026-000278",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000450",
+    "alarm_id": "ALM-2026-000061",
+    "lot_id": "LOT-2026-000338",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000451",
+    "alarm_id": "ALM-2026-000061",
+    "lot_id": "LOT-2026-000398",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000452",
+    "alarm_id": "ALM-2026-000061",
+    "lot_id": "LOT-2026-000458",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000453",
+    "alarm_id": "ALM-2026-000062",
+    "lot_id": "LOT-2026-000038",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000454",
+    "alarm_id": "ALM-2026-000062",
+    "lot_id": "LOT-2026-000098",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000455",
+    "alarm_id": "ALM-2026-000062",
+    "lot_id": "LOT-2026-000158",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000456",
+    "alarm_id": "ALM-2026-000062",
+    "lot_id": "LOT-2026-000218",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000457",
+    "alarm_id": "ALM-2026-000062",
+    "lot_id": "LOT-2026-000278",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000458",
+    "alarm_id": "ALM-2026-000062",
+    "lot_id": "LOT-2026-000338",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000459",
+    "alarm_id": "ALM-2026-000062",
+    "lot_id": "LOT-2026-000398",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000460",
+    "alarm_id": "ALM-2026-000062",
+    "lot_id": "LOT-2026-000458",
+    "overlap_minutes": 30,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000461",
+    "alarm_id": "ALM-2026-000063",
+    "lot_id": "LOT-2026-000019",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000462",
+    "alarm_id": "ALM-2026-000063",
+    "lot_id": "LOT-2026-000079",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000463",
+    "alarm_id": "ALM-2026-000063",
+    "lot_id": "LOT-2026-000139",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000464",
+    "alarm_id": "ALM-2026-000063",
+    "lot_id": "LOT-2026-000199",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000465",
+    "alarm_id": "ALM-2026-000063",
+    "lot_id": "LOT-2026-000259",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000466",
+    "alarm_id": "ALM-2026-000063",
+    "lot_id": "LOT-2026-000319",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000467",
+    "alarm_id": "ALM-2026-000063",
+    "lot_id": "LOT-2026-000379",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000468",
+    "alarm_id": "ALM-2026-000063",
+    "lot_id": "LOT-2026-000439",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000469",
+    "alarm_id": "ALM-2026-000063",
+    "lot_id": "LOT-2026-000499",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000470",
+    "alarm_id": "ALM-2026-000064",
+    "lot_id": "LOT-2026-000019",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000471",
+    "alarm_id": "ALM-2026-000064",
+    "lot_id": "LOT-2026-000079",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000472",
+    "alarm_id": "ALM-2026-000064",
+    "lot_id": "LOT-2026-000139",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000473",
+    "alarm_id": "ALM-2026-000064",
+    "lot_id": "LOT-2026-000199",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000474",
+    "alarm_id": "ALM-2026-000064",
+    "lot_id": "LOT-2026-000259",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000475",
+    "alarm_id": "ALM-2026-000064",
+    "lot_id": "LOT-2026-000319",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000476",
+    "alarm_id": "ALM-2026-000064",
+    "lot_id": "LOT-2026-000379",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000477",
+    "alarm_id": "ALM-2026-000064",
+    "lot_id": "LOT-2026-000439",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000478",
+    "alarm_id": "ALM-2026-000064",
+    "lot_id": "LOT-2026-000499",
+    "overlap_minutes": 30,
+    "risk_score": 100.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000479",
+    "alarm_id": "ALM-2026-000065",
+    "lot_id": "LOT-2026-000019",
+    "overlap_minutes": 20,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000480",
+    "alarm_id": "ALM-2026-000065",
+    "lot_id": "LOT-2026-000079",
+    "overlap_minutes": 20,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000481",
+    "alarm_id": "ALM-2026-000065",
+    "lot_id": "LOT-2026-000139",
+    "overlap_minutes": 20,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000482",
+    "alarm_id": "ALM-2026-000065",
+    "lot_id": "LOT-2026-000199",
+    "overlap_minutes": 20,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000483",
+    "alarm_id": "ALM-2026-000065",
+    "lot_id": "LOT-2026-000259",
+    "overlap_minutes": 20,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000484",
+    "alarm_id": "ALM-2026-000065",
+    "lot_id": "LOT-2026-000319",
+    "overlap_minutes": 20,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000485",
+    "alarm_id": "ALM-2026-000065",
+    "lot_id": "LOT-2026-000379",
+    "overlap_minutes": 20,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000486",
+    "alarm_id": "ALM-2026-000065",
+    "lot_id": "LOT-2026-000439",
+    "overlap_minutes": 20,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000487",
+    "alarm_id": "ALM-2026-000065",
+    "lot_id": "LOT-2026-000499",
+    "overlap_minutes": 20,
+    "risk_score": 75.0
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000488",
+    "alarm_id": "ALM-2026-000066",
+    "lot_id": "LOT-2026-000059",
+    "overlap_minutes": 5,
+    "risk_score": 4.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000489",
+    "alarm_id": "ALM-2026-000066",
+    "lot_id": "LOT-2026-000119",
+    "overlap_minutes": 5,
+    "risk_score": 4.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000490",
+    "alarm_id": "ALM-2026-000066",
+    "lot_id": "LOT-2026-000179",
+    "overlap_minutes": 5,
+    "risk_score": 4.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000491",
+    "alarm_id": "ALM-2026-000066",
+    "lot_id": "LOT-2026-000239",
+    "overlap_minutes": 5,
+    "risk_score": 4.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000492",
+    "alarm_id": "ALM-2026-000066",
+    "lot_id": "LOT-2026-000299",
+    "overlap_minutes": 5,
+    "risk_score": 4.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000493",
+    "alarm_id": "ALM-2026-000066",
+    "lot_id": "LOT-2026-000359",
+    "overlap_minutes": 5,
+    "risk_score": 4.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000494",
+    "alarm_id": "ALM-2026-000066",
+    "lot_id": "LOT-2026-000419",
+    "overlap_minutes": 5,
+    "risk_score": 4.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000495",
+    "alarm_id": "ALM-2026-000066",
+    "lot_id": "LOT-2026-000479",
+    "overlap_minutes": 5,
+    "risk_score": 4.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000496",
+    "alarm_id": "ALM-2026-000068",
+    "lot_id": "LOT-2026-000023",
+    "overlap_minutes": 35,
+    "risk_score": 29.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000497",
+    "alarm_id": "ALM-2026-000068",
+    "lot_id": "LOT-2026-000083",
+    "overlap_minutes": 35,
+    "risk_score": 29.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000498",
+    "alarm_id": "ALM-2026-000068",
+    "lot_id": "LOT-2026-000143",
+    "overlap_minutes": 35,
+    "risk_score": 29.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000499",
+    "alarm_id": "ALM-2026-000068",
+    "lot_id": "LOT-2026-000203",
+    "overlap_minutes": 35,
+    "risk_score": 29.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000500",
+    "alarm_id": "ALM-2026-000068",
+    "lot_id": "LOT-2026-000263",
+    "overlap_minutes": 35,
+    "risk_score": 29.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000501",
+    "alarm_id": "ALM-2026-000068",
+    "lot_id": "LOT-2026-000323",
+    "overlap_minutes": 35,
+    "risk_score": 29.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000502",
+    "alarm_id": "ALM-2026-000068",
+    "lot_id": "LOT-2026-000383",
+    "overlap_minutes": 35,
+    "risk_score": 29.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000503",
+    "alarm_id": "ALM-2026-000068",
+    "lot_id": "LOT-2026-000443",
+    "overlap_minutes": 35,
+    "risk_score": 29.17
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000504",
+    "alarm_id": "ALM-2026-000071",
+    "lot_id": "LOT-2026-000036",
+    "overlap_minutes": 35,
+    "risk_score": 43.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000505",
+    "alarm_id": "ALM-2026-000071",
+    "lot_id": "LOT-2026-000096",
+    "overlap_minutes": 35,
+    "risk_score": 43.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000506",
+    "alarm_id": "ALM-2026-000071",
+    "lot_id": "LOT-2026-000156",
+    "overlap_minutes": 35,
+    "risk_score": 43.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000507",
+    "alarm_id": "ALM-2026-000071",
+    "lot_id": "LOT-2026-000216",
+    "overlap_minutes": 35,
+    "risk_score": 43.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000508",
+    "alarm_id": "ALM-2026-000071",
+    "lot_id": "LOT-2026-000276",
+    "overlap_minutes": 35,
+    "risk_score": 43.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000509",
+    "alarm_id": "ALM-2026-000071",
+    "lot_id": "LOT-2026-000336",
+    "overlap_minutes": 35,
+    "risk_score": 43.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000510",
+    "alarm_id": "ALM-2026-000071",
+    "lot_id": "LOT-2026-000396",
+    "overlap_minutes": 35,
+    "risk_score": 43.75
+  },
+  {
+    "alarm_lot_id": "AAL-2026-000511",
+    "alarm_id": "ALM-2026-000071",
+    "lot_id": "LOT-2026-000456",
+    "overlap_minutes": 35,
+    "risk_score": 43.75
+  }
+]

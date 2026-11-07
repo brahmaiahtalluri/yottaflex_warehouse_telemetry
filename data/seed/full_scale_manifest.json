@@ -1,0 +1,68 @@
+{
+  "generator_version": "1.0.0",
+  "fixed_seed": 20261022,
+  "scale": "full",
+  "base_epoch_utc": "2026-10-01T00:00:00Z",
+  "generator_command": "python3 generator/generate_dataset.py --seed 20261022 --scale full --out-dir /tmp/full_scale_run",
+  "provenance": {
+    "data_origin": "100% Synthetic Deterministic Generation (Lawful Use / Zero PII)",
+    "schema_inspiration": [
+      "WHO Technical Supplement: Temperature Mapping of Storage Areas (Public Guidance)",
+      "EU GDP Guidelines (2013/C 343/01) for Cold-Chain Pharmaceutical Warehousing",
+      "ISA-95 / ISA-18.2 Industrial Alarm Management Lifecycle Standards"
+    ],
+    "license": "MIT / Open Challenge Submission"
+  },
+  "row_counts": {
+    "warehouses": 10,
+    "zones": 100,
+    "sensors": 500,
+    "sensor_zone_mapping_history": 506,
+    "sensor_readings": 1000000,
+    "door_events": 800,
+    "storage_requirements": 6,
+    "inventory_lots": 10000,
+    "zone_lot_assignments": 10000,
+    "alarms": 81,
+    "alarm_affected_lots": 404,
+    "inspections": 81,
+    "remediations": 81,
+    "ground_truth": 24
+  },
+  "edge_case_counts": {
+    "SENSOR_MULTI_ZONE_NO_RATIONALE": 6,
+    "READING_GAP_TREATED_AS_NORMAL": 6,
+    "LOT_INCOMPATIBLE_ZONE": 8,
+    "ALARM_UNLINKED_TO_AFFECTED_LOTS": 4
+  },
+  "file_sha256_checksums": {
+    "csv/warehouses.csv": "3c2be6972987cc7d629fca28fc481ba84ea87bd5dc5e0e947d6849f4514f051e",
+    "json/warehouses.json": "44f59cae7128df4c9f8e27d965b7fddb9c6ec2c89d4688799ce6b44a97157353",
+    "csv/zones.csv": "8e513ed972d612d5c912c817b80403472a88aa8a606f65008270b020be0af115",
+    "json/zones.json": "5be8b7404b5c901ce6c623c605343b423dc834622ba78bf0b54426ba5d6dbf42",
+    "csv/sensors.csv": "7306c593a7a44ddfe298bb0be173030ffbf5e4025ee6414a6f2cde78efa7f0cb",
+    "json/sensors.json": "9d298389655a7bfe6c95b4da4a97e2f12345c33ddedd3efd2296fe51582d73c5",
+    "csv/sensor_zone_mapping_history.csv": "a47f4e8c25cab331308ab44dd7e704baf332f5641e8370764c631141bdcf39df",
+    "json/sensor_zone_mapping_history.json": "5914bc02ba899383015ba50a250b99d65dedae3ca3912672a61142a4fefd63a2",
+    "csv/sensor_readings.csv": "a8b6a6ebd2aef8752c6a8c37c024eef1797090b711a6d8649cd2158ceacdd5b7",
+    "csv/door_events.csv": "25b17cdcc63325e23b4cf7fedd8f3731ac70559eeda9b61b94f628163d12ef0c",
+    "json/door_events.json": "ab1ad33ee7204b57f6a0209e8275de326350497d0c4dd51112e9f6320e4535cf",
+    "csv/storage_requirements.csv": "c98c53d0727dd86d80bf041e1b54bd9564282ae6f8ffdb896cb351b821ecae55",
+    "json/storage_requirements.json": "a2087c17ae62d7b3cb0e2cb9d21e5ca8b5c493359a43c3293a01b68e31d6742d",
+    "csv/inventory_lots.csv": "0faaf68af49ebb16d213e8663038d1fe2319c19ce15d7b3b6b9494d0894cc277",
+    "json/inventory_lots.json": "1578cedfc70dfccb46699e02d4669c002785696e750bce30c11ce737bae5f2af",
+    "csv/zone_lot_assignments.csv": "0fab2cc8a0e05550d11d9f297984faee01864e4999f3e8c94ffd362ea3ea2be2",
+    "json/zone_lot_assignments.json": "743dbf239fe0c9fe5a38163a78228b9495ed3cdd2ab043ce2bba28e513e920d6",
+    "csv/alarms.csv": "40dc3315add764034eb0af1e7cb311ac78c8cdeebcd41c91adf742a77e047a32",
+    "json/alarms.json": "9422ad9d9121ebe6cc9313eebffbdfd9aeb3d9f73a5efc3bc1397dd0feb1e76e",
+    "csv/alarm_affected_lots.csv": "67ad3dc4bb759df106b2ede04258c08bd8d1a374dc489c3ecb2fc5064e4ea325",
+    "json/alarm_affected_lots.json": "14532a63d6db0f44474faa17339e26e6d649368b6deda076272b7268bcc59ef8",
+    "csv/inspections.csv": "5df1912ff546779860f6b19bb9542aae7fb7be04e484b4a0066fe645f5022945",
+    "json/inspections.json": "936615223d3ce8fa94ee9d990a256f638addc7c7716c8ba801721f046835e301",
+    "csv/remediations.csv": "d6edf59459beeade0444b42a1cbf1c24457dd9454b24c4afaf7a2857b229dd9d",
+    "json/remediations.json": "9d35791db89cac2ebb52508fdd8d910dbbf94fd59e6e0dd152f06ca00448afc7",
+    "ground_truth.csv": "c4bbfbb10d9e7f4263b03f17898381a046fbe96b1c0b7c12b2edacfc87bdf482",
+    "ground_truth.json": "2bdbb1895cfab91cd94784a62134120bf21ffc240cd602664bd7f3f9315a98bc"
+  },
+  "generation_elapsed_sec": 10.347
+}

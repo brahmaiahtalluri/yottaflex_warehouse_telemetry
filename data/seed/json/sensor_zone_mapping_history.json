@@ -1,0 +1,4050 @@
+[
+  {
+    "mapping_id": "SZM-2026-000001",
+    "sensor_id": "SNS-ZONE-WH-001-001-TEMP-01",
+    "zone_id": "ZONE-WH-001-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000002",
+    "sensor_id": "SNS-ZONE-WH-001-001-TEMP-02",
+    "zone_id": "ZONE-WH-001-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000003",
+    "sensor_id": "SNS-ZONE-WH-001-001-HUM-01",
+    "zone_id": "ZONE-WH-001-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000004",
+    "sensor_id": "SNS-ZONE-WH-001-001-OCC-01",
+    "zone_id": "ZONE-WH-001-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000005",
+    "sensor_id": "SNS-ZONE-WH-001-001-DOOR-01",
+    "zone_id": "ZONE-WH-001-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000006",
+    "sensor_id": "SNS-ZONE-WH-001-002-TEMP-01",
+    "zone_id": "ZONE-WH-001-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000007",
+    "sensor_id": "SNS-ZONE-WH-001-002-TEMP-02",
+    "zone_id": "ZONE-WH-001-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000008",
+    "sensor_id": "SNS-ZONE-WH-001-002-TEMP-02",
+    "zone_id": "ZONE-WH-001-003",
+    "mapping_rationale": "",
+    "effective_from": "2026-10-01T12:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000009",
+    "sensor_id": "SNS-ZONE-WH-001-002-HUM-01",
+    "zone_id": "ZONE-WH-001-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000010",
+    "sensor_id": "SNS-ZONE-WH-001-002-OCC-01",
+    "zone_id": "ZONE-WH-001-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000011",
+    "sensor_id": "SNS-ZONE-WH-001-002-DOOR-01",
+    "zone_id": "ZONE-WH-001-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000012",
+    "sensor_id": "SNS-ZONE-WH-001-003-TEMP-01",
+    "zone_id": "ZONE-WH-001-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000013",
+    "sensor_id": "SNS-ZONE-WH-001-003-TEMP-02",
+    "zone_id": "ZONE-WH-001-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000014",
+    "sensor_id": "SNS-ZONE-WH-001-003-HUM-01",
+    "zone_id": "ZONE-WH-001-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000015",
+    "sensor_id": "SNS-ZONE-WH-001-003-OCC-01",
+    "zone_id": "ZONE-WH-001-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000016",
+    "sensor_id": "SNS-ZONE-WH-001-003-DOOR-01",
+    "zone_id": "ZONE-WH-001-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000017",
+    "sensor_id": "SNS-ZONE-WH-001-004-TEMP-01",
+    "zone_id": "ZONE-WH-001-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000018",
+    "sensor_id": "SNS-ZONE-WH-001-004-TEMP-02",
+    "zone_id": "ZONE-WH-001-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000019",
+    "sensor_id": "SNS-ZONE-WH-001-004-HUM-01",
+    "zone_id": "ZONE-WH-001-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000020",
+    "sensor_id": "SNS-ZONE-WH-001-004-OCC-01",
+    "zone_id": "ZONE-WH-001-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000021",
+    "sensor_id": "SNS-ZONE-WH-001-004-DOOR-01",
+    "zone_id": "ZONE-WH-001-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000022",
+    "sensor_id": "SNS-ZONE-WH-001-005-TEMP-01",
+    "zone_id": "ZONE-WH-001-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000023",
+    "sensor_id": "SNS-ZONE-WH-001-005-TEMP-02",
+    "zone_id": "ZONE-WH-001-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000024",
+    "sensor_id": "SNS-ZONE-WH-001-005-HUM-01",
+    "zone_id": "ZONE-WH-001-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000025",
+    "sensor_id": "SNS-ZONE-WH-001-005-OCC-01",
+    "zone_id": "ZONE-WH-001-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000026",
+    "sensor_id": "SNS-ZONE-WH-001-005-DOOR-01",
+    "zone_id": "ZONE-WH-001-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000027",
+    "sensor_id": "SNS-ZONE-WH-001-006-TEMP-01",
+    "zone_id": "ZONE-WH-001-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000028",
+    "sensor_id": "SNS-ZONE-WH-001-006-TEMP-02",
+    "zone_id": "ZONE-WH-001-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000029",
+    "sensor_id": "SNS-ZONE-WH-001-006-HUM-01",
+    "zone_id": "ZONE-WH-001-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000030",
+    "sensor_id": "SNS-ZONE-WH-001-006-OCC-01",
+    "zone_id": "ZONE-WH-001-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000031",
+    "sensor_id": "SNS-ZONE-WH-001-006-DOOR-01",
+    "zone_id": "ZONE-WH-001-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000032",
+    "sensor_id": "SNS-ZONE-WH-001-007-TEMP-01",
+    "zone_id": "ZONE-WH-001-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000033",
+    "sensor_id": "SNS-ZONE-WH-001-007-TEMP-02",
+    "zone_id": "ZONE-WH-001-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000034",
+    "sensor_id": "SNS-ZONE-WH-001-007-HUM-01",
+    "zone_id": "ZONE-WH-001-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000035",
+    "sensor_id": "SNS-ZONE-WH-001-007-OCC-01",
+    "zone_id": "ZONE-WH-001-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000036",
+    "sensor_id": "SNS-ZONE-WH-001-007-DOOR-01",
+    "zone_id": "ZONE-WH-001-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000037",
+    "sensor_id": "SNS-ZONE-WH-001-008-TEMP-01",
+    "zone_id": "ZONE-WH-001-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000038",
+    "sensor_id": "SNS-ZONE-WH-001-008-TEMP-02",
+    "zone_id": "ZONE-WH-001-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000039",
+    "sensor_id": "SNS-ZONE-WH-001-008-HUM-01",
+    "zone_id": "ZONE-WH-001-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000040",
+    "sensor_id": "SNS-ZONE-WH-001-008-OCC-01",
+    "zone_id": "ZONE-WH-001-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000041",
+    "sensor_id": "SNS-ZONE-WH-001-008-DOOR-01",
+    "zone_id": "ZONE-WH-001-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000042",
+    "sensor_id": "SNS-ZONE-WH-001-009-TEMP-01",
+    "zone_id": "ZONE-WH-001-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000043",
+    "sensor_id": "SNS-ZONE-WH-001-009-TEMP-02",
+    "zone_id": "ZONE-WH-001-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000044",
+    "sensor_id": "SNS-ZONE-WH-001-009-TEMP-02",
+    "zone_id": "ZONE-WH-001-010",
+    "mapping_rationale": "",
+    "effective_from": "2026-10-01T12:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000045",
+    "sensor_id": "SNS-ZONE-WH-001-009-HUM-01",
+    "zone_id": "ZONE-WH-001-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000046",
+    "sensor_id": "SNS-ZONE-WH-001-009-OCC-01",
+    "zone_id": "ZONE-WH-001-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000047",
+    "sensor_id": "SNS-ZONE-WH-001-009-DOOR-01",
+    "zone_id": "ZONE-WH-001-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000048",
+    "sensor_id": "SNS-ZONE-WH-001-010-TEMP-01",
+    "zone_id": "ZONE-WH-001-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000049",
+    "sensor_id": "SNS-ZONE-WH-001-010-TEMP-02",
+    "zone_id": "ZONE-WH-001-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000050",
+    "sensor_id": "SNS-ZONE-WH-001-010-HUM-01",
+    "zone_id": "ZONE-WH-001-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000051",
+    "sensor_id": "SNS-ZONE-WH-001-010-OCC-01",
+    "zone_id": "ZONE-WH-001-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000052",
+    "sensor_id": "SNS-ZONE-WH-001-010-DOOR-01",
+    "zone_id": "ZONE-WH-001-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000053",
+    "sensor_id": "SNS-ZONE-WH-002-001-TEMP-01",
+    "zone_id": "ZONE-WH-002-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000054",
+    "sensor_id": "SNS-ZONE-WH-002-001-TEMP-02",
+    "zone_id": "ZONE-WH-002-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000055",
+    "sensor_id": "SNS-ZONE-WH-002-001-HUM-01",
+    "zone_id": "ZONE-WH-002-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000056",
+    "sensor_id": "SNS-ZONE-WH-002-001-OCC-01",
+    "zone_id": "ZONE-WH-002-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000057",
+    "sensor_id": "SNS-ZONE-WH-002-001-DOOR-01",
+    "zone_id": "ZONE-WH-002-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000058",
+    "sensor_id": "SNS-ZONE-WH-002-002-TEMP-01",
+    "zone_id": "ZONE-WH-002-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000059",
+    "sensor_id": "SNS-ZONE-WH-002-002-TEMP-02",
+    "zone_id": "ZONE-WH-002-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000060",
+    "sensor_id": "SNS-ZONE-WH-002-002-HUM-01",
+    "zone_id": "ZONE-WH-002-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000061",
+    "sensor_id": "SNS-ZONE-WH-002-002-OCC-01",
+    "zone_id": "ZONE-WH-002-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000062",
+    "sensor_id": "SNS-ZONE-WH-002-002-DOOR-01",
+    "zone_id": "ZONE-WH-002-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000063",
+    "sensor_id": "SNS-ZONE-WH-002-003-TEMP-01",
+    "zone_id": "ZONE-WH-002-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000064",
+    "sensor_id": "SNS-ZONE-WH-002-003-TEMP-02",
+    "zone_id": "ZONE-WH-002-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000065",
+    "sensor_id": "SNS-ZONE-WH-002-003-HUM-01",
+    "zone_id": "ZONE-WH-002-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000066",
+    "sensor_id": "SNS-ZONE-WH-002-003-OCC-01",
+    "zone_id": "ZONE-WH-002-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000067",
+    "sensor_id": "SNS-ZONE-WH-002-003-DOOR-01",
+    "zone_id": "ZONE-WH-002-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000068",
+    "sensor_id": "SNS-ZONE-WH-002-004-TEMP-01",
+    "zone_id": "ZONE-WH-002-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000069",
+    "sensor_id": "SNS-ZONE-WH-002-004-TEMP-02",
+    "zone_id": "ZONE-WH-002-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000070",
+    "sensor_id": "SNS-ZONE-WH-002-004-HUM-01",
+    "zone_id": "ZONE-WH-002-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000071",
+    "sensor_id": "SNS-ZONE-WH-002-004-OCC-01",
+    "zone_id": "ZONE-WH-002-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000072",
+    "sensor_id": "SNS-ZONE-WH-002-004-DOOR-01",
+    "zone_id": "ZONE-WH-002-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000073",
+    "sensor_id": "SNS-ZONE-WH-002-005-TEMP-01",
+    "zone_id": "ZONE-WH-002-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000074",
+    "sensor_id": "SNS-ZONE-WH-002-005-TEMP-02",
+    "zone_id": "ZONE-WH-002-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000075",
+    "sensor_id": "SNS-ZONE-WH-002-005-HUM-01",
+    "zone_id": "ZONE-WH-002-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000076",
+    "sensor_id": "SNS-ZONE-WH-002-005-OCC-01",
+    "zone_id": "ZONE-WH-002-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000077",
+    "sensor_id": "SNS-ZONE-WH-002-005-DOOR-01",
+    "zone_id": "ZONE-WH-002-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000078",
+    "sensor_id": "SNS-ZONE-WH-002-006-TEMP-01",
+    "zone_id": "ZONE-WH-002-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000079",
+    "sensor_id": "SNS-ZONE-WH-002-006-TEMP-02",
+    "zone_id": "ZONE-WH-002-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000080",
+    "sensor_id": "SNS-ZONE-WH-002-006-HUM-01",
+    "zone_id": "ZONE-WH-002-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000081",
+    "sensor_id": "SNS-ZONE-WH-002-006-OCC-01",
+    "zone_id": "ZONE-WH-002-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000082",
+    "sensor_id": "SNS-ZONE-WH-002-006-DOOR-01",
+    "zone_id": "ZONE-WH-002-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000083",
+    "sensor_id": "SNS-ZONE-WH-002-007-TEMP-01",
+    "zone_id": "ZONE-WH-002-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000084",
+    "sensor_id": "SNS-ZONE-WH-002-007-TEMP-02",
+    "zone_id": "ZONE-WH-002-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000085",
+    "sensor_id": "SNS-ZONE-WH-002-007-HUM-01",
+    "zone_id": "ZONE-WH-002-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000086",
+    "sensor_id": "SNS-ZONE-WH-002-007-OCC-01",
+    "zone_id": "ZONE-WH-002-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000087",
+    "sensor_id": "SNS-ZONE-WH-002-007-DOOR-01",
+    "zone_id": "ZONE-WH-002-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000088",
+    "sensor_id": "SNS-ZONE-WH-002-008-TEMP-01",
+    "zone_id": "ZONE-WH-002-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000089",
+    "sensor_id": "SNS-ZONE-WH-002-008-TEMP-02",
+    "zone_id": "ZONE-WH-002-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000090",
+    "sensor_id": "SNS-ZONE-WH-002-008-HUM-01",
+    "zone_id": "ZONE-WH-002-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000091",
+    "sensor_id": "SNS-ZONE-WH-002-008-OCC-01",
+    "zone_id": "ZONE-WH-002-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000092",
+    "sensor_id": "SNS-ZONE-WH-002-008-DOOR-01",
+    "zone_id": "ZONE-WH-002-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000093",
+    "sensor_id": "SNS-ZONE-WH-002-009-TEMP-01",
+    "zone_id": "ZONE-WH-002-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000094",
+    "sensor_id": "SNS-ZONE-WH-002-009-TEMP-02",
+    "zone_id": "ZONE-WH-002-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000095",
+    "sensor_id": "SNS-ZONE-WH-002-009-HUM-01",
+    "zone_id": "ZONE-WH-002-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000096",
+    "sensor_id": "SNS-ZONE-WH-002-009-OCC-01",
+    "zone_id": "ZONE-WH-002-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000097",
+    "sensor_id": "SNS-ZONE-WH-002-009-DOOR-01",
+    "zone_id": "ZONE-WH-002-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000098",
+    "sensor_id": "SNS-ZONE-WH-002-010-TEMP-01",
+    "zone_id": "ZONE-WH-002-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000099",
+    "sensor_id": "SNS-ZONE-WH-002-010-TEMP-02",
+    "zone_id": "ZONE-WH-002-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000100",
+    "sensor_id": "SNS-ZONE-WH-002-010-HUM-01",
+    "zone_id": "ZONE-WH-002-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000101",
+    "sensor_id": "SNS-ZONE-WH-002-010-OCC-01",
+    "zone_id": "ZONE-WH-002-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000102",
+    "sensor_id": "SNS-ZONE-WH-002-010-DOOR-01",
+    "zone_id": "ZONE-WH-002-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000103",
+    "sensor_id": "SNS-ZONE-WH-003-001-TEMP-01",
+    "zone_id": "ZONE-WH-003-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000104",
+    "sensor_id": "SNS-ZONE-WH-003-001-TEMP-02",
+    "zone_id": "ZONE-WH-003-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000105",
+    "sensor_id": "SNS-ZONE-WH-003-001-HUM-01",
+    "zone_id": "ZONE-WH-003-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000106",
+    "sensor_id": "SNS-ZONE-WH-003-001-OCC-01",
+    "zone_id": "ZONE-WH-003-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000107",
+    "sensor_id": "SNS-ZONE-WH-003-001-DOOR-01",
+    "zone_id": "ZONE-WH-003-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000108",
+    "sensor_id": "SNS-ZONE-WH-003-002-TEMP-01",
+    "zone_id": "ZONE-WH-003-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000109",
+    "sensor_id": "SNS-ZONE-WH-003-002-TEMP-02",
+    "zone_id": "ZONE-WH-003-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000110",
+    "sensor_id": "SNS-ZONE-WH-003-002-HUM-01",
+    "zone_id": "ZONE-WH-003-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000111",
+    "sensor_id": "SNS-ZONE-WH-003-002-HUM-01",
+    "zone_id": "ZONE-WH-003-003",
+    "mapping_rationale": "",
+    "effective_from": "2026-10-01T12:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000112",
+    "sensor_id": "SNS-ZONE-WH-003-002-OCC-01",
+    "zone_id": "ZONE-WH-003-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000113",
+    "sensor_id": "SNS-ZONE-WH-003-002-DOOR-01",
+    "zone_id": "ZONE-WH-003-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000114",
+    "sensor_id": "SNS-ZONE-WH-003-003-TEMP-01",
+    "zone_id": "ZONE-WH-003-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000115",
+    "sensor_id": "SNS-ZONE-WH-003-003-TEMP-02",
+    "zone_id": "ZONE-WH-003-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000116",
+    "sensor_id": "SNS-ZONE-WH-003-003-HUM-01",
+    "zone_id": "ZONE-WH-003-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000117",
+    "sensor_id": "SNS-ZONE-WH-003-003-OCC-01",
+    "zone_id": "ZONE-WH-003-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000118",
+    "sensor_id": "SNS-ZONE-WH-003-003-DOOR-01",
+    "zone_id": "ZONE-WH-003-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000119",
+    "sensor_id": "SNS-ZONE-WH-003-004-TEMP-01",
+    "zone_id": "ZONE-WH-003-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000120",
+    "sensor_id": "SNS-ZONE-WH-003-004-TEMP-02",
+    "zone_id": "ZONE-WH-003-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000121",
+    "sensor_id": "SNS-ZONE-WH-003-004-HUM-01",
+    "zone_id": "ZONE-WH-003-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000122",
+    "sensor_id": "SNS-ZONE-WH-003-004-OCC-01",
+    "zone_id": "ZONE-WH-003-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000123",
+    "sensor_id": "SNS-ZONE-WH-003-004-DOOR-01",
+    "zone_id": "ZONE-WH-003-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000124",
+    "sensor_id": "SNS-ZONE-WH-003-005-TEMP-01",
+    "zone_id": "ZONE-WH-003-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000125",
+    "sensor_id": "SNS-ZONE-WH-003-005-TEMP-02",
+    "zone_id": "ZONE-WH-003-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000126",
+    "sensor_id": "SNS-ZONE-WH-003-005-HUM-01",
+    "zone_id": "ZONE-WH-003-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000127",
+    "sensor_id": "SNS-ZONE-WH-003-005-OCC-01",
+    "zone_id": "ZONE-WH-003-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000128",
+    "sensor_id": "SNS-ZONE-WH-003-005-DOOR-01",
+    "zone_id": "ZONE-WH-003-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000129",
+    "sensor_id": "SNS-ZONE-WH-003-006-TEMP-01",
+    "zone_id": "ZONE-WH-003-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000130",
+    "sensor_id": "SNS-ZONE-WH-003-006-TEMP-02",
+    "zone_id": "ZONE-WH-003-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000131",
+    "sensor_id": "SNS-ZONE-WH-003-006-HUM-01",
+    "zone_id": "ZONE-WH-003-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000132",
+    "sensor_id": "SNS-ZONE-WH-003-006-OCC-01",
+    "zone_id": "ZONE-WH-003-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000133",
+    "sensor_id": "SNS-ZONE-WH-003-006-DOOR-01",
+    "zone_id": "ZONE-WH-003-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000134",
+    "sensor_id": "SNS-ZONE-WH-003-007-TEMP-01",
+    "zone_id": "ZONE-WH-003-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000135",
+    "sensor_id": "SNS-ZONE-WH-003-007-TEMP-02",
+    "zone_id": "ZONE-WH-003-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000136",
+    "sensor_id": "SNS-ZONE-WH-003-007-HUM-01",
+    "zone_id": "ZONE-WH-003-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000137",
+    "sensor_id": "SNS-ZONE-WH-003-007-OCC-01",
+    "zone_id": "ZONE-WH-003-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000138",
+    "sensor_id": "SNS-ZONE-WH-003-007-DOOR-01",
+    "zone_id": "ZONE-WH-003-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000139",
+    "sensor_id": "SNS-ZONE-WH-003-008-TEMP-01",
+    "zone_id": "ZONE-WH-003-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000140",
+    "sensor_id": "SNS-ZONE-WH-003-008-TEMP-02",
+    "zone_id": "ZONE-WH-003-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000141",
+    "sensor_id": "SNS-ZONE-WH-003-008-HUM-01",
+    "zone_id": "ZONE-WH-003-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000142",
+    "sensor_id": "SNS-ZONE-WH-003-008-OCC-01",
+    "zone_id": "ZONE-WH-003-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000143",
+    "sensor_id": "SNS-ZONE-WH-003-008-DOOR-01",
+    "zone_id": "ZONE-WH-003-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000144",
+    "sensor_id": "SNS-ZONE-WH-003-009-TEMP-01",
+    "zone_id": "ZONE-WH-003-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000145",
+    "sensor_id": "SNS-ZONE-WH-003-009-TEMP-02",
+    "zone_id": "ZONE-WH-003-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000146",
+    "sensor_id": "SNS-ZONE-WH-003-009-HUM-01",
+    "zone_id": "ZONE-WH-003-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000147",
+    "sensor_id": "SNS-ZONE-WH-003-009-OCC-01",
+    "zone_id": "ZONE-WH-003-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000148",
+    "sensor_id": "SNS-ZONE-WH-003-009-DOOR-01",
+    "zone_id": "ZONE-WH-003-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000149",
+    "sensor_id": "SNS-ZONE-WH-003-010-TEMP-01",
+    "zone_id": "ZONE-WH-003-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000150",
+    "sensor_id": "SNS-ZONE-WH-003-010-TEMP-02",
+    "zone_id": "ZONE-WH-003-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000151",
+    "sensor_id": "SNS-ZONE-WH-003-010-HUM-01",
+    "zone_id": "ZONE-WH-003-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000152",
+    "sensor_id": "SNS-ZONE-WH-003-010-OCC-01",
+    "zone_id": "ZONE-WH-003-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000153",
+    "sensor_id": "SNS-ZONE-WH-003-010-DOOR-01",
+    "zone_id": "ZONE-WH-003-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000154",
+    "sensor_id": "SNS-ZONE-WH-004-001-TEMP-01",
+    "zone_id": "ZONE-WH-004-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000155",
+    "sensor_id": "SNS-ZONE-WH-004-001-TEMP-02",
+    "zone_id": "ZONE-WH-004-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000156",
+    "sensor_id": "SNS-ZONE-WH-004-001-HUM-01",
+    "zone_id": "ZONE-WH-004-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000157",
+    "sensor_id": "SNS-ZONE-WH-004-001-OCC-01",
+    "zone_id": "ZONE-WH-004-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000158",
+    "sensor_id": "SNS-ZONE-WH-004-001-DOOR-01",
+    "zone_id": "ZONE-WH-004-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000159",
+    "sensor_id": "SNS-ZONE-WH-004-002-TEMP-01",
+    "zone_id": "ZONE-WH-004-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000160",
+    "sensor_id": "SNS-ZONE-WH-004-002-TEMP-02",
+    "zone_id": "ZONE-WH-004-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000161",
+    "sensor_id": "SNS-ZONE-WH-004-002-HUM-01",
+    "zone_id": "ZONE-WH-004-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000162",
+    "sensor_id": "SNS-ZONE-WH-004-002-OCC-01",
+    "zone_id": "ZONE-WH-004-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000163",
+    "sensor_id": "SNS-ZONE-WH-004-002-DOOR-01",
+    "zone_id": "ZONE-WH-004-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000164",
+    "sensor_id": "SNS-ZONE-WH-004-003-TEMP-01",
+    "zone_id": "ZONE-WH-004-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000165",
+    "sensor_id": "SNS-ZONE-WH-004-003-TEMP-02",
+    "zone_id": "ZONE-WH-004-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000166",
+    "sensor_id": "SNS-ZONE-WH-004-003-HUM-01",
+    "zone_id": "ZONE-WH-004-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000167",
+    "sensor_id": "SNS-ZONE-WH-004-003-OCC-01",
+    "zone_id": "ZONE-WH-004-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000168",
+    "sensor_id": "SNS-ZONE-WH-004-003-DOOR-01",
+    "zone_id": "ZONE-WH-004-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000169",
+    "sensor_id": "SNS-ZONE-WH-004-004-TEMP-01",
+    "zone_id": "ZONE-WH-004-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000170",
+    "sensor_id": "SNS-ZONE-WH-004-004-TEMP-02",
+    "zone_id": "ZONE-WH-004-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000171",
+    "sensor_id": "SNS-ZONE-WH-004-004-HUM-01",
+    "zone_id": "ZONE-WH-004-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000172",
+    "sensor_id": "SNS-ZONE-WH-004-004-OCC-01",
+    "zone_id": "ZONE-WH-004-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000173",
+    "sensor_id": "SNS-ZONE-WH-004-004-DOOR-01",
+    "zone_id": "ZONE-WH-004-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000174",
+    "sensor_id": "SNS-ZONE-WH-004-005-TEMP-01",
+    "zone_id": "ZONE-WH-004-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000175",
+    "sensor_id": "SNS-ZONE-WH-004-005-TEMP-02",
+    "zone_id": "ZONE-WH-004-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000176",
+    "sensor_id": "SNS-ZONE-WH-004-005-HUM-01",
+    "zone_id": "ZONE-WH-004-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000177",
+    "sensor_id": "SNS-ZONE-WH-004-005-OCC-01",
+    "zone_id": "ZONE-WH-004-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000178",
+    "sensor_id": "SNS-ZONE-WH-004-005-DOOR-01",
+    "zone_id": "ZONE-WH-004-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000179",
+    "sensor_id": "SNS-ZONE-WH-004-006-TEMP-01",
+    "zone_id": "ZONE-WH-004-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000180",
+    "sensor_id": "SNS-ZONE-WH-004-006-TEMP-02",
+    "zone_id": "ZONE-WH-004-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000181",
+    "sensor_id": "SNS-ZONE-WH-004-006-HUM-01",
+    "zone_id": "ZONE-WH-004-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000182",
+    "sensor_id": "SNS-ZONE-WH-004-006-OCC-01",
+    "zone_id": "ZONE-WH-004-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000183",
+    "sensor_id": "SNS-ZONE-WH-004-006-DOOR-01",
+    "zone_id": "ZONE-WH-004-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000184",
+    "sensor_id": "SNS-ZONE-WH-004-007-TEMP-01",
+    "zone_id": "ZONE-WH-004-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000185",
+    "sensor_id": "SNS-ZONE-WH-004-007-TEMP-02",
+    "zone_id": "ZONE-WH-004-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000186",
+    "sensor_id": "SNS-ZONE-WH-004-007-HUM-01",
+    "zone_id": "ZONE-WH-004-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000187",
+    "sensor_id": "SNS-ZONE-WH-004-007-OCC-01",
+    "zone_id": "ZONE-WH-004-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000188",
+    "sensor_id": "SNS-ZONE-WH-004-007-DOOR-01",
+    "zone_id": "ZONE-WH-004-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000189",
+    "sensor_id": "SNS-ZONE-WH-004-008-TEMP-01",
+    "zone_id": "ZONE-WH-004-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000190",
+    "sensor_id": "SNS-ZONE-WH-004-008-TEMP-02",
+    "zone_id": "ZONE-WH-004-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000191",
+    "sensor_id": "SNS-ZONE-WH-004-008-HUM-01",
+    "zone_id": "ZONE-WH-004-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000192",
+    "sensor_id": "SNS-ZONE-WH-004-008-OCC-01",
+    "zone_id": "ZONE-WH-004-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000193",
+    "sensor_id": "SNS-ZONE-WH-004-008-DOOR-01",
+    "zone_id": "ZONE-WH-004-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000194",
+    "sensor_id": "SNS-ZONE-WH-004-009-TEMP-01",
+    "zone_id": "ZONE-WH-004-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000195",
+    "sensor_id": "SNS-ZONE-WH-004-009-TEMP-02",
+    "zone_id": "ZONE-WH-004-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000196",
+    "sensor_id": "SNS-ZONE-WH-004-009-HUM-01",
+    "zone_id": "ZONE-WH-004-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000197",
+    "sensor_id": "SNS-ZONE-WH-004-009-OCC-01",
+    "zone_id": "ZONE-WH-004-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000198",
+    "sensor_id": "SNS-ZONE-WH-004-009-DOOR-01",
+    "zone_id": "ZONE-WH-004-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000199",
+    "sensor_id": "SNS-ZONE-WH-004-010-TEMP-01",
+    "zone_id": "ZONE-WH-004-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000200",
+    "sensor_id": "SNS-ZONE-WH-004-010-TEMP-02",
+    "zone_id": "ZONE-WH-004-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000201",
+    "sensor_id": "SNS-ZONE-WH-004-010-HUM-01",
+    "zone_id": "ZONE-WH-004-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000202",
+    "sensor_id": "SNS-ZONE-WH-004-010-OCC-01",
+    "zone_id": "ZONE-WH-004-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000203",
+    "sensor_id": "SNS-ZONE-WH-004-010-DOOR-01",
+    "zone_id": "ZONE-WH-004-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000204",
+    "sensor_id": "SNS-ZONE-WH-005-001-TEMP-01",
+    "zone_id": "ZONE-WH-005-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000205",
+    "sensor_id": "SNS-ZONE-WH-005-001-TEMP-02",
+    "zone_id": "ZONE-WH-005-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000206",
+    "sensor_id": "SNS-ZONE-WH-005-001-HUM-01",
+    "zone_id": "ZONE-WH-005-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000207",
+    "sensor_id": "SNS-ZONE-WH-005-001-OCC-01",
+    "zone_id": "ZONE-WH-005-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000208",
+    "sensor_id": "SNS-ZONE-WH-005-001-DOOR-01",
+    "zone_id": "ZONE-WH-005-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000209",
+    "sensor_id": "SNS-ZONE-WH-005-002-TEMP-01",
+    "zone_id": "ZONE-WH-005-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000210",
+    "sensor_id": "SNS-ZONE-WH-005-002-TEMP-02",
+    "zone_id": "ZONE-WH-005-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000211",
+    "sensor_id": "SNS-ZONE-WH-005-002-HUM-01",
+    "zone_id": "ZONE-WH-005-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000212",
+    "sensor_id": "SNS-ZONE-WH-005-002-OCC-01",
+    "zone_id": "ZONE-WH-005-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000213",
+    "sensor_id": "SNS-ZONE-WH-005-002-DOOR-01",
+    "zone_id": "ZONE-WH-005-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000214",
+    "sensor_id": "SNS-ZONE-WH-005-003-TEMP-01",
+    "zone_id": "ZONE-WH-005-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000215",
+    "sensor_id": "SNS-ZONE-WH-005-003-TEMP-02",
+    "zone_id": "ZONE-WH-005-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000216",
+    "sensor_id": "SNS-ZONE-WH-005-003-HUM-01",
+    "zone_id": "ZONE-WH-005-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000217",
+    "sensor_id": "SNS-ZONE-WH-005-003-OCC-01",
+    "zone_id": "ZONE-WH-005-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000218",
+    "sensor_id": "SNS-ZONE-WH-005-003-DOOR-01",
+    "zone_id": "ZONE-WH-005-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000219",
+    "sensor_id": "SNS-ZONE-WH-005-003-DOOR-01",
+    "zone_id": "ZONE-WH-005-004",
+    "mapping_rationale": "",
+    "effective_from": "2026-10-01T12:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000220",
+    "sensor_id": "SNS-ZONE-WH-005-004-TEMP-01",
+    "zone_id": "ZONE-WH-005-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000221",
+    "sensor_id": "SNS-ZONE-WH-005-004-TEMP-02",
+    "zone_id": "ZONE-WH-005-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000222",
+    "sensor_id": "SNS-ZONE-WH-005-004-HUM-01",
+    "zone_id": "ZONE-WH-005-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000223",
+    "sensor_id": "SNS-ZONE-WH-005-004-OCC-01",
+    "zone_id": "ZONE-WH-005-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000224",
+    "sensor_id": "SNS-ZONE-WH-005-004-DOOR-01",
+    "zone_id": "ZONE-WH-005-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000225",
+    "sensor_id": "SNS-ZONE-WH-005-005-TEMP-01",
+    "zone_id": "ZONE-WH-005-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000226",
+    "sensor_id": "SNS-ZONE-WH-005-005-TEMP-02",
+    "zone_id": "ZONE-WH-005-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000227",
+    "sensor_id": "SNS-ZONE-WH-005-005-HUM-01",
+    "zone_id": "ZONE-WH-005-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000228",
+    "sensor_id": "SNS-ZONE-WH-005-005-OCC-01",
+    "zone_id": "ZONE-WH-005-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000229",
+    "sensor_id": "SNS-ZONE-WH-005-005-DOOR-01",
+    "zone_id": "ZONE-WH-005-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000230",
+    "sensor_id": "SNS-ZONE-WH-005-006-TEMP-01",
+    "zone_id": "ZONE-WH-005-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000231",
+    "sensor_id": "SNS-ZONE-WH-005-006-TEMP-02",
+    "zone_id": "ZONE-WH-005-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000232",
+    "sensor_id": "SNS-ZONE-WH-005-006-HUM-01",
+    "zone_id": "ZONE-WH-005-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000233",
+    "sensor_id": "SNS-ZONE-WH-005-006-OCC-01",
+    "zone_id": "ZONE-WH-005-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000234",
+    "sensor_id": "SNS-ZONE-WH-005-006-DOOR-01",
+    "zone_id": "ZONE-WH-005-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000235",
+    "sensor_id": "SNS-ZONE-WH-005-007-TEMP-01",
+    "zone_id": "ZONE-WH-005-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000236",
+    "sensor_id": "SNS-ZONE-WH-005-007-TEMP-02",
+    "zone_id": "ZONE-WH-005-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000237",
+    "sensor_id": "SNS-ZONE-WH-005-007-HUM-01",
+    "zone_id": "ZONE-WH-005-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000238",
+    "sensor_id": "SNS-ZONE-WH-005-007-OCC-01",
+    "zone_id": "ZONE-WH-005-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000239",
+    "sensor_id": "SNS-ZONE-WH-005-007-DOOR-01",
+    "zone_id": "ZONE-WH-005-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000240",
+    "sensor_id": "SNS-ZONE-WH-005-008-TEMP-01",
+    "zone_id": "ZONE-WH-005-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000241",
+    "sensor_id": "SNS-ZONE-WH-005-008-TEMP-02",
+    "zone_id": "ZONE-WH-005-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000242",
+    "sensor_id": "SNS-ZONE-WH-005-008-HUM-01",
+    "zone_id": "ZONE-WH-005-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000243",
+    "sensor_id": "SNS-ZONE-WH-005-008-OCC-01",
+    "zone_id": "ZONE-WH-005-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000244",
+    "sensor_id": "SNS-ZONE-WH-005-008-DOOR-01",
+    "zone_id": "ZONE-WH-005-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000245",
+    "sensor_id": "SNS-ZONE-WH-005-009-TEMP-01",
+    "zone_id": "ZONE-WH-005-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000246",
+    "sensor_id": "SNS-ZONE-WH-005-009-TEMP-02",
+    "zone_id": "ZONE-WH-005-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000247",
+    "sensor_id": "SNS-ZONE-WH-005-009-HUM-01",
+    "zone_id": "ZONE-WH-005-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000248",
+    "sensor_id": "SNS-ZONE-WH-005-009-OCC-01",
+    "zone_id": "ZONE-WH-005-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000249",
+    "sensor_id": "SNS-ZONE-WH-005-009-DOOR-01",
+    "zone_id": "ZONE-WH-005-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000250",
+    "sensor_id": "SNS-ZONE-WH-005-010-TEMP-01",
+    "zone_id": "ZONE-WH-005-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000251",
+    "sensor_id": "SNS-ZONE-WH-005-010-TEMP-02",
+    "zone_id": "ZONE-WH-005-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000252",
+    "sensor_id": "SNS-ZONE-WH-005-010-HUM-01",
+    "zone_id": "ZONE-WH-005-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000253",
+    "sensor_id": "SNS-ZONE-WH-005-010-OCC-01",
+    "zone_id": "ZONE-WH-005-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000254",
+    "sensor_id": "SNS-ZONE-WH-005-010-DOOR-01",
+    "zone_id": "ZONE-WH-005-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-04-30T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000255",
+    "sensor_id": "SNS-ZONE-WH-006-001-TEMP-01",
+    "zone_id": "ZONE-WH-006-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000256",
+    "sensor_id": "SNS-ZONE-WH-006-001-TEMP-02",
+    "zone_id": "ZONE-WH-006-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000257",
+    "sensor_id": "SNS-ZONE-WH-006-001-HUM-01",
+    "zone_id": "ZONE-WH-006-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000258",
+    "sensor_id": "SNS-ZONE-WH-006-001-OCC-01",
+    "zone_id": "ZONE-WH-006-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000259",
+    "sensor_id": "SNS-ZONE-WH-006-001-DOOR-01",
+    "zone_id": "ZONE-WH-006-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000260",
+    "sensor_id": "SNS-ZONE-WH-006-002-TEMP-01",
+    "zone_id": "ZONE-WH-006-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000261",
+    "sensor_id": "SNS-ZONE-WH-006-002-TEMP-02",
+    "zone_id": "ZONE-WH-006-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000262",
+    "sensor_id": "SNS-ZONE-WH-006-002-HUM-01",
+    "zone_id": "ZONE-WH-006-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000263",
+    "sensor_id": "SNS-ZONE-WH-006-002-OCC-01",
+    "zone_id": "ZONE-WH-006-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000264",
+    "sensor_id": "SNS-ZONE-WH-006-002-DOOR-01",
+    "zone_id": "ZONE-WH-006-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000265",
+    "sensor_id": "SNS-ZONE-WH-006-003-TEMP-01",
+    "zone_id": "ZONE-WH-006-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000266",
+    "sensor_id": "SNS-ZONE-WH-006-003-TEMP-02",
+    "zone_id": "ZONE-WH-006-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000267",
+    "sensor_id": "SNS-ZONE-WH-006-003-HUM-01",
+    "zone_id": "ZONE-WH-006-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000268",
+    "sensor_id": "SNS-ZONE-WH-006-003-OCC-01",
+    "zone_id": "ZONE-WH-006-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000269",
+    "sensor_id": "SNS-ZONE-WH-006-003-DOOR-01",
+    "zone_id": "ZONE-WH-006-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000270",
+    "sensor_id": "SNS-ZONE-WH-006-004-TEMP-01",
+    "zone_id": "ZONE-WH-006-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000271",
+    "sensor_id": "SNS-ZONE-WH-006-004-TEMP-02",
+    "zone_id": "ZONE-WH-006-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000272",
+    "sensor_id": "SNS-ZONE-WH-006-004-HUM-01",
+    "zone_id": "ZONE-WH-006-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000273",
+    "sensor_id": "SNS-ZONE-WH-006-004-OCC-01",
+    "zone_id": "ZONE-WH-006-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000274",
+    "sensor_id": "SNS-ZONE-WH-006-004-DOOR-01",
+    "zone_id": "ZONE-WH-006-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000275",
+    "sensor_id": "SNS-ZONE-WH-006-005-TEMP-01",
+    "zone_id": "ZONE-WH-006-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000276",
+    "sensor_id": "SNS-ZONE-WH-006-005-TEMP-02",
+    "zone_id": "ZONE-WH-006-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000277",
+    "sensor_id": "SNS-ZONE-WH-006-005-HUM-01",
+    "zone_id": "ZONE-WH-006-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000278",
+    "sensor_id": "SNS-ZONE-WH-006-005-OCC-01",
+    "zone_id": "ZONE-WH-006-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000279",
+    "sensor_id": "SNS-ZONE-WH-006-005-DOOR-01",
+    "zone_id": "ZONE-WH-006-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000280",
+    "sensor_id": "SNS-ZONE-WH-006-006-TEMP-01",
+    "zone_id": "ZONE-WH-006-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000281",
+    "sensor_id": "SNS-ZONE-WH-006-006-TEMP-02",
+    "zone_id": "ZONE-WH-006-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000282",
+    "sensor_id": "SNS-ZONE-WH-006-006-HUM-01",
+    "zone_id": "ZONE-WH-006-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000283",
+    "sensor_id": "SNS-ZONE-WH-006-006-OCC-01",
+    "zone_id": "ZONE-WH-006-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000284",
+    "sensor_id": "SNS-ZONE-WH-006-006-DOOR-01",
+    "zone_id": "ZONE-WH-006-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000285",
+    "sensor_id": "SNS-ZONE-WH-006-007-TEMP-01",
+    "zone_id": "ZONE-WH-006-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000286",
+    "sensor_id": "SNS-ZONE-WH-006-007-TEMP-02",
+    "zone_id": "ZONE-WH-006-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000287",
+    "sensor_id": "SNS-ZONE-WH-006-007-HUM-01",
+    "zone_id": "ZONE-WH-006-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000288",
+    "sensor_id": "SNS-ZONE-WH-006-007-OCC-01",
+    "zone_id": "ZONE-WH-006-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000289",
+    "sensor_id": "SNS-ZONE-WH-006-007-DOOR-01",
+    "zone_id": "ZONE-WH-006-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000290",
+    "sensor_id": "SNS-ZONE-WH-006-008-TEMP-01",
+    "zone_id": "ZONE-WH-006-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000291",
+    "sensor_id": "SNS-ZONE-WH-006-008-TEMP-02",
+    "zone_id": "ZONE-WH-006-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000292",
+    "sensor_id": "SNS-ZONE-WH-006-008-HUM-01",
+    "zone_id": "ZONE-WH-006-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000293",
+    "sensor_id": "SNS-ZONE-WH-006-008-OCC-01",
+    "zone_id": "ZONE-WH-006-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000294",
+    "sensor_id": "SNS-ZONE-WH-006-008-DOOR-01",
+    "zone_id": "ZONE-WH-006-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000295",
+    "sensor_id": "SNS-ZONE-WH-006-009-TEMP-01",
+    "zone_id": "ZONE-WH-006-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000296",
+    "sensor_id": "SNS-ZONE-WH-006-009-TEMP-02",
+    "zone_id": "ZONE-WH-006-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000297",
+    "sensor_id": "SNS-ZONE-WH-006-009-HUM-01",
+    "zone_id": "ZONE-WH-006-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000298",
+    "sensor_id": "SNS-ZONE-WH-006-009-OCC-01",
+    "zone_id": "ZONE-WH-006-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000299",
+    "sensor_id": "SNS-ZONE-WH-006-009-DOOR-01",
+    "zone_id": "ZONE-WH-006-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000300",
+    "sensor_id": "SNS-ZONE-WH-006-010-TEMP-01",
+    "zone_id": "ZONE-WH-006-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000301",
+    "sensor_id": "SNS-ZONE-WH-006-010-TEMP-02",
+    "zone_id": "ZONE-WH-006-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000302",
+    "sensor_id": "SNS-ZONE-WH-006-010-HUM-01",
+    "zone_id": "ZONE-WH-006-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000303",
+    "sensor_id": "SNS-ZONE-WH-006-010-OCC-01",
+    "zone_id": "ZONE-WH-006-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000304",
+    "sensor_id": "SNS-ZONE-WH-006-010-DOOR-01",
+    "zone_id": "ZONE-WH-006-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-05T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000305",
+    "sensor_id": "SNS-ZONE-WH-007-001-TEMP-01",
+    "zone_id": "ZONE-WH-007-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000306",
+    "sensor_id": "SNS-ZONE-WH-007-001-TEMP-02",
+    "zone_id": "ZONE-WH-007-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000307",
+    "sensor_id": "SNS-ZONE-WH-007-001-HUM-01",
+    "zone_id": "ZONE-WH-007-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000308",
+    "sensor_id": "SNS-ZONE-WH-007-001-OCC-01",
+    "zone_id": "ZONE-WH-007-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000309",
+    "sensor_id": "SNS-ZONE-WH-007-001-DOOR-01",
+    "zone_id": "ZONE-WH-007-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000310",
+    "sensor_id": "SNS-ZONE-WH-007-002-TEMP-01",
+    "zone_id": "ZONE-WH-007-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000311",
+    "sensor_id": "SNS-ZONE-WH-007-002-TEMP-02",
+    "zone_id": "ZONE-WH-007-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000312",
+    "sensor_id": "SNS-ZONE-WH-007-002-HUM-01",
+    "zone_id": "ZONE-WH-007-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000313",
+    "sensor_id": "SNS-ZONE-WH-007-002-OCC-01",
+    "zone_id": "ZONE-WH-007-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000314",
+    "sensor_id": "SNS-ZONE-WH-007-002-DOOR-01",
+    "zone_id": "ZONE-WH-007-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000315",
+    "sensor_id": "SNS-ZONE-WH-007-003-TEMP-01",
+    "zone_id": "ZONE-WH-007-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000316",
+    "sensor_id": "SNS-ZONE-WH-007-003-TEMP-02",
+    "zone_id": "ZONE-WH-007-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000317",
+    "sensor_id": "SNS-ZONE-WH-007-003-HUM-01",
+    "zone_id": "ZONE-WH-007-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000318",
+    "sensor_id": "SNS-ZONE-WH-007-003-OCC-01",
+    "zone_id": "ZONE-WH-007-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000319",
+    "sensor_id": "SNS-ZONE-WH-007-003-DOOR-01",
+    "zone_id": "ZONE-WH-007-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000320",
+    "sensor_id": "SNS-ZONE-WH-007-004-TEMP-01",
+    "zone_id": "ZONE-WH-007-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000321",
+    "sensor_id": "SNS-ZONE-WH-007-004-TEMP-02",
+    "zone_id": "ZONE-WH-007-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000322",
+    "sensor_id": "SNS-ZONE-WH-007-004-HUM-01",
+    "zone_id": "ZONE-WH-007-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000323",
+    "sensor_id": "SNS-ZONE-WH-007-004-OCC-01",
+    "zone_id": "ZONE-WH-007-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000324",
+    "sensor_id": "SNS-ZONE-WH-007-004-DOOR-01",
+    "zone_id": "ZONE-WH-007-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000325",
+    "sensor_id": "SNS-ZONE-WH-007-005-TEMP-01",
+    "zone_id": "ZONE-WH-007-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000326",
+    "sensor_id": "SNS-ZONE-WH-007-005-TEMP-02",
+    "zone_id": "ZONE-WH-007-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000327",
+    "sensor_id": "SNS-ZONE-WH-007-005-HUM-01",
+    "zone_id": "ZONE-WH-007-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000328",
+    "sensor_id": "SNS-ZONE-WH-007-005-OCC-01",
+    "zone_id": "ZONE-WH-007-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000329",
+    "sensor_id": "SNS-ZONE-WH-007-005-DOOR-01",
+    "zone_id": "ZONE-WH-007-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000330",
+    "sensor_id": "SNS-ZONE-WH-007-006-TEMP-01",
+    "zone_id": "ZONE-WH-007-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000331",
+    "sensor_id": "SNS-ZONE-WH-007-006-TEMP-02",
+    "zone_id": "ZONE-WH-007-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000332",
+    "sensor_id": "SNS-ZONE-WH-007-006-HUM-01",
+    "zone_id": "ZONE-WH-007-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000333",
+    "sensor_id": "SNS-ZONE-WH-007-006-OCC-01",
+    "zone_id": "ZONE-WH-007-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000334",
+    "sensor_id": "SNS-ZONE-WH-007-006-DOOR-01",
+    "zone_id": "ZONE-WH-007-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000335",
+    "sensor_id": "SNS-ZONE-WH-007-006-DOOR-01",
+    "zone_id": "ZONE-WH-007-007",
+    "mapping_rationale": "",
+    "effective_from": "2026-10-01T12:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000336",
+    "sensor_id": "SNS-ZONE-WH-007-007-TEMP-01",
+    "zone_id": "ZONE-WH-007-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000337",
+    "sensor_id": "SNS-ZONE-WH-007-007-TEMP-02",
+    "zone_id": "ZONE-WH-007-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000338",
+    "sensor_id": "SNS-ZONE-WH-007-007-HUM-01",
+    "zone_id": "ZONE-WH-007-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000339",
+    "sensor_id": "SNS-ZONE-WH-007-007-OCC-01",
+    "zone_id": "ZONE-WH-007-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000340",
+    "sensor_id": "SNS-ZONE-WH-007-007-DOOR-01",
+    "zone_id": "ZONE-WH-007-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000341",
+    "sensor_id": "SNS-ZONE-WH-007-008-TEMP-01",
+    "zone_id": "ZONE-WH-007-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000342",
+    "sensor_id": "SNS-ZONE-WH-007-008-TEMP-02",
+    "zone_id": "ZONE-WH-007-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000343",
+    "sensor_id": "SNS-ZONE-WH-007-008-HUM-01",
+    "zone_id": "ZONE-WH-007-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000344",
+    "sensor_id": "SNS-ZONE-WH-007-008-OCC-01",
+    "zone_id": "ZONE-WH-007-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000345",
+    "sensor_id": "SNS-ZONE-WH-007-008-DOOR-01",
+    "zone_id": "ZONE-WH-007-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000346",
+    "sensor_id": "SNS-ZONE-WH-007-009-TEMP-01",
+    "zone_id": "ZONE-WH-007-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000347",
+    "sensor_id": "SNS-ZONE-WH-007-009-TEMP-02",
+    "zone_id": "ZONE-WH-007-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000348",
+    "sensor_id": "SNS-ZONE-WH-007-009-HUM-01",
+    "zone_id": "ZONE-WH-007-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000349",
+    "sensor_id": "SNS-ZONE-WH-007-009-OCC-01",
+    "zone_id": "ZONE-WH-007-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000350",
+    "sensor_id": "SNS-ZONE-WH-007-009-DOOR-01",
+    "zone_id": "ZONE-WH-007-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000351",
+    "sensor_id": "SNS-ZONE-WH-007-010-TEMP-01",
+    "zone_id": "ZONE-WH-007-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000352",
+    "sensor_id": "SNS-ZONE-WH-007-010-TEMP-02",
+    "zone_id": "ZONE-WH-007-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000353",
+    "sensor_id": "SNS-ZONE-WH-007-010-HUM-01",
+    "zone_id": "ZONE-WH-007-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000354",
+    "sensor_id": "SNS-ZONE-WH-007-010-OCC-01",
+    "zone_id": "ZONE-WH-007-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000355",
+    "sensor_id": "SNS-ZONE-WH-007-010-DOOR-01",
+    "zone_id": "ZONE-WH-007-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-10T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000356",
+    "sensor_id": "SNS-ZONE-WH-008-001-TEMP-01",
+    "zone_id": "ZONE-WH-008-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000357",
+    "sensor_id": "SNS-ZONE-WH-008-001-TEMP-02",
+    "zone_id": "ZONE-WH-008-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000358",
+    "sensor_id": "SNS-ZONE-WH-008-001-HUM-01",
+    "zone_id": "ZONE-WH-008-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000359",
+    "sensor_id": "SNS-ZONE-WH-008-001-OCC-01",
+    "zone_id": "ZONE-WH-008-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000360",
+    "sensor_id": "SNS-ZONE-WH-008-001-DOOR-01",
+    "zone_id": "ZONE-WH-008-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000361",
+    "sensor_id": "SNS-ZONE-WH-008-002-TEMP-01",
+    "zone_id": "ZONE-WH-008-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000362",
+    "sensor_id": "SNS-ZONE-WH-008-002-TEMP-02",
+    "zone_id": "ZONE-WH-008-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000363",
+    "sensor_id": "SNS-ZONE-WH-008-002-HUM-01",
+    "zone_id": "ZONE-WH-008-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000364",
+    "sensor_id": "SNS-ZONE-WH-008-002-OCC-01",
+    "zone_id": "ZONE-WH-008-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000365",
+    "sensor_id": "SNS-ZONE-WH-008-002-DOOR-01",
+    "zone_id": "ZONE-WH-008-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000366",
+    "sensor_id": "SNS-ZONE-WH-008-003-TEMP-01",
+    "zone_id": "ZONE-WH-008-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000367",
+    "sensor_id": "SNS-ZONE-WH-008-003-TEMP-02",
+    "zone_id": "ZONE-WH-008-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000368",
+    "sensor_id": "SNS-ZONE-WH-008-003-HUM-01",
+    "zone_id": "ZONE-WH-008-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000369",
+    "sensor_id": "SNS-ZONE-WH-008-003-OCC-01",
+    "zone_id": "ZONE-WH-008-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000370",
+    "sensor_id": "SNS-ZONE-WH-008-003-DOOR-01",
+    "zone_id": "ZONE-WH-008-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000371",
+    "sensor_id": "SNS-ZONE-WH-008-004-TEMP-01",
+    "zone_id": "ZONE-WH-008-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000372",
+    "sensor_id": "SNS-ZONE-WH-008-004-TEMP-02",
+    "zone_id": "ZONE-WH-008-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000373",
+    "sensor_id": "SNS-ZONE-WH-008-004-HUM-01",
+    "zone_id": "ZONE-WH-008-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000374",
+    "sensor_id": "SNS-ZONE-WH-008-004-OCC-01",
+    "zone_id": "ZONE-WH-008-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000375",
+    "sensor_id": "SNS-ZONE-WH-008-004-DOOR-01",
+    "zone_id": "ZONE-WH-008-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000376",
+    "sensor_id": "SNS-ZONE-WH-008-005-TEMP-01",
+    "zone_id": "ZONE-WH-008-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000377",
+    "sensor_id": "SNS-ZONE-WH-008-005-TEMP-02",
+    "zone_id": "ZONE-WH-008-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000378",
+    "sensor_id": "SNS-ZONE-WH-008-005-HUM-01",
+    "zone_id": "ZONE-WH-008-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000379",
+    "sensor_id": "SNS-ZONE-WH-008-005-OCC-01",
+    "zone_id": "ZONE-WH-008-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000380",
+    "sensor_id": "SNS-ZONE-WH-008-005-DOOR-01",
+    "zone_id": "ZONE-WH-008-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000381",
+    "sensor_id": "SNS-ZONE-WH-008-006-TEMP-01",
+    "zone_id": "ZONE-WH-008-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000382",
+    "sensor_id": "SNS-ZONE-WH-008-006-TEMP-02",
+    "zone_id": "ZONE-WH-008-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000383",
+    "sensor_id": "SNS-ZONE-WH-008-006-HUM-01",
+    "zone_id": "ZONE-WH-008-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000384",
+    "sensor_id": "SNS-ZONE-WH-008-006-OCC-01",
+    "zone_id": "ZONE-WH-008-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000385",
+    "sensor_id": "SNS-ZONE-WH-008-006-DOOR-01",
+    "zone_id": "ZONE-WH-008-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000386",
+    "sensor_id": "SNS-ZONE-WH-008-007-TEMP-01",
+    "zone_id": "ZONE-WH-008-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000387",
+    "sensor_id": "SNS-ZONE-WH-008-007-TEMP-02",
+    "zone_id": "ZONE-WH-008-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000388",
+    "sensor_id": "SNS-ZONE-WH-008-007-HUM-01",
+    "zone_id": "ZONE-WH-008-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000389",
+    "sensor_id": "SNS-ZONE-WH-008-007-OCC-01",
+    "zone_id": "ZONE-WH-008-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000390",
+    "sensor_id": "SNS-ZONE-WH-008-007-DOOR-01",
+    "zone_id": "ZONE-WH-008-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000391",
+    "sensor_id": "SNS-ZONE-WH-008-008-TEMP-01",
+    "zone_id": "ZONE-WH-008-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000392",
+    "sensor_id": "SNS-ZONE-WH-008-008-TEMP-02",
+    "zone_id": "ZONE-WH-008-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000393",
+    "sensor_id": "SNS-ZONE-WH-008-008-HUM-01",
+    "zone_id": "ZONE-WH-008-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000394",
+    "sensor_id": "SNS-ZONE-WH-008-008-OCC-01",
+    "zone_id": "ZONE-WH-008-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000395",
+    "sensor_id": "SNS-ZONE-WH-008-008-DOOR-01",
+    "zone_id": "ZONE-WH-008-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000396",
+    "sensor_id": "SNS-ZONE-WH-008-009-TEMP-01",
+    "zone_id": "ZONE-WH-008-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000397",
+    "sensor_id": "SNS-ZONE-WH-008-009-TEMP-02",
+    "zone_id": "ZONE-WH-008-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000398",
+    "sensor_id": "SNS-ZONE-WH-008-009-HUM-01",
+    "zone_id": "ZONE-WH-008-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000399",
+    "sensor_id": "SNS-ZONE-WH-008-009-OCC-01",
+    "zone_id": "ZONE-WH-008-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000400",
+    "sensor_id": "SNS-ZONE-WH-008-009-DOOR-01",
+    "zone_id": "ZONE-WH-008-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000401",
+    "sensor_id": "SNS-ZONE-WH-008-010-TEMP-01",
+    "zone_id": "ZONE-WH-008-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000402",
+    "sensor_id": "SNS-ZONE-WH-008-010-TEMP-02",
+    "zone_id": "ZONE-WH-008-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000403",
+    "sensor_id": "SNS-ZONE-WH-008-010-HUM-01",
+    "zone_id": "ZONE-WH-008-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000404",
+    "sensor_id": "SNS-ZONE-WH-008-010-OCC-01",
+    "zone_id": "ZONE-WH-008-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000405",
+    "sensor_id": "SNS-ZONE-WH-008-010-DOOR-01",
+    "zone_id": "ZONE-WH-008-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-15T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000406",
+    "sensor_id": "SNS-ZONE-WH-009-001-TEMP-01",
+    "zone_id": "ZONE-WH-009-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000407",
+    "sensor_id": "SNS-ZONE-WH-009-001-TEMP-02",
+    "zone_id": "ZONE-WH-009-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000408",
+    "sensor_id": "SNS-ZONE-WH-009-001-HUM-01",
+    "zone_id": "ZONE-WH-009-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000409",
+    "sensor_id": "SNS-ZONE-WH-009-001-OCC-01",
+    "zone_id": "ZONE-WH-009-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000410",
+    "sensor_id": "SNS-ZONE-WH-009-001-DOOR-01",
+    "zone_id": "ZONE-WH-009-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000411",
+    "sensor_id": "SNS-ZONE-WH-009-002-TEMP-01",
+    "zone_id": "ZONE-WH-009-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000412",
+    "sensor_id": "SNS-ZONE-WH-009-002-TEMP-02",
+    "zone_id": "ZONE-WH-009-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000413",
+    "sensor_id": "SNS-ZONE-WH-009-002-HUM-01",
+    "zone_id": "ZONE-WH-009-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000414",
+    "sensor_id": "SNS-ZONE-WH-009-002-OCC-01",
+    "zone_id": "ZONE-WH-009-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000415",
+    "sensor_id": "SNS-ZONE-WH-009-002-DOOR-01",
+    "zone_id": "ZONE-WH-009-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000416",
+    "sensor_id": "SNS-ZONE-WH-009-003-TEMP-01",
+    "zone_id": "ZONE-WH-009-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000417",
+    "sensor_id": "SNS-ZONE-WH-009-003-TEMP-02",
+    "zone_id": "ZONE-WH-009-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000418",
+    "sensor_id": "SNS-ZONE-WH-009-003-HUM-01",
+    "zone_id": "ZONE-WH-009-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000419",
+    "sensor_id": "SNS-ZONE-WH-009-003-OCC-01",
+    "zone_id": "ZONE-WH-009-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000420",
+    "sensor_id": "SNS-ZONE-WH-009-003-DOOR-01",
+    "zone_id": "ZONE-WH-009-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000421",
+    "sensor_id": "SNS-ZONE-WH-009-004-TEMP-01",
+    "zone_id": "ZONE-WH-009-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000422",
+    "sensor_id": "SNS-ZONE-WH-009-004-TEMP-02",
+    "zone_id": "ZONE-WH-009-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000423",
+    "sensor_id": "SNS-ZONE-WH-009-004-HUM-01",
+    "zone_id": "ZONE-WH-009-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000424",
+    "sensor_id": "SNS-ZONE-WH-009-004-OCC-01",
+    "zone_id": "ZONE-WH-009-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000425",
+    "sensor_id": "SNS-ZONE-WH-009-004-DOOR-01",
+    "zone_id": "ZONE-WH-009-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000426",
+    "sensor_id": "SNS-ZONE-WH-009-005-TEMP-01",
+    "zone_id": "ZONE-WH-009-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000427",
+    "sensor_id": "SNS-ZONE-WH-009-005-TEMP-02",
+    "zone_id": "ZONE-WH-009-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000428",
+    "sensor_id": "SNS-ZONE-WH-009-005-HUM-01",
+    "zone_id": "ZONE-WH-009-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000429",
+    "sensor_id": "SNS-ZONE-WH-009-005-OCC-01",
+    "zone_id": "ZONE-WH-009-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000430",
+    "sensor_id": "SNS-ZONE-WH-009-005-DOOR-01",
+    "zone_id": "ZONE-WH-009-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000431",
+    "sensor_id": "SNS-ZONE-WH-009-006-TEMP-01",
+    "zone_id": "ZONE-WH-009-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000432",
+    "sensor_id": "SNS-ZONE-WH-009-006-TEMP-02",
+    "zone_id": "ZONE-WH-009-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000433",
+    "sensor_id": "SNS-ZONE-WH-009-006-HUM-01",
+    "zone_id": "ZONE-WH-009-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000434",
+    "sensor_id": "SNS-ZONE-WH-009-006-OCC-01",
+    "zone_id": "ZONE-WH-009-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000435",
+    "sensor_id": "SNS-ZONE-WH-009-006-DOOR-01",
+    "zone_id": "ZONE-WH-009-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000436",
+    "sensor_id": "SNS-ZONE-WH-009-007-TEMP-01",
+    "zone_id": "ZONE-WH-009-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000437",
+    "sensor_id": "SNS-ZONE-WH-009-007-TEMP-02",
+    "zone_id": "ZONE-WH-009-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000438",
+    "sensor_id": "SNS-ZONE-WH-009-007-HUM-01",
+    "zone_id": "ZONE-WH-009-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000439",
+    "sensor_id": "SNS-ZONE-WH-009-007-OCC-01",
+    "zone_id": "ZONE-WH-009-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000440",
+    "sensor_id": "SNS-ZONE-WH-009-007-DOOR-01",
+    "zone_id": "ZONE-WH-009-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000441",
+    "sensor_id": "SNS-ZONE-WH-009-008-TEMP-01",
+    "zone_id": "ZONE-WH-009-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000442",
+    "sensor_id": "SNS-ZONE-WH-009-008-TEMP-02",
+    "zone_id": "ZONE-WH-009-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000443",
+    "sensor_id": "SNS-ZONE-WH-009-008-HUM-01",
+    "zone_id": "ZONE-WH-009-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000444",
+    "sensor_id": "SNS-ZONE-WH-009-008-OCC-01",
+    "zone_id": "ZONE-WH-009-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000445",
+    "sensor_id": "SNS-ZONE-WH-009-008-DOOR-01",
+    "zone_id": "ZONE-WH-009-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000446",
+    "sensor_id": "SNS-ZONE-WH-009-009-TEMP-01",
+    "zone_id": "ZONE-WH-009-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000447",
+    "sensor_id": "SNS-ZONE-WH-009-009-TEMP-02",
+    "zone_id": "ZONE-WH-009-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000448",
+    "sensor_id": "SNS-ZONE-WH-009-009-HUM-01",
+    "zone_id": "ZONE-WH-009-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000449",
+    "sensor_id": "SNS-ZONE-WH-009-009-OCC-01",
+    "zone_id": "ZONE-WH-009-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000450",
+    "sensor_id": "SNS-ZONE-WH-009-009-DOOR-01",
+    "zone_id": "ZONE-WH-009-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000451",
+    "sensor_id": "SNS-ZONE-WH-009-010-TEMP-01",
+    "zone_id": "ZONE-WH-009-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000452",
+    "sensor_id": "SNS-ZONE-WH-009-010-TEMP-02",
+    "zone_id": "ZONE-WH-009-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000453",
+    "sensor_id": "SNS-ZONE-WH-009-010-HUM-01",
+    "zone_id": "ZONE-WH-009-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000454",
+    "sensor_id": "SNS-ZONE-WH-009-010-OCC-01",
+    "zone_id": "ZONE-WH-009-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000455",
+    "sensor_id": "SNS-ZONE-WH-009-010-DOOR-01",
+    "zone_id": "ZONE-WH-009-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-20T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000456",
+    "sensor_id": "SNS-ZONE-WH-010-001-TEMP-01",
+    "zone_id": "ZONE-WH-010-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000457",
+    "sensor_id": "SNS-ZONE-WH-010-001-TEMP-02",
+    "zone_id": "ZONE-WH-010-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000458",
+    "sensor_id": "SNS-ZONE-WH-010-001-HUM-01",
+    "zone_id": "ZONE-WH-010-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000459",
+    "sensor_id": "SNS-ZONE-WH-010-001-OCC-01",
+    "zone_id": "ZONE-WH-010-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000460",
+    "sensor_id": "SNS-ZONE-WH-010-001-DOOR-01",
+    "zone_id": "ZONE-WH-010-001",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000461",
+    "sensor_id": "SNS-ZONE-WH-010-001-DOOR-01",
+    "zone_id": "ZONE-WH-010-002",
+    "mapping_rationale": "",
+    "effective_from": "2026-10-01T12:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000462",
+    "sensor_id": "SNS-ZONE-WH-010-002-TEMP-01",
+    "zone_id": "ZONE-WH-010-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000463",
+    "sensor_id": "SNS-ZONE-WH-010-002-TEMP-02",
+    "zone_id": "ZONE-WH-010-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000464",
+    "sensor_id": "SNS-ZONE-WH-010-002-HUM-01",
+    "zone_id": "ZONE-WH-010-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000465",
+    "sensor_id": "SNS-ZONE-WH-010-002-OCC-01",
+    "zone_id": "ZONE-WH-010-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000466",
+    "sensor_id": "SNS-ZONE-WH-010-002-DOOR-01",
+    "zone_id": "ZONE-WH-010-002",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000467",
+    "sensor_id": "SNS-ZONE-WH-010-003-TEMP-01",
+    "zone_id": "ZONE-WH-010-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000468",
+    "sensor_id": "SNS-ZONE-WH-010-003-TEMP-02",
+    "zone_id": "ZONE-WH-010-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000469",
+    "sensor_id": "SNS-ZONE-WH-010-003-HUM-01",
+    "zone_id": "ZONE-WH-010-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000470",
+    "sensor_id": "SNS-ZONE-WH-010-003-OCC-01",
+    "zone_id": "ZONE-WH-010-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000471",
+    "sensor_id": "SNS-ZONE-WH-010-003-DOOR-01",
+    "zone_id": "ZONE-WH-010-003",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000472",
+    "sensor_id": "SNS-ZONE-WH-010-004-TEMP-01",
+    "zone_id": "ZONE-WH-010-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000473",
+    "sensor_id": "SNS-ZONE-WH-010-004-TEMP-02",
+    "zone_id": "ZONE-WH-010-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000474",
+    "sensor_id": "SNS-ZONE-WH-010-004-HUM-01",
+    "zone_id": "ZONE-WH-010-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000475",
+    "sensor_id": "SNS-ZONE-WH-010-004-OCC-01",
+    "zone_id": "ZONE-WH-010-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000476",
+    "sensor_id": "SNS-ZONE-WH-010-004-DOOR-01",
+    "zone_id": "ZONE-WH-010-004",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000477",
+    "sensor_id": "SNS-ZONE-WH-010-005-TEMP-01",
+    "zone_id": "ZONE-WH-010-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000478",
+    "sensor_id": "SNS-ZONE-WH-010-005-TEMP-02",
+    "zone_id": "ZONE-WH-010-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000479",
+    "sensor_id": "SNS-ZONE-WH-010-005-HUM-01",
+    "zone_id": "ZONE-WH-010-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000480",
+    "sensor_id": "SNS-ZONE-WH-010-005-OCC-01",
+    "zone_id": "ZONE-WH-010-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000481",
+    "sensor_id": "SNS-ZONE-WH-010-005-DOOR-01",
+    "zone_id": "ZONE-WH-010-005",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000482",
+    "sensor_id": "SNS-ZONE-WH-010-006-TEMP-01",
+    "zone_id": "ZONE-WH-010-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000483",
+    "sensor_id": "SNS-ZONE-WH-010-006-TEMP-02",
+    "zone_id": "ZONE-WH-010-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000484",
+    "sensor_id": "SNS-ZONE-WH-010-006-HUM-01",
+    "zone_id": "ZONE-WH-010-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000485",
+    "sensor_id": "SNS-ZONE-WH-010-006-OCC-01",
+    "zone_id": "ZONE-WH-010-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000486",
+    "sensor_id": "SNS-ZONE-WH-010-006-DOOR-01",
+    "zone_id": "ZONE-WH-010-006",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000487",
+    "sensor_id": "SNS-ZONE-WH-010-007-TEMP-01",
+    "zone_id": "ZONE-WH-010-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000488",
+    "sensor_id": "SNS-ZONE-WH-010-007-TEMP-02",
+    "zone_id": "ZONE-WH-010-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000489",
+    "sensor_id": "SNS-ZONE-WH-010-007-HUM-01",
+    "zone_id": "ZONE-WH-010-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000490",
+    "sensor_id": "SNS-ZONE-WH-010-007-OCC-01",
+    "zone_id": "ZONE-WH-010-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000491",
+    "sensor_id": "SNS-ZONE-WH-010-007-DOOR-01",
+    "zone_id": "ZONE-WH-010-007",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000492",
+    "sensor_id": "SNS-ZONE-WH-010-008-TEMP-01",
+    "zone_id": "ZONE-WH-010-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000493",
+    "sensor_id": "SNS-ZONE-WH-010-008-TEMP-02",
+    "zone_id": "ZONE-WH-010-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000494",
+    "sensor_id": "SNS-ZONE-WH-010-008-HUM-01",
+    "zone_id": "ZONE-WH-010-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000495",
+    "sensor_id": "SNS-ZONE-WH-010-008-OCC-01",
+    "zone_id": "ZONE-WH-010-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000496",
+    "sensor_id": "SNS-ZONE-WH-010-008-DOOR-01",
+    "zone_id": "ZONE-WH-010-008",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000497",
+    "sensor_id": "SNS-ZONE-WH-010-009-TEMP-01",
+    "zone_id": "ZONE-WH-010-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000498",
+    "sensor_id": "SNS-ZONE-WH-010-009-TEMP-02",
+    "zone_id": "ZONE-WH-010-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000499",
+    "sensor_id": "SNS-ZONE-WH-010-009-HUM-01",
+    "zone_id": "ZONE-WH-010-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000500",
+    "sensor_id": "SNS-ZONE-WH-010-009-OCC-01",
+    "zone_id": "ZONE-WH-010-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000501",
+    "sensor_id": "SNS-ZONE-WH-010-009-DOOR-01",
+    "zone_id": "ZONE-WH-010-009",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000502",
+    "sensor_id": "SNS-ZONE-WH-010-010-TEMP-01",
+    "zone_id": "ZONE-WH-010-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000503",
+    "sensor_id": "SNS-ZONE-WH-010-010-TEMP-02",
+    "zone_id": "ZONE-WH-010-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000504",
+    "sensor_id": "SNS-ZONE-WH-010-010-HUM-01",
+    "zone_id": "ZONE-WH-010-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000505",
+    "sensor_id": "SNS-ZONE-WH-010-010-OCC-01",
+    "zone_id": "ZONE-WH-010-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  },
+  {
+    "mapping_id": "SZM-2026-000506",
+    "sensor_id": "SNS-ZONE-WH-010-010-DOOR-01",
+    "zone_id": "ZONE-WH-010-010",
+    "mapping_rationale": "INITIAL_INSTALL",
+    "effective_from": "2026-05-25T02:00:00Z",
+    "effective_to": ""
+  }
+]
