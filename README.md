@@ -1,6 +1,6 @@
-# YottaFlex.ai 72-Hour Code Challenge — Warehouse Zone Telemetry & Risk Alerting Platform
+# YottaFlex.ai  — Warehouse Zone Telemetry & Risk Alerting Platform
 
-**Role:** Associate AI Forward Deployed Engineer · Round 2 Code Challenge  
+**Role:** Associate AI Forward Deployed Engineer  
 **Architecture:** Spring Boot 3 (Java 25) Backend + ReactJS 18 (Vite + Tailwind CSS) Frontend + Deterministic Python Synthetic Data Generator & Validator  
 **Fixed Seed:** `20261022`  
 
